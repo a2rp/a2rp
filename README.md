@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is "Ashish Ranjan" - ...ash - remember the name
-[Old website(http://www.ashishranjan.in/)
-[New website:(https://www.ashishranjan.net/)
+[Old website](http://www.ashishranjan.in/)
+[New website](https://www.ashishranjan.net/)
 
 <!--
 **a2rp/a2rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
