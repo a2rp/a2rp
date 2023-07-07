@@ -8,7 +8,7 @@
 
 I'm a full-stack web developer!
 - 🔭 I'm currently working on my [new website](https://www.ashishranjan.net).
-- 🌱 I'm currently learning everything.
+- 🌱 I'm currently learning everything. 😊
 - 👯 I'm looking to collaborate with other content creators.
 <!--- 🤔 I'm looking for help with ...-->
 <!--- 💬 Ask me about ...-->
