@@ -2,14 +2,14 @@
   <img src="https://github.com/a2rp/xtra/blob/main/ezgif-5-ad22de8509.gif" width="600px" height="151px" align="center" alt="Ashish Ranjan" title="Ashish Ranjan" />
 </p>
   
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ashish Ranjan 👋
+### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Ashish Ranjan.
 
 I'm a full-stack web developer, a content creator!
 - 🔭 I'm currently working on my [new website].
 - 🌱 I'm currently learning everything. 😊
 - 👯 I'm looking to collaborate with other developers and content creators.
 - 🎯 Goals: Contribute to Open Source Projects.
-- ⚡ Fun fact: I love to walk long distances.
+- ⚡ Fun fact: I have habit of walking long distances.
 
 ### Connect with me
 [<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="30px" height="30px" title="old website" />][old website]
