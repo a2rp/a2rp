@@ -1,4 +1,4 @@
-### Hi there, I'm "Ashish Ranjan" [...ash - remember the name] "[old website]" "[new website]" 👋
+### Hi there, I'm "Ashish Ranjan" 👋
 
 I'm a full-stack web developer!
 - 🔭 I'm currently working on my [new website](https://www.ashishranjan.net).
