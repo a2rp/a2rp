@@ -32,6 +32,8 @@ I'm a full-stack web developer, a content creator!
 <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" align="left" alt="javascript" title="javascript" width="30px" height="30px" />
 <img src="https://cdn.cdnlogo.com/logos/c/59/css-3.svg" align="left" alt="css" title="css" width="30px" height="30px" />
 
+<br /><br />
+
 ### 👨‍💻 Latest Work
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
