@@ -3,7 +3,7 @@
 I'm a full-stack web developer, a content creator!
 - 🔭 I'm currently working on my [new website].
 - 🌱 I'm currently learning everything. 😊
-- 👯 I'm looking to collaborate with other content creators.
+- 👯 I'm looking to collaborate with other developers and content creators.
 - 🎯 Goals: Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to walk long distances.
 
@@ -23,8 +23,9 @@ I'm a full-stack web developer, a content creator!
 [<img src="https://cdn.cdnlogo.com/logos/x/32/xampp.svg" align="left" alt="xampp" title="xampp" width="30px" height="30px" />]
 [<a href="https://cdnlogo.com/logo/react_22568.html" align="left" alt="reactjs" title="reactjs" width="30px" height="30px" />]
 [<img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" align="left" alt="nodejs" title="nodejs" width="30px" height="30px" />]
-
-
+[<img src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" align="left" alt="html" title="html" width="30px" height="30px" />]
+[<img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" align="left" alt="javascript" title="javascript" width="30px" height="30px" />]
+[<img src="https://cdn.cdnlogo.com/logos/c/59/css-3.svg" align="left" alt="css" title="css" width="30px" height="30px" />]
 
 [old website]: http://www.ashishranjan.in/
 [new website]: https://www.ashishranjan.net/
