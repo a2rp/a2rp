@@ -9,8 +9,6 @@ I'm a full-stack web developer!
 - Goals: Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to walk long distances.
 
-- <!--- 🤔 I'm looking for help with ...-->
-<!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...-->
+### Connect with me
+[<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="22px" />]
 
