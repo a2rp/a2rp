@@ -1,6 +1,6 @@
-### Hi there, I'm "Ashish Ranjan" 👋
+### Hi there, I'm Ashish Ranjan 👋
 
-I'm a full-stack web developer!
+I'm a full-stack web developer, a content creator!
 - 🔭 I'm currently working on my [new website](https://www.ashishranjan.net).
 - 🌱 I'm currently learning everything. 😊
 - 👯 I'm looking to collaborate with other content creators.
@@ -8,7 +8,7 @@ I'm a full-stack web developer!
 - ⚡ Fun fact: I love to walk long distances.
 
 ### Connect with me
-[<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="22px" />](http://www.ashishranjan.in){:target="_blank" rel="noopener"}
+[<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="22px" />][old website]
 
 
 [old website]: http://www.ashishranjan.in/
