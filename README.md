@@ -8,10 +8,17 @@ I'm a full-stack web developer, a content creator!
 - ⚡ Fun fact: I love to walk long distances.
 
 ### Connect with me
-[<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="22px" title="old website" />][old website]
-[<img src="[http://www.ashishranjan.in/image/A.png](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.js)" align="left" alt="youtube" width="22px" title="youtube" />][youtube]
-
+[<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="30px" height="30px" title="old website" />][old website]
+[<img src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" align="left" alt="youtube" width="30px" height="30px" title="youtube" />][youtube]
 
 [old website]: http://www.ashishranjan.in/
 [new website]: https://www.ashishranjan.net/
 [youtube]: https://www.youtube.com/channel/UCLHIBQeFQIxmRveVAjLvlbQ
+[linkedin]: https://www.linkedin.com/in/aashishranjan/
+[facebook]: https://www.facebook.com/theash.ashish/
+
+<br />
+
+### Languages and Tools
+- 
+
