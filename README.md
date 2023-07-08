@@ -35,7 +35,16 @@ I'm a full-stack web developer, a content creator!
 <br /><br />
 
 ### 👨‍💻 Latest Work
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs"><img width="140px" src="http://img.youtube.com/vi/vHL6NxzXAvs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs">Python vs C C++ vs Assembly side by side comparison #shorts</a><br/>Oct 27, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU"><img width="140px" src="http://img.youtube.com/vi/K-Kdh3r-7OU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU">git create repository push</a><br/>Aug 22, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7_NLLxSWx6M"><img width="140px" src="http://img.youtube.com/vi/7_NLLxSWx6M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7_NLLxSWx6M">&quot;blogs-courses&quot; firebase crud routes node</a><br/>Aug 8, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=62C-3IfHMFU"><img width="140px" src="http://img.youtube.com/vi/62C-3IfHMFU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=62C-3IfHMFU">retool firebase reactjs nodejs</a><br/>Aug 4, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lSOhrh7OcP4"><img width="140px" src="http://img.youtube.com/vi/lSOhrh7OcP4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lSOhrh7OcP4">node react search products</a><br/>Aug 2, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
