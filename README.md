@@ -1,4 +1,7 @@
-<img src="https://github.com/a2rp/xtra/blob/main/ezgif-5-ad22de8509.gif" width="600px" height="151px" alt="Ashish Ranjan" />
+<p align="center">
+  <img src="https://github.com/a2rp/xtra/blob/main/ezgif-5-ad22de8509.gif" width="600px" height="151px" align="center" alt="Ashish Ranjan" />
+</p>
+  
 ### Hi there, I'm Ashish Ranjan 👋
 
 I'm a full-stack web developer, a content creator!
