@@ -7,8 +7,6 @@ I'm a full-stack web developer, a content creator!
 - 🎯 Goals: Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to walk long distances.
 
-<br />
-
 ### Connect with me
 [<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="30px" height="30px" title="old website" />][old website]
 [<img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" align="left" alt="youtube" width="30px" height="30px" title="youtube" />][youtube]
