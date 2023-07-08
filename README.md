@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://github.com/a2rp/xtra/blob/main/ezgif-5-ad22de8509.gif" width="600px" height="151px" align="center" alt="Ashish Ranjan" />
+  <img src="https://github.com/a2rp/xtra/blob/main/ezgif-5-ad22de8509.gif" width="600px" height="151px" align="center" alt="Ashish Ranjan" title="Ashish Ranjan" />
 </p>
   
 ### Hi there, I'm Ashish Ranjan 👋
