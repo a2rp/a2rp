@@ -38,7 +38,7 @@ I'm a full-stack web developer, a content creator!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### 📺 Latest Youtube Videos
+### 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
