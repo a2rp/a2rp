@@ -34,7 +34,7 @@ I'm a full-stack web developer, a content creator!
 
 <br /><br />
 
-### 👨‍💻 Latest Work
+### 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs"><img width="140px" src="http://img.youtube.com/vi/vHL6NxzXAvs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs">Python vs C C++ vs Assembly side by side comparison #shorts</a><br/>Oct 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU"><img width="140px" src="http://img.youtube.com/vi/K-Kdh3r-7OU/maxresdefault.jpg"></a></td>
@@ -47,9 +47,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=lSOhrh7OcP4">node react search products</a><br/>Aug 2, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE-VIDEO-LIST:START -->
-<!-- YOUTUBE-VIDEO-LIST:END -->
 
 [old website]: http://www.ashishranjan.in/
 [new website]: https://www.ashishranjan.net/
