@@ -35,10 +35,6 @@ I'm a full-stack web developer, a content creator!
 <br /><br />
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-### 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs"><img width="140px" src="http://img.youtube.com/vi/vHL6NxzXAvs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs">Python vs C C++ vs Assembly side by side comparison #shorts</a><br/>Oct 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU"><img width="140px" src="http://img.youtube.com/vi/K-Kdh3r-7OU/maxresdefault.jpg"></a></td>
@@ -50,6 +46,11 @@ I'm a full-stack web developer, a content creator!
 <table><tr><td><a href="https://www.youtube.com/watch?v=lSOhrh7OcP4"><img width="140px" src="http://img.youtube.com/vi/lSOhrh7OcP4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lSOhrh7OcP4">node react search products</a><br/>Aug 2, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+
+<img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" />
 
 
 [old website]: http://www.ashishranjan.in/
