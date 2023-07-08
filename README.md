@@ -1,6 +1,4 @@
-### Hi there, I'm "Ashish Ranjan" [...ash - remember the name] 👋
-[old website]<br />
-[new website](https://www.ashishranjan.net/){:target="_blank" rel="noopener"}
+### Hi there, I'm "Ashish Ranjan" [...ash - remember the name] "[old website]" "[new website]" 👋
 
 I'm a full-stack web developer!
 - 🔭 I'm currently working on my [new website](https://www.ashishranjan.net).
@@ -13,5 +11,5 @@ I'm a full-stack web developer!
 [<img src="http://www.ashishranjan.in/image/A.png" align="left" alt="old website" width="22px" />](http://www.ashishranjan.in){:target="_blank" rel="noopener"}
 
 
-[old website]: http://www.ashishranjan.in
-
+[old website]: http://www.ashishranjan.in/
+[new website]: https://www.ashishranjan.net/
