@@ -2,7 +2,7 @@
   <img src="https://github.com/a2rp/xtra/blob/main/ezgif-5-ad22de8509.gif" width="600px" height="151px" align="center" alt="Ashish Ranjan" title="Ashish Ranjan" />
 </p>
   
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Ashish Ranjan.
+### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Ashish Ranjan.
 
 I'm a full-stack web developer, a content creator!
 - 🔭 I'm currently working on my [new website].
