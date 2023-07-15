@@ -75,11 +75,13 @@ I'm a full-stack web developer, a content creator!
 
 ---
 
-<!--img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" /-->
-
-
 [old website]: http://www.ashishranjan.in/
 [new website]: https://www.ashishranjan.net/
 [youtube]: https://www.youtube.com/channel/UCLHIBQeFQIxmRveVAjLvlbQ
 [linkedin]: https://www.linkedin.com/in/aashishranjan/
 [facebook]: https://www.facebook.com/theash.ashish/
+
+---
+
+
+<!--img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" /-->
