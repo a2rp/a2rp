@@ -56,8 +56,7 @@ I'm a full-stack web developer, a content creator!
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-<br /><br />
+---
 
 ### 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jZ-oprub1oc"><img width="140px" src="http://img.youtube.com/vi/jZ-oprub1oc/maxresdefault.jpg"></a></td>
@@ -72,6 +71,9 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU">git create repository push</a><br/>Aug 22, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<!--img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" /-->
 
 ---
 
@@ -80,8 +82,3 @@ I'm a full-stack web developer, a content creator!
 [youtube]: https://www.youtube.com/channel/UCLHIBQeFQIxmRveVAjLvlbQ
 [linkedin]: https://www.linkedin.com/in/aashishranjan/
 [facebook]: https://www.facebook.com/theash.ashish/
-
----
-
-
-<!--img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" /-->
