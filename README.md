@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jZ-oprub1oc"><img width="140px" src="http://img.youtube.com/vi/jZ-oprub1oc/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NvZnVz42UVU"><img width="140px" src="http://img.youtube.com/vi/NvZnVz42UVU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NvZnVz42UVU">reactjs div content to pdf</a><br/>Jul 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jZ-oprub1oc"><img width="140px" src="http://img.youtube.com/vi/jZ-oprub1oc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jZ-oprub1oc">reactjs notes</a><br/>Jul 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IeM4s6o0-H4"><img width="140px" src="http://img.youtube.com/vi/IeM4s6o0-H4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IeM4s6o0-H4">html canvas rain</a><br/>Jul 9, 2023</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=YvJdIpM3bTc">next js mongodb crud</a><br/>Jul 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs"><img width="140px" src="http://img.youtube.com/vi/vHL6NxzXAvs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHL6NxzXAvs">Python vs C C++ vs Assembly side by side comparison #shorts</a><br/>Oct 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU"><img width="140px" src="http://img.youtube.com/vi/K-Kdh3r-7OU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=K-Kdh3r-7OU">git create repository push</a><br/>Aug 22, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
