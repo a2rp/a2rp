@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XsQZrCMPFZ8"><img width="140px" src="http://img.youtube.com/vi/XsQZrCMPFZ8/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QZP4qL_fsB4"><img width="140px" src="http://img.youtube.com/vi/QZP4qL_fsB4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QZP4qL_fsB4">laravel mysql crud</a><br/>Jul 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XsQZrCMPFZ8"><img width="140px" src="http://img.youtube.com/vi/XsQZrCMPFZ8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XsQZrCMPFZ8">node postgres crud</a><br/>Jul 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qOucHaZYFPw"><img width="140px" src="http://img.youtube.com/vi/qOucHaZYFPw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qOucHaZYFPw">MERN stack authorization - full stack application</a><br/>Jul 23, 2023</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=bMNuKDAjn1Y">javascript random number guess x264</a><br/>Jul 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Nqegn8_1pR0"><img width="140px" src="http://img.youtube.com/vi/Nqegn8_1pR0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nqegn8_1pR0">quiz game</a><br/>Jul 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=S4MR5gJtqXY"><img width="140px" src="http://img.youtube.com/vi/S4MR5gJtqXY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S4MR5gJtqXY">a2rp24 keyboard piano - https://github.com/a2rp/a2rp24-keyboard_piano_AToZ</a><br/>Jul 22, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
