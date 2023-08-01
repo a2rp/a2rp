@@ -73,7 +73,7 @@ I'm a full-stack web developer, a content creator!
 
 ---
 
-<!--img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" /-->
+<img align="left" alt="a2rp github stats" title="a2rp github stats" src="https://github-readme-stats.vercel.app/api?username=a2rp&show_icons=true&hide_border=true" />
 
 ---
 
