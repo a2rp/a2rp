@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=szEnzGmymrI"><img width="140px" src="http://img.youtube.com/vi/szEnzGmymrI/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nof2dg0durw"><img width="140px" src="http://img.youtube.com/vi/nof2dg0durw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nof2dg0durw">button ripple effect html css javascript</a><br/>Aug 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=szEnzGmymrI"><img width="140px" src="http://img.youtube.com/vi/szEnzGmymrI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=szEnzGmymrI">analog clock html css javascript</a><br/>Aug 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7JhSzO6G71s"><img width="140px" src="http://img.youtube.com/vi/7JhSzO6G71s/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7JhSzO6G71s">9 August 2023</a><br/>Aug 9, 2023</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=I10yQKe7Bak">digital clock html css javascript</a><br/>Aug 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AMbfG_9ZdIM"><img width="140px" src="http://img.youtube.com/vi/AMbfG_9ZdIM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AMbfG_9ZdIM">laravel mysql crud with authentication</a><br/>Jul 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eJh-uyaaFVg"><img width="140px" src="http://img.youtube.com/vi/eJh-uyaaFVg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eJh-uyaaFVg">laravel mysql crud app</a><br/>Jul 27, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
