@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2GJTgOsZwMo"><img width="140px" src="http://img.youtube.com/vi/2GJTgOsZwMo/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fKT_O5gKMLE"><img width="140px" src="http://img.youtube.com/vi/fKT_O5gKMLE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fKT_O5gKMLE">modal html css javascript</a><br/>Aug 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2GJTgOsZwMo"><img width="140px" src="http://img.youtube.com/vi/2GJTgOsZwMo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2GJTgOsZwMo">video app html css javascript Segment 0 x264</a><br/>Aug 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4fXIcMVFE3Q"><img width="140px" src="http://img.youtube.com/vi/4fXIcMVFE3Q/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4fXIcMVFE3Q">mouse trailer html css javascript</a><br/>Aug 10, 2023</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=xzd7e1OoekQ">random color generator html css javascript</a><br/>Aug 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EzAEBvb1f8Y"><img width="140px" src="http://img.youtube.com/vi/EzAEBvb1f8Y/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EzAEBvb1f8Y">sticky navbar html css javascript</a><br/>Aug 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=orp_rEunL6E"><img width="140px" src="http://img.youtube.com/vi/orp_rEunL6E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=orp_rEunL6E">real time character counter</a><br/>Aug 9, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
