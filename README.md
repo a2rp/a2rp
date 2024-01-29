@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3duo9PeyQ-A"><img width="140px" src="http://img.youtube.com/vi/3duo9PeyQ-A/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TXwDR-EbHpE"><img width="140px" src="http://img.youtube.com/vi/TXwDR-EbHpE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TXwDR-EbHpE">MERN [MongoDB, Express.js, React.js, Node.js] event management</a><br/>Jan 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3duo9PeyQ-A"><img width="140px" src="http://img.youtube.com/vi/3duo9PeyQ-A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3duo9PeyQ-A">MERN [MongoDB, Express.js, React.js, Node.js] Stack - Hospital Management System</a><br/>Jan 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0sqLVlIx37k"><img width="140px" src="http://img.youtube.com/vi/0sqLVlIx37k/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0sqLVlIx37k">react springboot mysql crud app</a><br/>Aug 15, 2023</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=sve9JQoqNic">random images html css javascript</a><br/>Aug 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_mTwpk12zTE"><img width="140px" src="http://img.youtube.com/vi/_mTwpk12zTE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_mTwpk12zTE">parallax effect html css</a><br/>Aug 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fKT_O5gKMLE"><img width="140px" src="http://img.youtube.com/vi/fKT_O5gKMLE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fKT_O5gKMLE">modal html css javascript</a><br/>Aug 10, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
