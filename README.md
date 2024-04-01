@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lcbWR49jKfg"><img width="140px" src="http://img.youtube.com/vi/lcbWR49jKfg/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yXQBdy9pCig"><img width="140px" src="http://img.youtube.com/vi/yXQBdy9pCig/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yXQBdy9pCig">password generator</a><br/>Apr 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lcbWR49jKfg"><img width="140px" src="http://img.youtube.com/vi/lcbWR49jKfg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lcbWR49jKfg">private ride booking</a><br/>Feb 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=C0my4mqgZDA"><img width="140px" src="http://img.youtube.com/vi/C0my4mqgZDA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C0my4mqgZDA">react js firebase auth</a><br/>Feb 19, 2024</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=EDd0rvWZ3GI">react.js firebase crud</a><br/>Feb 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z3YIzrpUoV4"><img width="140px" src="http://img.youtube.com/vi/Z3YIzrpUoV4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z3YIzrpUoV4">car booking</a><br/>Feb 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nyXx-SP76Oo"><img width="140px" src="http://img.youtube.com/vi/nyXx-SP76Oo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nyXx-SP76Oo">react spring boot crud app</a><br/>Jan 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
