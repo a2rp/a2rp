@@ -59,7 +59,9 @@ I'm a full-stack web developer, a content creator!
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Vx78h5ZkY0s"><img width="140px" src="http://img.youtube.com/vi/Vx78h5ZkY0s/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nyTASfFqm8M"><img width="140px" src="http://img.youtube.com/vi/nyTASfFqm8M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nyTASfFqm8M">magic coding magic coffee</a><br/>Jul 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Vx78h5ZkY0s"><img width="140px" src="http://img.youtube.com/vi/Vx78h5ZkY0s/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Vx78h5ZkY0s">AI Legal Document QnA Tool using ReactJS + FastAPI + HuggingFace | Full-Stack AI Project Demo</a><br/>Jul 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4gGK8xtPF38"><img width="140px" src="http://img.youtube.com/vi/4gGK8xtPF38/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4gGK8xtPF38">future into creation robot</a><br/>Apr 8, 2024</td></tr></table>
@@ -67,8 +69,6 @@ I'm a full-stack web developer, a content creator!
 <td><a href="https://www.youtube.com/watch?v=yXQBdy9pCig">password generator</a><br/>Apr 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lcbWR49jKfg"><img width="140px" src="http://img.youtube.com/vi/lcbWR49jKfg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lcbWR49jKfg">private ride booking</a><br/>Feb 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C0my4mqgZDA"><img width="140px" src="http://img.youtube.com/vi/C0my4mqgZDA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C0my4mqgZDA">react js firebase auth</a><br/>Feb 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
