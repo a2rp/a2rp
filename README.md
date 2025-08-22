@@ -28,3 +28,7 @@ Email: ash.ranjan09@gmail.com
 ### Open To
 Full-time/contract roles: **MERN / React**.  
 Let's build something solid. 🚀
+
+### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
