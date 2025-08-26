@@ -35,7 +35,5 @@ Let's build something solid. 🚀
 
 <!-- YOUTUBE:START -->
 <!-- Do not edit this section manually. It will be automatically replaced. -->
-- [Loading latest videos…]([https://youtube.com/@a2rp](https://www.youtube.com/@ashishranjan-ashz))
-<!-- YOUTUBE:END -->
-
+- [https://www.youtube.com/@ashishranjan-ashz](https://www.youtube.com/@ashishranjan-ashz)
 <!-- YOUTUBE:END -->
