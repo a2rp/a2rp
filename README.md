@@ -32,5 +32,8 @@ Let's build something solid. 🚀
 ### Latest YouTube Videos
 - [https://www.youtube.com/@ashishranjan-ashz](https://www.youtube.com/@ashishranjan-ashz)
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START -->- <a href="https://www.youtube.com/watch?v=-aXu0pWO2QQ"><img width="240" align="left" src="https://img.youtube.com/vi/-aXu0pWO2QQ/hqdefault.jpg"></a><br/><a href="https://www.youtube.com/watch?v=-aXu0pWO2QQ">ai agent working</a><br/><sub>Aug 25, 2025</sub><br clear="left" />
+- <a href="https://www.youtube.com/watch?v=N7lIMPjeIFc"><img width="240" align="left" src="https://img.youtube.com/vi/N7lIMPjeIFc/hqdefault.jpg"></a><br/><a href="https://www.youtube.com/watch?v=N7lIMPjeIFc">cute baby monkey taking a bite and jumping</a><br/><sub>Aug 21, 2025</sub><br clear="left" />
+- <a href="https://www.youtube.com/watch?v=PsD9-nJtSyI"><img width="240" align="left" src="https://img.youtube.com/vi/PsD9-nJtSyI/hqdefault.jpg"></a><br/><a href="https://www.youtube.com/watch?v=PsD9-nJtSyI">cute baby monkey taking a bite</a><br/><sub>Aug 21, 2025</sub><br clear="left" />
+- <a href="https://www.youtube.com/watch?v=sVWIX-Anb0w"><img width="240" align="left" src="https://img.youtube.com/vi/sVWIX-Anb0w/hqdefault.jpg"></a><br/><a href="https://www.youtube.com/watch?v=sVWIX-Anb0w">cute monkey baby eating mango</a><br/><sub>Aug 21, 2025</sub><br clear="left" />
 <!-- YOUTUBE:END -->
