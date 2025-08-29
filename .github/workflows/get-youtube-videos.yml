@@ -2,7 +2,7 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    - cron: "2-59/5 * * * *"
+    - cron: "2-59/5 * * * *"   # every 5 min (02,07,12,...) - reliable
   workflow_dispatch:
 
 permissions:
@@ -23,11 +23,11 @@ jobs:
       - name: Update README with latest YouTube videos
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "YOUTUBE"             # matches README markers
-          readme_path: "README.md"
+          comment_tag_name: "YOUTUBE"             # must match README markers
+          readme_path: "README.md"                # filename correct?
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLHIBQeFQIxmRveVAjLvlbQ"
-          max_post_count: "6"
+          max_post_count: "4"                     # <-- latest 4
           date_format: "mmm d, yyyy"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          # maxresdefault is not guaranteed; hqdefault is reliable + https
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://img.youtube.com/vi/$videoId/hqdefault.jpg"></a></td><td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          # Reliable thumbnail + clickable image + title on next line
+          template: '- <a href="$url"><img width="240" align="left" src="https://img.youtube.com/vi/$videoId/hqdefault.jpg"></a><br/><a href="$url">$title</a><br/><sub>$date</sub><br clear="left" />$newline'
