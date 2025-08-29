@@ -30,10 +30,7 @@ Full-time/contract roles: **MERN / React**.
 Let's build something solid. 🚀
 
 ### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
 <!-- Do not edit this section manually. It will be automatically replaced. -->
+<!-- YOUTUBE:START -->
 - [https://www.youtube.com/@ashishranjan-ashz](https://www.youtube.com/@ashishranjan-ashz)
 <!-- YOUTUBE:END -->
