@@ -1,22 +1,33 @@
 name: Latest YouTube Videos
+
 on:
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: "2-59/5 * * * *"
   workflow_dispatch:
+
 permissions:
-      contents: write
+  contents: write
+
+concurrency:
+  group: youtube-feed
+  cancel-in-progress: true
 
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README with latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          comment_tag_name: "YOUTUBE"             # matches README markers
+          readme_path: "README.md"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLHIBQeFQIxmRveVAjLvlbQ"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          max_post_count: "6"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-#           committer_email: "alwinjohn231@gmail.com"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          # maxresdefault is not guaranteed; hqdefault is reliable + https
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://img.youtube.com/vi/$videoId/hqdefault.jpg"></a></td><td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
