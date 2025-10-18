@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Rose Flow - JavaScript animation](https://ytcards.demolab.com/?id=oL9fU-eDxAs&title=Rose+Flow+-+JavaScript+animation&lang=en&timestamp=1760786680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Rose Flow - JavaScript animation")](https://www.youtube.com/watch?v=oL9fU-eDxAs)
 [![Lissajous Neon Flow — JavaScript Canvas #shorts](https://ytcards.demolab.com/?id=XIARl6_CEuY&title=Lissajous+Neon+Flow+%E2%80%94+JavaScript+Canvas+%23shorts&lang=en&timestamp=1760748325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Lissajous Neon Flow — JavaScript Canvas #shorts")](https://www.youtube.com/watch?v=XIARl6_CEuY)
 [![MazePilot v1: React + Canvas AI Autopilot (Maze Generator + Solver) |](https://ytcards.demolab.com/?id=LS3cquWIOag&title=MazePilot+v1%3A+React+%2B+Canvas+AI+Autopilot+%28Maze+Generator+%2B+Solver%29+%7C&lang=en&timestamp=1757677448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "MazePilot v1: React + Canvas AI Autopilot (Maze Generator + Solver) |")](https://www.youtube.com/watch?v=LS3cquWIOag)
 [![ai agent working](https://ytcards.demolab.com/?id=-aXu0pWO2QQ&title=ai+agent+working&lang=en&timestamp=1756156216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "ai agent working")](https://www.youtube.com/watch?v=-aXu0pWO2QQ)
-[![cute baby monkey taking a bite and jumping](https://ytcards.demolab.com/?id=N7lIMPjeIFc&title=cute+baby+monkey+taking+a+bite+and+jumping&lang=en&timestamp=1755805635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "cute baby monkey taking a bite and jumping")](https://www.youtube.com/watch?v=N7lIMPjeIFc)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
