@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Moving Ball - HTML, CSS, JavaScript #coding #programming #javascript #code - code in comment](https://ytcards.demolab.com/?id=I2bzJt_Q1L8&title=Moving+Ball+-+HTML%2C+CSS%2C+JavaScript+%23coding+%23programming+%23javascript+%23code+-+code+in+comment&lang=en&timestamp=1760898295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Moving Ball - HTML, CSS, JavaScript #coding #programming #javascript #code - code in comment")](https://www.youtube.com/shorts/I2bzJt_Q1L8)
 [![19 October 2025](https://ytcards.demolab.com/?id=Lo3yRZuTStc&title=19+October+2025&lang=en&timestamp=1760889606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "19 October 2025")](https://www.youtube.com/shorts/Lo3yRZuTStc)
 [![Kankhajura Mix | Procedural Centipede Walk in JavaScript Canvas](https://ytcards.demolab.com/?id=6cQvxG0Frwc&title=Kankhajura+Mix+%7C+Procedural+Centipede+Walk+in+JavaScript+Canvas&lang=en&timestamp=1760833378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Kankhajura Mix | Procedural Centipede Walk in JavaScript Canvas")](https://www.youtube.com/watch?v=6cQvxG0Frwc)
 [![3D Rubik’s Cube (Three.js) — Scramble & Auto-Solve, Animated](https://ytcards.demolab.com/?id=7au5QF71t0c&title=3D+Rubik%E2%80%99s+Cube+%28Three.js%29+%E2%80%94+Scramble+%26+Auto-Solve%2C+Animated&lang=en&timestamp=1760816786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "3D Rubik’s Cube (Three.js) — Scramble & Auto-Solve, Animated")](https://www.youtube.com/watch?v=7au5QF71t0c)
-[![Rose Flow - JavaScript animation](https://ytcards.demolab.com/?id=oL9fU-eDxAs&title=Rose+Flow+-+JavaScript+animation&lang=en&timestamp=1760786680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Rose Flow - JavaScript animation")](https://www.youtube.com/watch?v=oL9fU-eDxAs)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
