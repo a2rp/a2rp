@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![19 October 2025](https://ytcards.demolab.com/?id=Lo3yRZuTStc&title=19+October+2025&lang=en&timestamp=1760889606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "19 October 2025")](https://www.youtube.com/shorts/Lo3yRZuTStc)
 [![Kankhajura Mix | Procedural Centipede Walk in JavaScript Canvas](https://ytcards.demolab.com/?id=6cQvxG0Frwc&title=Kankhajura+Mix+%7C+Procedural+Centipede+Walk+in+JavaScript+Canvas&lang=en&timestamp=1760833378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Kankhajura Mix | Procedural Centipede Walk in JavaScript Canvas")](https://www.youtube.com/watch?v=6cQvxG0Frwc)
 [![3D Rubik’s Cube (Three.js) — Scramble & Auto-Solve, Animated](https://ytcards.demolab.com/?id=7au5QF71t0c&title=3D+Rubik%E2%80%99s+Cube+%28Three.js%29+%E2%80%94+Scramble+%26+Auto-Solve%2C+Animated&lang=en&timestamp=1760816786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "3D Rubik’s Cube (Three.js) — Scramble & Auto-Solve, Animated")](https://www.youtube.com/watch?v=7au5QF71t0c)
 [![Rose Flow - JavaScript animation](https://ytcards.demolab.com/?id=oL9fU-eDxAs&title=Rose+Flow+-+JavaScript+animation&lang=en&timestamp=1760786680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Rose Flow - JavaScript animation")](https://www.youtube.com/watch?v=oL9fU-eDxAs)
-[![Lissajous Neon Flow — JavaScript Canvas #shorts](https://ytcards.demolab.com/?id=XIARl6_CEuY&title=Lissajous+Neon+Flow+%E2%80%94+JavaScript+Canvas+%23shorts&lang=en&timestamp=1760748325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Lissajous Neon Flow — JavaScript Canvas #shorts")](https://www.youtube.com/watch?v=XIARl6_CEuY)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
