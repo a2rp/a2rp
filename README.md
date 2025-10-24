@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Count Occurrences in JavaScript | Junior vs Senior](https://ytcards.demolab.com/?id=giNj-VJZakA&title=Count+Occurrences+in+JavaScript+%7C+Junior+vs+Senior&lang=en&timestamp=1761291208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Count Occurrences in JavaScript | Junior vs Senior")](https://www.youtube.com/shorts/giNj-VJZakA)
 [![Sum of Array in JavaScript | Junior vs Senior](https://ytcards.demolab.com/?id=_mIWEpaUC48&title=Sum+of+Array+in+JavaScript+%7C+Junior+vs+Senior&lang=en&timestamp=1761290743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Sum of Array in JavaScript | Junior vs Senior")](https://www.youtube.com/shorts/_mIWEpaUC48)
 [![Max of Array in JavaScript | Junior vs Senior](https://ytcards.demolab.com/?id=cK2xTfiwJ3M&title=Max+of+Array+in+JavaScript+%7C+Junior+vs+Senior&lang=en&timestamp=1761289486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Max of Array in JavaScript | Junior vs Senior")](https://www.youtube.com/shorts/cK2xTfiwJ3M)
 [![Array Sorted Check in JavaScript | Junior vs Senior](https://ytcards.demolab.com/?id=dWmhzIbK6yA&title=Array+Sorted+Check+in+JavaScript+%7C+Junior+vs+Senior&lang=en&timestamp=1761289175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Array Sorted Check in JavaScript | Junior vs Senior")](https://www.youtube.com/shorts/dWmhzIbK6yA)
-[![Rotate Matrix 90 Degrees in JavaScript | Junior vs Senior (New Array vs In Place)](https://ytcards.demolab.com/?id=-t5L9jsd4bc&title=Rotate+Matrix+90+Degrees+in+JavaScript+%7C+Junior+vs+Senior+%28New+Array+vs+In+Place%29&lang=en&timestamp=1761288192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Rotate Matrix 90 Degrees in JavaScript | Junior vs Senior (New Array vs In Place)")](https://www.youtube.com/shorts/-t5L9jsd4bc)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
