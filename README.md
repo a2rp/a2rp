@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Junior vs Senior JS — Take Last N Elements](https://ytcards.demolab.com/?id=24kF2uIXgQM&title=Junior+vs+Senior+JS+%E2%80%94+Take+Last+N+Elements&lang=en&timestamp=1761579900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Junior vs Senior JS — Take Last N Elements")](https://www.youtube.com/shorts/24kF2uIXgQM)
 [![Junior vs Senior JS — Drop First N Elements](https://ytcards.demolab.com/?id=_p2jHLx1G_w&title=Junior+vs+Senior+JS+%E2%80%94+Drop+First+N+Elements&lang=en&timestamp=1761569112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Junior vs Senior JS — Drop First N Elements")](https://www.youtube.com/shorts/_p2jHLx1G_w)
 [![Junior vs Senior JS — Take First N Elements](https://ytcards.demolab.com/?id=a65aeQnWso0&title=Junior+vs+Senior+JS+%E2%80%94+Take+First+N+Elements&lang=en&timestamp=1761543900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Junior vs Senior JS — Take First N Elements")](https://www.youtube.com/shorts/a65aeQnWso0)
 [![Junior vs Senior JS — Pad Number with Zeros](https://ytcards.demolab.com/?id=40fdG-tRK1k&title=Junior+vs+Senior+JS+%E2%80%94+Pad+Number+with+Zeros&lang=en&timestamp=1761415248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Junior vs Senior JS — Pad Number with Zeros")](https://www.youtube.com/shorts/40fdG-tRK1k)
-[![Junior vs Senior JS — Clamp Number to Range](https://ytcards.demolab.com/?id=ax6NI6_wWsA&title=Junior+vs+Senior+JS+%E2%80%94+Clamp+Number+to+Range&lang=en&timestamp=1761414825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Junior vs Senior JS — Clamp Number to Range")](https://www.youtube.com/shorts/ax6NI6_wWsA)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
