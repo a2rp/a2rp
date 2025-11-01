@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Superformula Morph Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=39-nqu4reW0&title=Superformula+Morph+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762002329&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Superformula Morph Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/39-nqu4reW0)
 [![Gyroid Curl Flow Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=C8Su4qdwVOw&title=Gyroid+Curl+Flow+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762000122&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Gyroid Curl Flow Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/C8Su4qdwVOw)
 [![Maurer Rose Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=jRAYSIiCm4s&title=Maurer+Rose+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761999045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Maurer Rose Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/jRAYSIiCm4s)
 [![Kaleidoscopic Tile Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=4Bc3doIea08&title=Kaleidoscopic+Tile+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761991154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Kaleidoscopic Tile Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/4Bc3doIea08)
-[![Superformula Morphing Rosette | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=ADIout73_Tc&title=Superformula+Morphing+Rosette+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761990299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Superformula Morphing Rosette | JavaScript Canvas Animation")](https://www.youtube.com/shorts/ADIout73_Tc)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
