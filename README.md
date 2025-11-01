@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Kaleidoscopic Tile Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=4Bc3doIea08&title=Kaleidoscopic+Tile+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761991154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Kaleidoscopic Tile Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/4Bc3doIea08)
 [![Superformula Morphing Rosette | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=ADIout73_Tc&title=Superformula+Morphing+Rosette+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761990299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Superformula Morphing Rosette | JavaScript Canvas Animation")](https://www.youtube.com/shorts/ADIout73_Tc)
 [![Phyllotaxis Bloom Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=0xOuot2iCd0&title=Phyllotaxis+Bloom+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761989658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Phyllotaxis Bloom Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/0xOuot2iCd0)
 [![Pulsing Rings Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=t5Ct8N-QStU&title=Pulsing+Rings+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761988025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Pulsing Rings Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/t5Ct8N-QStU)
-[![Starfield Warp Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=CVgk2HzFgo4&title=Starfield+Warp+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761987453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Starfield Warp Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/CVgk2HzFgo4)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
