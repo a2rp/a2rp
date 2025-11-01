@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Pulsing Rings Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=t5Ct8N-QStU&title=Pulsing+Rings+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761988025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Pulsing Rings Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/t5Ct8N-QStU)
 [![Starfield Warp Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=CVgk2HzFgo4&title=Starfield+Warp+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761987453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Starfield Warp Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/CVgk2HzFgo4)
 [![Rotating Squares Grid Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=nLKn424Ne2Q&title=Rotating+Squares+Grid+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761986830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Rotating Squares Grid Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/nLKn424Ne2Q)
 [![Lissajous Ribbon Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=GxbHD6rAZeE&title=Lissajous+Ribbon+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1761986314&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Lissajous Ribbon Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/GxbHD6rAZeE)
-[![Neon Spiral Mix | JavaScript Canvas Art Animation](https://ytcards.demolab.com/?id=QLU2nOpPR-8&title=Neon+Spiral+Mix+%7C+JavaScript+Canvas+Art+Animation&lang=en&timestamp=1761985569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Neon Spiral Mix | JavaScript Canvas Art Animation")](https://www.youtube.com/shorts/QLU2nOpPR-8)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
