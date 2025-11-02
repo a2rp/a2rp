@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Complement — A′ (Not A) | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=HEo65cztyC0&title=Complement+%E2%80%94+A%E2%80%B2+%28Not+A%29+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762115698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Complement — A′ (Not A) | JavaScript Canvas Animation")](https://www.youtube.com/shorts/HEo65cztyC0)
 [![Symmetric Difference — A Δ B | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=WoWjlKTS84A&title=Symmetric+Difference+%E2%80%94+A+%CE%94+B+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762115184&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Symmetric Difference — A Δ B | JavaScript Canvas Animation")](https://www.youtube.com/shorts/WoWjlKTS84A)
 [![Difference Mix — B − A | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=zcnSrexLZsQ&title=Difference+Mix+%E2%80%94+B+%E2%88%92+A+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762114782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Difference Mix — B − A | JavaScript Canvas Animation")](https://www.youtube.com/shorts/zcnSrexLZsQ)
 [![Difference Mix — A − B | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=t0cyY-QVxcQ&title=Difference+Mix+%E2%80%94+A+%E2%88%92+B+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762114318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Difference Mix — A − B | JavaScript Canvas Animation")](https://www.youtube.com/shorts/t0cyY-QVxcQ)
-[![Union Mix — A ∪ B | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=b8BnP2YelU4&title=Union+Mix+%E2%80%94+A+%E2%88%AA+B+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762112936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Union Mix — A ∪ B | JavaScript Canvas Animation")](https://www.youtube.com/shorts/b8BnP2YelU4)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
