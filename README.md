@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Union Mix — A ∪ B | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=b8BnP2YelU4&title=Union+Mix+%E2%80%94+A+%E2%88%AA+B+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762112936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Union Mix — A ∪ B | JavaScript Canvas Animation")](https://www.youtube.com/shorts/b8BnP2YelU4)
 [![Venn Intersection | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=4BUz2XJFGYs&title=Venn+Intersection+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762106643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Venn Intersection | JavaScript Canvas Animation")](https://www.youtube.com/shorts/4BUz2XJFGYs)
 [![Tesseract Aurora | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=9n-RC0-5oXs&title=Tesseract+Aurora+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762021897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Tesseract Aurora | JavaScript Canvas Animation")](https://www.youtube.com/shorts/9n-RC0-5oXs)
 [![Aurora Knot Mix | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=GOZqkk2kIHw&title=Aurora+Knot+Mix+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762020211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Aurora Knot Mix | JavaScript Canvas Animation")](https://www.youtube.com/shorts/GOZqkk2kIHw)
-[![Batman Mix | JavaScript Canvas on Graph Paper](https://ytcards.demolab.com/?id=EO2uO5fOjbg&title=Batman+Mix+%7C+JavaScript+Canvas+on+Graph+Paper&lang=en&timestamp=1762017338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Batman Mix | JavaScript Canvas on Graph Paper")](https://www.youtube.com/shorts/EO2uO5fOjbg)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
