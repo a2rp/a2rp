@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Recursive Tri-Bloom — Fractal Triangle Garden | JavaScript Canvas Animation](https://ytcards.demolab.com/?id=9g7trOlImcY&title=Recursive+Tri-Bloom+%E2%80%94+Fractal+Triangle+Garden+%7C+JavaScript+Canvas+Animation&lang=en&timestamp=1762242760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Recursive Tri-Bloom — Fractal Triangle Garden | JavaScript Canvas Animation")](https://www.youtube.com/shorts/9g7trOlImcY)
 [![Satisfying Orbital Particle Trails — JavaScript Canvas Animation](https://ytcards.demolab.com/?id=H2rhJtnCsJo&title=Satisfying+Orbital+Particle+Trails+%E2%80%94+JavaScript+Canvas+Animation&lang=en&timestamp=1762196940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Satisfying Orbital Particle Trails — JavaScript Canvas Animation")](https://www.youtube.com/shorts/H2rhJtnCsJo)
 [![Hypnotic Sine Wave Dance | JavaScript Canvas Glow #Shorts](https://ytcards.demolab.com/?id=4BD8kC-nxvc&title=Hypnotic+Sine+Wave+Dance+%7C+JavaScript+Canvas+Glow+%23Shorts&lang=en&timestamp=1762194085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Hypnotic Sine Wave Dance | JavaScript Canvas Glow #Shorts")](https://www.youtube.com/shorts/4BD8kC-nxvc)
 [![Magnetic Field Lines — Curl Flow | JavaScript Canvas #Shorts](https://ytcards.demolab.com/?id=_l5nfR5s86Y&title=Magnetic+Field+Lines+%E2%80%94+Curl+Flow+%7C+JavaScript+Canvas+%23Shorts&lang=en&timestamp=1762192499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Magnetic Field Lines — Curl Flow | JavaScript Canvas #Shorts")](https://www.youtube.com/shorts/_l5nfR5s86Y)
-[![Voronoi Flow — Neon Cells | JavaScript Canvas #Shorts](https://ytcards.demolab.com/?id=giSb5Wr6atM&title=Voronoi+Flow+%E2%80%94+Neon+Cells+%7C+JavaScript+Canvas+%23Shorts&lang=en&timestamp=1762192006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Voronoi Flow — Neon Cells | JavaScript Canvas #Shorts")](https://www.youtube.com/shorts/giSb5Wr6atM)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
