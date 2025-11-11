@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Ashish Ranjan Live Stream](https://ytcards.demolab.com/?id=aZi_y-mQpn4&title=Ashish+Ranjan+Live+Stream&lang=en&timestamp=1762864454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Ashish Ranjan Live Stream")](https://www.youtube.com/watch?v=aZi_y-mQpn4)
+[![Ashish Ranjan Live Stream](https://ytcards.demolab.com/?id=XjplLcfmcaQ&title=Ashish+Ranjan+Live+Stream&lang=en&timestamp=1762862186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Ashish Ranjan Live Stream")](https://www.youtube.com/watch?v=XjplLcfmcaQ)
 [![Stick Figure Dance | Clean Animation with Beat-Synced Lights](https://ytcards.demolab.com/?id=9C0p8G9JmHo&title=Stick+Figure+Dance+%7C+Clean+Animation+with+Beat-Synced+Lights&lang=en&timestamp=1762788609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Stick Figure Dance | Clean Animation with Beat-Synced Lights")](https://www.youtube.com/shorts/9C0p8G9JmHo)
 [![Stick Figure ⚡ Lathi Fury (WHOOSH → DHA-RAM!)](https://ytcards.demolab.com/?id=0nfD5Vq1OXQ&title=Stick+Figure+%E2%9A%A1+Lathi+Fury+%28WHOOSH+%E2%86%92+DHA-RAM%21%29&lang=en&timestamp=1762777803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Stick Figure ⚡ Lathi Fury (WHOOSH → DHA-RAM!)")](https://www.youtube.com/shorts/0nfD5Vq1OXQ)
-[![Ashish Ranjan Live Stream](https://ytcards.demolab.com/?id=lIiO6nIht5k&title=Ashish+Ranjan+Live+Stream&lang=en&timestamp=1762765998&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Ashish Ranjan Live Stream")](https://www.youtube.com/watch?v=lIiO6nIht5k)
-[![JavaScript QnA & Programs | Core JS Concepts Explained with Live Examples](https://ytcards.demolab.com/?id=ZTHqkuco8qw&title=JavaScript+QnA+%26+Programs+%7C+Core+JS+Concepts+Explained+with+Live+Examples&lang=en&timestamp=1762717251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "JavaScript QnA & Programs | Core JS Concepts Explained with Live Examples")](https://www.youtube.com/watch?v=ZTHqkuco8qw)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
