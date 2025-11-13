@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Big-Ω (Big Omega) in 60 Seconds – Lower Bound Explained](https://ytcards.demolab.com/?id=3wlMC5nSPSk&title=Big-%CE%A9+%28Big+Omega%29+in+60+Seconds+%E2%80%93+Lower+Bound+Explained&lang=en&timestamp=1763061893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Big-Ω (Big Omega) in 60 Seconds – Lower Bound Explained")](https://www.youtube.com/shorts/3wlMC5nSPSk)
 [![Big-O Notation Explained in 60 Seconds (DSA F08)](https://ytcards.demolab.com/?id=kXO1H0QUqZ0&title=Big-O+Notation+Explained+in+60+Seconds+%28DSA+F08%29&lang=en&timestamp=1763060948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Big-O Notation Explained in 60 Seconds (DSA F08)")](https://www.youtube.com/shorts/kXO1H0QUqZ0)
 [![Space Complexity Explained in 60 Seconds (DSA Basics)](https://ytcards.demolab.com/?id=3FyOhkvbFpo&title=Space+Complexity+Explained+in+60+Seconds+%28DSA+Basics%29&lang=en&timestamp=1763060396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Space Complexity Explained in 60 Seconds (DSA Basics)")](https://www.youtube.com/shorts/3FyOhkvbFpo)
 [![Time Complexity Explained in 60 Seconds (DSA Quick Revision)](https://ytcards.demolab.com/?id=51oDebfuCn4&title=Time+Complexity+Explained+in+60+Seconds+%28DSA+Quick+Revision%29&lang=en&timestamp=1763059980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Time Complexity Explained in 60 Seconds (DSA Quick Revision)")](https://www.youtube.com/shorts/51oDebfuCn4)
-[![Linear vs Non-Linear Data Structures (DSA in 60 Seconds)](https://ytcards.demolab.com/?id=TTzEUc_mo_Y&title=Linear+vs+Non-Linear+Data+Structures+%28DSA+in+60+Seconds%29&lang=en&timestamp=1763059459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Linear vs Non-Linear Data Structures (DSA in 60 Seconds)")](https://www.youtube.com/shorts/TTzEUc_mo_Y)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
