@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![SI Units in One Screen | Physics Cheat Sheet](https://ytcards.demolab.com/?id=NkVxJYRA0ok&title=SI+Units+in+One+Screen+%7C+Physics+Cheat+Sheet&lang=en&timestamp=1763128739&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "SI Units in One Screen | Physics Cheat Sheet")](https://www.youtube.com/shorts/NkVxJYRA0ok)
 [![Length Conversions Cheat Sheet | Inches to CM in 30 Seconds](https://ytcards.demolab.com/?id=fvt4q1bGf6o&title=Length+Conversions+Cheat+Sheet+%7C+Inches+to+CM+in+30+Seconds&lang=en&timestamp=1763127545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Length Conversions Cheat Sheet | Inches to CM in 30 Seconds")](https://www.youtube.com/shorts/fvt4q1bGf6o)
 [![Multiply Any Number by 5 Instantly! 🤯 | Super Fast Math Trick](https://ytcards.demolab.com/?id=Ypy65mRQlo8&title=Multiply+Any+Number+by+5+Instantly%21+%F0%9F%A4%AF+%7C+Super+Fast+Math+Trick&lang=en&timestamp=1763118833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Multiply Any Number by 5 Instantly! 🤯 | Super Fast Math Trick")](https://www.youtube.com/shorts/Ypy65mRQlo8)
 [![Find 10% and 5% in 2 Seconds! 🤯 | Easy Percentage Trick](https://ytcards.demolab.com/?id=Wx6qvDGl-iE&title=Find+10%25+and+5%25+in+2+Seconds%21+%F0%9F%A4%AF+%7C+Easy+Percentage+Trick&lang=en&timestamp=1763118131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Find 10% and 5% in 2 Seconds! 🤯 | Easy Percentage Trick")](https://www.youtube.com/shorts/Wx6qvDGl-iE)
-[![Square Any Number Ending in 5 in 1 Second! 🤯 | Math Trick](https://ytcards.demolab.com/?id=n__Xl8Ux8Ag&title=Square+Any+Number+Ending+in+5+in+1+Second%21+%F0%9F%A4%AF+%7C+Math+Trick&lang=en&timestamp=1763117679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Square Any Number Ending in 5 in 1 Second! 🤯 | Math Trick")](https://www.youtube.com/shorts/n__Xl8Ux8Ag)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
