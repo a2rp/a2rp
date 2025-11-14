@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![General Physics Formulas in 60 Seconds | Speed, Force, Work, Power](https://ytcards.demolab.com/?id=08Z8VzKUbMc&title=General+Physics+Formulas+in+60+Seconds+%7C+Speed%2C+Force%2C+Work%2C+Power&lang=en&timestamp=1763135577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "General Physics Formulas in 60 Seconds | Speed, Force, Work, Power")](https://www.youtube.com/shorts/08Z8VzKUbMc)
 [![SI Units in One Screen | Physics Cheat Sheet](https://ytcards.demolab.com/?id=NkVxJYRA0ok&title=SI+Units+in+One+Screen+%7C+Physics+Cheat+Sheet&lang=en&timestamp=1763128739&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "SI Units in One Screen | Physics Cheat Sheet")](https://www.youtube.com/shorts/NkVxJYRA0ok)
 [![Length Conversions Cheat Sheet | Inches to CM in 30 Seconds](https://ytcards.demolab.com/?id=fvt4q1bGf6o&title=Length+Conversions+Cheat+Sheet+%7C+Inches+to+CM+in+30+Seconds&lang=en&timestamp=1763127545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Length Conversions Cheat Sheet | Inches to CM in 30 Seconds")](https://www.youtube.com/shorts/fvt4q1bGf6o)
 [![Multiply Any Number by 5 Instantly! 🤯 | Super Fast Math Trick](https://ytcards.demolab.com/?id=Ypy65mRQlo8&title=Multiply+Any+Number+by+5+Instantly%21+%F0%9F%A4%AF+%7C+Super+Fast+Math+Trick&lang=en&timestamp=1763118833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Multiply Any Number by 5 Instantly! 🤯 | Super Fast Math Trick")](https://www.youtube.com/shorts/Ypy65mRQlo8)
-[![Find 10% and 5% in 2 Seconds! 🤯 | Easy Percentage Trick](https://ytcards.demolab.com/?id=Wx6qvDGl-iE&title=Find+10%25+and+5%25+in+2+Seconds%21+%F0%9F%A4%AF+%7C+Easy+Percentage+Trick&lang=en&timestamp=1763118131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Find 10% and 5% in 2 Seconds! 🤯 | Easy Percentage Trick")](https://www.youtube.com/shorts/Wx6qvDGl-iE)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
