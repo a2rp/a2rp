@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Can You Find the Missing Number? 🔥 Pyramid Logic Puzzle](https://ytcards.demolab.com/?id=dF2DcEfNCuo&title=Can+You+Find+the+Missing+Number%3F+%F0%9F%94%A5+Pyramid+Logic+Puzzle&lang=en&timestamp=1763819871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Can You Find the Missing Number? 🔥 Pyramid Logic Puzzle")](https://www.youtube.com/shorts/dF2DcEfNCuo)
 [![Only 1% Can Solve This Circle Puzzle 🤯 | Find the Missing Number](https://ytcards.demolab.com/?id=cZxad0NP1fA&title=Only+1%25+Can+Solve+This+Circle+Puzzle+%F0%9F%A4%AF+%7C+Find+the+Missing+Number&lang=en&timestamp=1763731786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Only 1% Can Solve This Circle Puzzle 🤯 | Find the Missing Number")](https://www.youtube.com/shorts/cZxad0NP1fA)
 [![This Simple Math Trick Will Blow Your Mind 🤯 | Solve It If You Can!](https://ytcards.demolab.com/?id=FuDDMfRVdeI&title=This+Simple+Math+Trick+Will+Blow+Your+Mind+%F0%9F%A4%AF+%7C+Solve+It+If+You+Can%21&lang=en&timestamp=1763701521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "This Simple Math Trick Will Blow Your Mind 🤯 | Solve It If You Can!")](https://www.youtube.com/shorts/FuDDMfRVdeI)
 [![Decode the Logic: Triangle Number Puzzle 🤔🧠](https://ytcards.demolab.com/?id=J7-VadOVCGU&title=Decode+the+Logic%3A+Triangle+Number+Puzzle+%F0%9F%A4%94%F0%9F%A7%A0&lang=en&timestamp=1763668073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Decode the Logic: Triangle Number Puzzle 🤔🧠")](https://www.youtube.com/shorts/J7-VadOVCGU)
-[![Can You Solve This Triangle Puzzle? 🤯 | 99% Fail This Math Trick](https://ytcards.demolab.com/?id=tU7YEALiR1o&title=Can+You+Solve+This+Triangle+Puzzle%3F+%F0%9F%A4%AF+%7C+99%25+Fail+This+Math+Trick&lang=en&timestamp=1763663888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Can You Solve This Triangle Puzzle? 🤯 | 99% Fail This Math Trick")](https://www.youtube.com/shorts/tU7YEALiR1o)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
