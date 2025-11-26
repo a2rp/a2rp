@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Trick Question: What Is 0⁰ ? 🤯 | Math MCQ Quiz](https://ytcards.demolab.com/?id=6zL30fh3mG0&title=Trick+Question%3A+What+Is+0%E2%81%B0+%3F+%F0%9F%A4%AF+%7C+Math+MCQ+Quiz&lang=en&timestamp=1764179259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Trick Question: What Is 0⁰ ? 🤯 | Math MCQ Quiz")](https://www.youtube.com/shorts/6zL30fh3mG0)
 [![Matrix Rain in React ⚡ Movie-Style JavaScript Code Rain](https://ytcards.demolab.com/?id=7hmS6sV3J4E&title=Matrix+Rain+in+React+%E2%9A%A1+Movie-Style+JavaScript+Code+Rain&lang=en&timestamp=1764102844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Matrix Rain in React ⚡ Movie-Style JavaScript Code Rain")](https://www.youtube.com/shorts/7hmS6sV3J4E)
 [![Which Is Bigger: 1/3 or 1/4? 🤯 | Math Trick Question](https://ytcards.demolab.com/?id=UUVJHJ1z20E&title=Which+Is+Bigger%3A+1%2F3+or+1%2F4%3F+%F0%9F%A4%AF+%7C+Math+Trick+Question&lang=en&timestamp=1764092024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Which Is Bigger: 1/3 or 1/4? 🤯 | Math Trick Question")](https://www.youtube.com/shorts/UUVJHJ1z20E)
 [![What Ends Every Day? 🤯 | Trick MCQ Challenge #shorts](https://ytcards.demolab.com/?id=ApKE_xtpn6U&title=What+Ends+Every+Day%3F+%F0%9F%A4%AF+%7C+Trick+MCQ+Challenge+%23shorts&lang=en&timestamp=1764006097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "What Ends Every Day? 🤯 | Trick MCQ Challenge #shorts")](https://www.youtube.com/shorts/ApKE_xtpn6U)
-[![How Many Months Have 28 Days? 🤯 | Trick MCQ #shorts](https://ytcards.demolab.com/?id=o0avi8dKIGg&title=How+Many+Months+Have+28+Days%3F+%F0%9F%A4%AF+%7C+Trick+MCQ+%23shorts&lang=en&timestamp=1763905321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "How Many Months Have 28 Days? 🤯 | Trick MCQ #shorts")](https://www.youtube.com/shorts/o0avi8dKIGg)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
