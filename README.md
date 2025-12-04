@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![What Does "RAM" Really Stand For? 🤔 | Tech MCQ Challenge](https://ytcards.demolab.com/?id=5OlnFqDSsn4&title=What+Does+%22RAM%22+Really+Stand+For%3F+%F0%9F%A4%94+%7C+Tech+MCQ+Challenge&lang=en&timestamp=1764866873&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "What Does \"RAM\" Really Stand For? 🤔 | Tech MCQ Challenge")](https://www.youtube.com/shorts/5OlnFqDSsn4)
 [![Is Brain a Sense Organ? 🤔 | Tricky MCQ Challenge](https://ytcards.demolab.com/?id=qQVIfmHzYf4&title=Is+Brain+a+Sense+Organ%3F+%F0%9F%A4%94+%7C+Tricky+MCQ+Challenge&lang=en&timestamp=1764831879&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Is Brain a Sense Organ? 🤔 | Tricky MCQ Challenge")](https://www.youtube.com/shorts/qQVIfmHzYf4)
 [![Humans Breathe THIS Gas Out 😲 | Trick MCQ Challenge](https://ytcards.demolab.com/?id=SqnOcb3uU8Q&title=Humans+Breathe+THIS+Gas+Out+%F0%9F%98%B2+%7C+Trick+MCQ+Challenge&lang=en&timestamp=1764784321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Humans Breathe THIS Gas Out 😲 | Trick MCQ Challenge")](https://www.youtube.com/shorts/SqnOcb3uU8Q)
 [![Which Device Stores Data Permanently? 💾 Tech MCQ #shorts](https://ytcards.demolab.com/?id=wkf6kgQw5Cw&title=Which+Device+Stores+Data+Permanently%3F+%F0%9F%92%BE+Tech+MCQ+%23shorts&lang=en&timestamp=1764746176&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Which Device Stores Data Permanently? 💾 Tech MCQ #shorts")](https://www.youtube.com/shorts/wkf6kgQw5Cw)
-[![Which One Is NOT an Operating System? 🤯 Tech MCQ #shorts](https://ytcards.demolab.com/?id=nhP-5wCMZhc&title=Which+One+Is+NOT+an+Operating+System%3F+%F0%9F%A4%AF+Tech+MCQ+%23shorts&lang=en&timestamp=1764736611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Which One Is NOT an Operating System? 🤯 Tech MCQ #shorts")](https://www.youtube.com/shorts/nhP-5wCMZhc)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
