@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Greek Alphabet Explained Visually | Physics & Engineering | Collision Symphony #shorts](https://ytcards.demolab.com/?id=tpTX1mzYt8Y&title=Greek+Alphabet+Explained+Visually+%7C+Physics+%26+Engineering+%7C+Collision+Symphony+%23shorts&lang=en&timestamp=1768015850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Greek Alphabet Explained Visually | Physics & Engineering | Collision Symphony #shorts")](https://www.youtube.com/shorts/tpTX1mzYt8Y)
-[![CTRL MASTER MODE 🔥 26 Keyboard Shortcuts in less than  30 Seconds](https://ytcards.demolab.com/?id=iui4vz88hII&title=CTRL+MASTER+MODE+%F0%9F%94%A5+26+Keyboard+Shortcuts+in+less+than++30+Seconds&lang=en&timestamp=1767929442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "CTRL MASTER MODE 🔥 26 Keyboard Shortcuts in less than  30 Seconds")](https://www.youtube.com/shorts/iui4vz88hII)
-[![5-Second RGB Escape Challenge  | #Shorts #RGB #Physics #JavaScript #Canvas #ReactJS #Coding](https://ytcards.demolab.com/?id=KQb83023mu4&title=5-Second+RGB+Escape+Challenge++%7C+%23Shorts+%23RGB+%23Physics+%23JavaScript+%23Canvas+%23ReactJS+%23Coding&lang=en&timestamp=1767759654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "5-Second RGB Escape Challenge  | #Shorts #RGB #Physics #JavaScript #Canvas #ReactJS #Coding")](https://www.youtube.com/shorts/KQb83023mu4)
-[![RGB Survival Challenge 😈 Who Stays Last? 🔴🟢🔵 #shorts #coding #javascript #react #animation](https://ytcards.demolab.com/?id=aHi6vczWiCk&title=RGB+Survival+Challenge+%F0%9F%98%88+Who+Stays+Last%3F+%F0%9F%94%B4%F0%9F%9F%A2%F0%9F%94%B5+%23shorts+%23coding+%23javascript+%23react+%23animation&lang=en&timestamp=1767702601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "RGB Survival Challenge 😈 Who Stays Last? 🔴🟢🔵 #shorts #coding #javascript #react #animation")](https://www.youtube.com/shorts/aHi6vczWiCk)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
