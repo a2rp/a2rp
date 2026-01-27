@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Electric School ⚡ Basic Electronic Components Explained | #electronics #engineering #shorts](https://ytcards.demolab.com/?id=E837AsMBA1Q&title=Electric+School+%E2%9A%A1+Basic+Electronic+Components+Explained+%7C+%23electronics+%23engineering+%23shorts&lang=en&timestamp=1769441644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Electric School ⚡ Basic Electronic Components Explained | #electronics #engineering #shorts")](https://www.youtube.com/shorts/E837AsMBA1Q)
-[![JavaScript Operators Explained 🔥 Visual Playground | JS Basics #javascript #coding #webdev](https://ytcards.demolab.com/?id=xGBoHYAeiCM&title=JavaScript+Operators+Explained+%F0%9F%94%A5+Visual+Playground+%7C+JS+Basics+%23javascript+%23coding+%23webdev&lang=en&timestamp=1769398486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "JavaScript Operators Explained 🔥 Visual Playground | JS Basics #javascript #coding #webdev")](https://www.youtube.com/shorts/xGBoHYAeiCM)
-[![Motion Recipes - Keyframes + Transforms 🔥 #css #webdev #frontend #animation #react](https://ytcards.demolab.com/?id=Jl5IZMyjPUE&title=Motion+Recipes+-+Keyframes+%2B+Transforms+%F0%9F%94%A5+%23css+%23webdev+%23frontend+%23animation+%23react&lang=en&timestamp=1769349581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Motion Recipes - Keyframes + Transforms 🔥 #css #webdev #frontend #animation #react")](https://www.youtube.com/shorts/Jl5IZMyjPUE)
-[![Real-time Pendulum Motion+Graph(Displacement vs Time) #reactjs #javascript #canvas #physics #coding](https://ytcards.demolab.com/?id=9_aUiitZBkw&title=Real-time+Pendulum+Motion%2BGraph%28Displacement+vs+Time%29+%23reactjs+%23javascript+%23canvas+%23physics+%23coding&lang=en&timestamp=1769313891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Real-time Pendulum Motion+Graph(Displacement vs Time) #reactjs #javascript #canvas #physics #coding")](https://www.youtube.com/shorts/9_aUiitZBkw)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
