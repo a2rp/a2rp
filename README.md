@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![How Computers Read Letters | ASCII to Binary Explained #short #viral #trending #education #coding](https://ytcards.demolab.com/?id=PRJ0ifauFAg&title=How+Computers+Read+Letters+%7C+ASCII+to+Binary+Explained+%23short+%23viral+%23trending+%23education+%23coding&lang=en&timestamp=1770953640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "How Computers Read Letters | ASCII to Binary Explained #short #viral #trending #education #coding")](https://www.youtube.com/shorts/PRJ0ifauFAg)
+[![Trigonometry  Formulas  #short #viral #trending #education #maths](https://ytcards.demolab.com/?id=ZMQLrvPxf_M&title=Trigonometry++Formulas++%23short+%23viral+%23trending+%23education+%23maths&lang=en&timestamp=1770915585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Trigonometry  Formulas  #short #viral #trending #education #maths")](https://www.youtube.com/shorts/ZMQLrvPxf_M)
+[![Layers of Earth's Atmosphere 🌍🚀 | Exosphere to Troposphere #short #viral #trending #education](https://ytcards.demolab.com/?id=o8qeltEMJgc&title=Layers+of+Earth%27s+Atmosphere+%F0%9F%8C%8D%F0%9F%9A%80+%7C+Exosphere+to+Troposphere+%23short+%23viral+%23trending+%23education&lang=en&timestamp=1770867240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Layers of Earth's Atmosphere 🌍🚀 | Exosphere to Troposphere #short #viral #trending #education")](https://www.youtube.com/shorts/o8qeltEMJgc)
+[![Number of Zeros Explained | Thousand to Decillion #short #viral #trending #education](https://ytcards.demolab.com/?id=5tRfrZPoC00&title=Number+of+Zeros+Explained+%7C+Thousand+to+Decillion+%23short+%23viral+%23trending+%23education&lang=en&timestamp=1770780840&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Number of Zeros Explained | Thousand to Decillion #short #viral #trending #education")](https://www.youtube.com/shorts/5tRfrZPoC00)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
