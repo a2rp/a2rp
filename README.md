@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Can You Solve This Without Calculator? | #shorts #maths #education #viral](https://ytcards.demolab.com/?id=Jq_ha_YcfoI&title=Can+You+Solve+This+Without+Calculator%3F+%7C+%23shorts+%23maths+%23education+%23viral&lang=en&timestamp=1771561812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Can You Solve This Without Calculator? | #shorts #maths #education #viral")](https://www.youtube.com/shorts/Jq_ha_YcfoI)
+[![General Physics Formulas in One Table | Must Know for Exams | #short #viral #trending #education](https://ytcards.demolab.com/?id=-WyaVViPBEw&title=General+Physics+Formulas+in+One+Table+%7C+Must+Know+for+Exams+%7C+%23short+%23viral+%23trending+%23education&lang=en&timestamp=1771468201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "General Physics Formulas in One Table | Must Know for Exams | #short #viral #trending #education")](https://www.youtube.com/shorts/-WyaVViPBEw)
+[![Exponent Rules | With Solved Examples | #short #viral #trending #education](https://ytcards.demolab.com/?id=0S3UGAncJDI&title=Exponent+Rules+%7C+With+Solved+Examples+%7C+%23short+%23viral+%23trending+%23education&lang=en&timestamp=1771381801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Exponent Rules | With Solved Examples | #short #viral #trending #education")](https://www.youtube.com/shorts/0S3UGAncJDI)
+[![3D Shapes Formulas in 15 Seconds #shorts #viral #trending #education](https://ytcards.demolab.com/?id=ABZGJCh6JtA&title=3D+Shapes+Formulas+in+15+Seconds+%23shorts+%23viral+%23trending+%23education&lang=en&timestamp=1771296300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "3D Shapes Formulas in 15 Seconds #shorts #viral #trending #education")](https://www.youtube.com/shorts/ABZGJCh6JtA)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
