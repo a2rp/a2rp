@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![World Currency Symbols Must Know | Finance Basics #shorts #shorts #education #viral #currency #gk](https://ytcards.demolab.com/?id=X2aHcZzEjLw&title=World+Currency+Symbols+Must+Know+%7C+Finance+Basics+%23shorts+%23shorts+%23education+%23viral+%23currency+%23gk&lang=en&timestamp=1772166618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "World Currency Symbols Must Know | Finance Basics #shorts #shorts #education #viral #currency #gk")](https://www.youtube.com/shorts/X2aHcZzEjLw)
-[![How Many Bones Do We Have? Human Bones GK | 206 Bones Explained  #shorts #physics #education #viral](https://ytcards.demolab.com/?id=GhImu3Lb2xs&title=How+Many+Bones+Do+We+Have%3F+Human+Bones+GK+%7C+206+Bones+Explained++%23shorts+%23physics+%23education+%23viral&lang=en&timestamp=1772080210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "How Many Bones Do We Have? Human Bones GK | 206 Bones Explained  #shorts #physics #education #viral")](https://www.youtube.com/shorts/GhImu3Lb2xs)
-[![Electricity Formulas You Must Know | #shorts #physics #education #viral](https://ytcards.demolab.com/?id=qaa6zHCF7T0&title=Electricity+Formulas+You+Must+Know+%7C+%23shorts+%23physics+%23education+%23viral&lang=en&timestamp=1771998320&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Electricity Formulas You Must Know | #shorts #physics #education #viral")](https://www.youtube.com/shorts/qaa6zHCF7T0)
-[![Magnetic Field Explained in One Image | Bar, Solenoid, Earth | #shorts #physics #education #viral](https://ytcards.demolab.com/?id=J4WipZVLq5w&title=Magnetic+Field+Explained+in+One+Image+%7C+Bar%2C+Solenoid%2C+Earth+%7C+%23shorts+%23physics+%23education+%23viral&lang=en&timestamp=1771907410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Magnetic Field Explained in One Image | Bar, Solenoid, Earth | #shorts #physics #education #viral")](https://www.youtube.com/shorts/J4WipZVLq5w)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
