@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Important Tech Abbreviations Everyone Should Know #shorts #education #gk](https://ytcards.demolab.com/?id=3WLPOs1Q1B8&title=Important+Tech+Abbreviations+Everyone+Should+Know+%23shorts+%23education+%23gk&lang=en&timestamp=1772767803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Important Tech Abbreviations Everyone Should Know #shorts #education #gk")](https://www.youtube.com/shorts/3WLPOs1Q1B8)
-[![Types of Forces in Physics Explained | Basic Mechanics #shorts #education #physics](https://ytcards.demolab.com/?id=jWRRq2UDx7Q&title=Types+of+Forces+in+Physics+Explained+%7C+Basic+Mechanics+%23shorts+%23education+%23physics&lang=en&timestamp=1772681435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Forces in Physics Explained | Basic Mechanics #shorts #education #physics")](https://www.youtube.com/shorts/jWRRq2UDx7Q)
-[![Must Know Full Forms | #shorts #education #viral #trending](https://ytcards.demolab.com/?id=t3oMLkdnRTY&title=Must+Know+Full+Forms+%7C+%23shorts+%23education+%23viral+%23trending&lang=en&timestamp=1772595043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Must Know Full Forms | #shorts #education #viral #trending")](https://www.youtube.com/shorts/t3oMLkdnRTY)
-[![Types of Angles  📐🔥 #shorts  #education #viral  #maths #trending](https://ytcards.demolab.com/?id=fNAsJoe4Lms&title=Types+of+Angles++%F0%9F%93%90%F0%9F%94%A5+%23shorts++%23education+%23viral++%23maths+%23trending&lang=en&timestamp=1772508622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Angles  📐🔥 #shorts  #education #viral  #maths #trending")](https://www.youtube.com/shorts/fNAsJoe4Lms)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
