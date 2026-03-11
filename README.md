@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![JavaScript Particles Creating a 3D Sphere ⚡ React + Canvas Animation #shorts #javascript #react](https://ytcards.demolab.com/?id=tziue0pE2fY&title=JavaScript+Particles+Creating+a+3D+Sphere+%E2%9A%A1+React+%2B+Canvas+Animation+%23shorts+%23javascript+%23react&lang=en&timestamp=1773200737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "JavaScript Particles Creating a 3D Sphere ⚡ React + Canvas Animation #shorts #javascript #react")](https://www.youtube.com/shorts/tziue0pE2fY)
+[![23 Most Important Physics Constants You Should Know ⚛️ |  #shorts #education  #physics #science](https://ytcards.demolab.com/?id=Hm6F3-EEF3c&title=23+Most+Important+Physics+Constants+You+Should+Know+%E2%9A%9B%EF%B8%8F+%7C++%23shorts+%23education++%23physics+%23science&lang=en&timestamp=1773113422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "23 Most Important Physics Constants You Should Know ⚛️ |  #shorts #education  #physics #science")](https://www.youtube.com/shorts/Hm6F3-EEF3c)
+[![Types of Doctors You Should Know 🩺 |  #shorts #medical #science #education #doctors](https://ytcards.demolab.com/?id=iCP6OyHaEcQ&title=Types+of+Doctors+You+Should+Know+%F0%9F%A9%BA+%7C++%23shorts+%23medical+%23science+%23education+%23doctors&lang=en&timestamp=1773027025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Doctors You Should Know 🩺 |  #shorts #medical #science #education #doctors")](https://www.youtube.com/shorts/iCP6OyHaEcQ)
+[![Coordinate Plane | Quadrants Explained #shorts #education #viral #trending](https://ytcards.demolab.com/?id=zJP0G8SuffE&title=Coordinate+Plane+%7C+Quadrants+Explained+%23shorts+%23education+%23viral+%23trending&lang=en&timestamp=1772940946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Coordinate Plane | Quadrants Explained #shorts #education #viral #trending")](https://www.youtube.com/shorts/zJP0G8SuffE)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
