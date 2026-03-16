@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Scientific Instruments and What They Measure | Must Know Science Facts #shorts  #education](https://ytcards.demolab.com/?id=soI9X4bClSk&title=Scientific+Instruments+and+What+They+Measure+%7C+Must+Know+Science+Facts+%23shorts++%23education&lang=en&timestamp=1773631843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Scientific Instruments and What They Measure | Must Know Science Facts #shorts  #education")](https://www.youtube.com/shorts/soI9X4bClSk)
-[![Petroleum Products Explained with Hydrocarbon Chain | Chemistry Facts #shorts #petroleumproducts](https://ytcards.demolab.com/?id=uvBdPgvk334&title=Petroleum+Products+Explained+with+Hydrocarbon+Chain+%7C+Chemistry+Facts+%23shorts+%23petroleumproducts&lang=en&timestamp=1773545444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Petroleum Products Explained with Hydrocarbon Chain | Chemistry Facts #shorts #petroleumproducts")](https://www.youtube.com/shorts/uvBdPgvk334)
-[![Most Common Internet Slangs You Should Know | LOL OMG BRB BTW FYI #shorts #internetslangs #chatting](https://ytcards.demolab.com/?id=36TBEh6Ha1c&title=Most+Common+Internet+Slangs+You+Should+Know+%7C+LOL+OMG+BRB+BTW+FYI+%23shorts+%23internetslangs+%23chatting&lang=en&timestamp=1773459006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Most Common Internet Slangs You Should Know | LOL OMG BRB BTW FYI #shorts #internetslangs #chatting")](https://www.youtube.com/shorts/36TBEh6Ha1c)
-[![Human Body Facts You Should Know 🧠 | 32 Teeth 206 Bones #shorts #humanbody #science](https://ytcards.demolab.com/?id=LvUYDyTsgXE&title=Human+Body+Facts+You+Should+Know+%F0%9F%A7%A0+%7C+32+Teeth+206+Bones+%23shorts+%23humanbody+%23science&lang=en&timestamp=1773372616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Human Body Facts You Should Know 🧠 | 32 Teeth 206 Bones #shorts #humanbody #science")](https://www.youtube.com/shorts/LvUYDyTsgXE)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
