@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Hormones & Their Real Functions 🧠 | Must Know! #shorts  #education](https://ytcards.demolab.com/?id=MO6IWya3kJk&title=Hormones+%26+Their+Real+Functions+%F0%9F%A7%A0+%7C+Must+Know%21+%23shorts++%23education&lang=en&timestamp=1773891021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Hormones & Their Real Functions 🧠 | Must Know! #shorts  #education")](https://www.youtube.com/shorts/MO6IWya3kJk)
-[![Logarithmic Theory 🔥 | Full Concept Explained Fast #shorts #education](https://ytcards.demolab.com/?id=xFQsVf6FrWA&title=Logarithmic+Theory+%F0%9F%94%A5+%7C+Full+Concept+Explained+Fast+%23shorts+%23education&lang=en&timestamp=1773804650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Logarithmic Theory 🔥 | Full Concept Explained Fast #shorts #education")](https://www.youtube.com/shorts/xFQsVf6FrWA)
-[![Types of Doctors You Should Know | Medical Specialties Explained #shorts #education  #doctors](https://ytcards.demolab.com/?id=twnaFqdlsrU&title=Types+of+Doctors+You+Should+Know+%7C+Medical+Specialties+Explained+%23shorts+%23education++%23doctors&lang=en&timestamp=1773718243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Doctors You Should Know | Medical Specialties Explained #shorts #education  #doctors")](https://www.youtube.com/shorts/twnaFqdlsrU)
-[![Scientific Instruments and What They Measure | Must Know Science Facts #shorts  #education](https://ytcards.demolab.com/?id=soI9X4bClSk&title=Scientific+Instruments+and+What+They+Measure+%7C+Must+Know+Science+Facts+%23shorts++%23education&lang=en&timestamp=1773631843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Scientific Instruments and What They Measure | Must Know Science Facts #shorts  #education")](https://www.youtube.com/shorts/soI9X4bClSk)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
