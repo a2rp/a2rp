@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Chill Stream](https://ytcards.demolab.com/?id=fCti1hrm05U&title=Chill+Stream&lang=en&timestamp=1774256442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Chill Stream")](https://www.youtube.com/watch?v=fCti1hrm05U)
+[![chill stream  | #live](https://ytcards.demolab.com/?id=NSXYosTqp9w&title=chill+stream++%7C+%23live&lang=en&timestamp=1774250098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "chill stream  | #live")](https://www.youtube.com/watch?v=NSXYosTqp9w)
+[![General Science Vocabulary You Should Know | Basic Science Terms #shorts #education](https://ytcards.demolab.com/?id=hTwKN-Rn_94&title=General+Science+Vocabulary+You+Should+Know+%7C+Basic+Science+Terms+%23shorts+%23education&lang=en&timestamp=1774236635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "General Science Vocabulary You Should Know | Basic Science Terms #shorts #education")](https://www.youtube.com/shorts/hTwKN-Rn_94)
+[![Branches of Science You Should Know | Science Terms Part 1 #shorts #education](https://ytcards.demolab.com/?id=hRgzNQTpp14&title=Branches+of+Science+You+Should+Know+%7C+Science+Terms+Part+1+%23shorts+%23education&lang=en&timestamp=1774150229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Branches of Science You Should Know | Science Terms Part 1 #shorts #education")](https://www.youtube.com/shorts/hRgzNQTpp14)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
