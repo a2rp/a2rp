@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Specialized Cybersecurity Search Engines #shorts #education](https://ytcards.demolab.com/?id=mPxbz56mYZE&title=Specialized+Cybersecurity+Search+Engines+%23shorts+%23education&lang=en&timestamp=1774409428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Specialized Cybersecurity Search Engines #shorts #education")](https://www.youtube.com/shorts/mPxbz56mYZE)
+[![24 Better English Words Instead of "Very" | Speak Smarter #shorts  #education](https://ytcards.demolab.com/?id=x09y4SxyiA0&title=24+Better+English+Words+Instead+of+%22Very%22+%7C+Speak+Smarter+%23shorts++%23education&lang=en&timestamp=1774323047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "24 Better English Words Instead of \"Very\" | Speak Smarter #shorts  #education")](https://www.youtube.com/shorts/x09y4SxyiA0)
+[![Chill Stream](https://ytcards.demolab.com/?id=fCti1hrm05U&title=Chill+Stream&lang=en&timestamp=1774256442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Chill Stream")](https://www.youtube.com/watch?v=fCti1hrm05U)
+[![chill stream  | #live](https://ytcards.demolab.com/?id=NSXYosTqp9w&title=chill+stream++%7C+%23live&lang=en&timestamp=1774250098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "chill stream  | #live")](https://www.youtube.com/watch?v=NSXYosTqp9w)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
