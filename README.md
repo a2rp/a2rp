@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Integer Sign Rules | Addition, Subtraction, Multiplication, Division #shorts #education](https://ytcards.demolab.com/?id=XjLaLcLALFc&title=Integer+Sign+Rules+%7C+Addition%2C+Subtraction%2C+Multiplication%2C+Division+%23shorts+%23education&lang=en&timestamp=1775137422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Integer Sign Rules | Addition, Subtraction, Multiplication, Division #shorts #education")](https://www.youtube.com/shorts/XjLaLcLALFc)
-[![Phonetic Alphabet + Morse Code | Complete A-Z & 0-9 Cheat Sheet #shorts #education](https://ytcards.demolab.com/?id=kzBhiHOFMZ0&title=Phonetic+Alphabet+%2B+Morse+Code+%7C+Complete+A-Z+%26+0-9+Cheat+Sheet+%23shorts+%23education&lang=en&timestamp=1774963800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Phonetic Alphabet + Morse Code | Complete A-Z & 0-9 Cheat Sheet #shorts #education")](https://www.youtube.com/shorts/kzBhiHOFMZ0)
-[![ASCII Binary Code Explained (A–Z and a–z) #shorts #education](https://ytcards.demolab.com/?id=2QwK7_vPzgw&title=ASCII+Binary+Code+Explained+%28A%E2%80%93Z+and+a%E2%80%93z%29+%23shorts+%23education&lang=en&timestamp=1774841400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "ASCII Binary Code Explained (A–Z and a–z) #shorts #education")](https://www.youtube.com/shorts/2QwK7_vPzgw)
-[![Types of Scientists You Should Know | #shorts #education](https://ytcards.demolab.com/?id=7tSCMHhz9oU&title=Types+of+Scientists+You+Should+Know+%7C+%23shorts+%23education&lang=en&timestamp=1774755000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Scientists You Should Know | #shorts #education")](https://www.youtube.com/shorts/7tSCMHhz9oU)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
