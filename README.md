@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![16 Body Warning Signs You Should Never Ignore #shorts #education](https://ytcards.demolab.com/?id=BcMLfx8dAaQ&title=16+Body+Warning+Signs+You+Should+Never+Ignore+%23shorts+%23education&lang=en&timestamp=1775309411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "16 Body Warning Signs You Should Never Ignore #shorts #education")](https://www.youtube.com/shorts/BcMLfx8dAaQ)
-[![Cations vs Anions | Most Important Ions in Chemistry #shorts #education](https://ytcards.demolab.com/?id=peNe4ulIMXg&title=Cations+vs+Anions+%7C+Most+Important+Ions+in+Chemistry+%23shorts+%23education&lang=en&timestamp=1775223055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Cations vs Anions | Most Important Ions in Chemistry #shorts #education")](https://www.youtube.com/shorts/peNe4ulIMXg)
-[![Integer Sign Rules | Addition, Subtraction, Multiplication, Division #shorts #education](https://ytcards.demolab.com/?id=XjLaLcLALFc&title=Integer+Sign+Rules+%7C+Addition%2C+Subtraction%2C+Multiplication%2C+Division+%23shorts+%23education&lang=en&timestamp=1775137422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Integer Sign Rules | Addition, Subtraction, Multiplication, Division #shorts #education")](https://www.youtube.com/shorts/XjLaLcLALFc)
-[![Phonetic Alphabet + Morse Code | Complete A-Z & 0-9 Cheat Sheet #shorts #education](https://ytcards.demolab.com/?id=kzBhiHOFMZ0&title=Phonetic+Alphabet+%2B+Morse+Code+%7C+Complete+A-Z+%26+0-9+Cheat+Sheet+%23shorts+%23education&lang=en&timestamp=1774963800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Phonetic Alphabet + Morse Code | Complete A-Z & 0-9 Cheat Sheet #shorts #education")](https://www.youtube.com/shorts/kzBhiHOFMZ0)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
