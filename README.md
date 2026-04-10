@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![22 Basic Excel Formulas Every Beginner Should Know | #shorts #education](https://ytcards.demolab.com/?id=_JcwXnxbrTA&title=22+Basic+Excel+Formulas+Every+Beginner+Should+Know+%7C+%23shorts+%23education&lang=en&timestamp=1775842221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "22 Basic Excel Formulas Every Beginner Should Know | #shorts #education")](https://www.youtube.com/shorts/_JcwXnxbrTA)
 [![Important Laws of Surds You Must Know | #shorts #education](https://ytcards.demolab.com/?id=xXcgFJSkvAM&title=Important+Laws+of+Surds+You+Must+Know+%7C+%23shorts+%23education&lang=en&timestamp=1775817041&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Important Laws of Surds You Must Know | #shorts #education")](https://www.youtube.com/shorts/xXcgFJSkvAM)
 [![K, M, B, T Explained in Seconds | #shorts #education](https://ytcards.demolab.com/?id=M_TKn2P4Zq4&title=K%2C+M%2C+B%2C+T+Explained+in+Seconds+%7C+%23shorts+%23education&lang=en&timestamp=1775791815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "K, M, B, T Explained in Seconds | #shorts #education")](https://www.youtube.com/shorts/M_TKn2P4Zq4)
 [![Polygon Interior Angles Explained | #shorts #education](https://ytcards.demolab.com/?id=nm5p0fY4ArA&title=Polygon+Interior+Angles+Explained+%7C+%23shorts+%23education&lang=en&timestamp=1775737874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Polygon Interior Angles Explained | #shorts #education")](https://www.youtube.com/shorts/nm5p0fY4ArA)
-[![Types of Number Sequences Explained in Seconds | Math Patterns #shorts #education](https://ytcards.demolab.com/?id=pLyR-qRW5I8&title=Types+of+Number+Sequences+Explained+in+Seconds+%7C+Math+Patterns+%23shorts+%23education&lang=en&timestamp=1775611851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Number Sequences Explained in Seconds | Math Patterns #shorts #education")](https://www.youtube.com/shorts/pLyR-qRW5I8)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
