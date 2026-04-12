@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![26 Computer Shortcut Keys Everyone Should Know ⌨️ #shorts #education](https://ytcards.demolab.com/?id=v0KLMBSXIHI&title=26+Computer+Shortcut+Keys+Everyone+Should+Know+%E2%8C%A8%EF%B8%8F+%23shorts+%23education&lang=en&timestamp=1775968238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "26 Computer Shortcut Keys Everyone Should Know ⌨️ #shorts #education")](https://www.youtube.com/shorts/v0KLMBSXIHI)
+[![Computer Memory Units Explained in Seconds | #shorts #education](https://ytcards.demolab.com/?id=_7GUv-ohxG0&title=Computer+Memory+Units+Explained+in+Seconds+%7C+%23shorts+%23education&lang=en&timestamp=1775928609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Computer Memory Units Explained in Seconds | #shorts #education")](https://www.youtube.com/shorts/_7GUv-ohxG0)
+[![Most Important Computer Full Forms You Should Know 💻 #shorts #education](https://ytcards.demolab.com/?id=oJUAOcrfE1Q&title=Most+Important+Computer+Full+Forms+You+Should+Know+%F0%9F%92%BB+%23shorts+%23education&lang=en&timestamp=1775885434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Most Important Computer Full Forms You Should Know 💻 #shorts #education")](https://www.youtube.com/shorts/oJUAOcrfE1Q)
+[![22 Basic Excel Formulas Every Beginner Should Know | #shorts #education](https://ytcards.demolab.com/?id=_JcwXnxbrTA&title=22+Basic+Excel+Formulas+Every+Beginner+Should+Know+%7C+%23shorts+%23education&lang=en&timestamp=1775842221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "22 Basic Excel Formulas Every Beginner Should Know | #shorts #education")](https://www.youtube.com/shorts/_JcwXnxbrTA)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
