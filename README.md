@@ -33,10 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Symbol Reference | Common Mathematical Symbols Explained | #shorts #education](https://ytcards.demolab.com/?id=hNJ8yMK2kw8&title=Symbol+Reference+%7C+Common+Mathematical+Symbols+Explained+%7C+%23shorts+%23education&lang=en&timestamp=1776256259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Symbol Reference | Common Mathematical Symbols Explained | #shorts #education")](https://www.youtube.com/shorts/hNJ8yMK2kw8)
 [![Numbers in Mathematics | #shorts #education](https://ytcards.demolab.com/?id=oN1_YLgOywk&title=Numbers+in+Mathematics+%7C+%23shorts+%23education&lang=en&timestamp=1776173462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Numbers in Mathematics | #shorts #education")](https://www.youtube.com/shorts/oN1_YLgOywk)
 [![Types of Numbers in Mathematics | #shorts #education](https://ytcards.demolab.com/?id=ek1XSAsXrZI&title=Types+of+Numbers+in+Mathematics+%7C+%23shorts+%23education&lang=en&timestamp=1776130241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Types of Numbers in Mathematics | #shorts #education")](https://www.youtube.com/shorts/ek1XSAsXrZI)
 [![Vocabulary of Time Everyone Should Know ⏳#shorts #education](https://ytcards.demolab.com/?id=Z5sRwXKkhaU&title=Vocabulary+of+Time+Everyone+Should+Know+%E2%8F%B3%23shorts+%23education&lang=en&timestamp=1776043835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Vocabulary of Time Everyone Should Know ⏳#shorts #education")](https://www.youtube.com/shorts/Z5sRwXKkhaU)
-[![22 Windows Shortcut Keys Everyone Should Know 🖥️#shorts #education](https://ytcards.demolab.com/?id=TF3KEjudhms&title=22+Windows+Shortcut+Keys+Everyone+Should+Know+%F0%9F%96%A5%EF%B8%8F%23shorts+%23education&lang=en&timestamp=1776007815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "22 Windows Shortcut Keys Everyone Should Know 🖥️#shorts #education")](https://www.youtube.com/shorts/TF3KEjudhms)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
