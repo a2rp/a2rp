@@ -33,10 +33,7 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Your Body May Be Telling You Something | #shorts #education](https://ytcards.demolab.com/?id=vkk2znyDJQ4&title=Your+Body+May+Be+Telling+You+Something+%7C+%23shorts+%23education&lang=en&timestamp=1776612633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Your Body May Be Telling You Something | #shorts #education")](https://www.youtube.com/shorts/vkk2znyDJQ4)
-[![90% People Get This Simple Math Puzzle Wrong | #shorts #education #maths](https://ytcards.demolab.com/?id=aAWP3QEvJIA&title=90%25+People+Get+This+Simple+Math+Puzzle+Wrong+%7C+%23shorts+%23education+%23maths&lang=en&timestamp=1776526201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "90% People Get This Simple Math Puzzle Wrong | #shorts #education #maths")](https://www.youtube.com/shorts/aAWP3QEvJIA)
-[![Things That Started First In The World 🌍 #shorts #education](https://ytcards.demolab.com/?id=jdstgKlhsNQ&title=Things+That+Started+First+In+The+World+%F0%9F%8C%8D+%23shorts+%23education&lang=en&timestamp=1776439825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Things That Started First In The World 🌍 #shorts #education")](https://www.youtube.com/shorts/jdstgKlhsNQ)
-[![Animals Most Like Humans | Surprising Animal Behaviors | #shorts #education](https://ytcards.demolab.com/?id=Y3Hupz0YKN0&title=Animals+Most+Like+Humans+%7C+Surprising+Animal+Behaviors+%7C+%23shorts+%23education&lang=en&timestamp=1776360609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Animals Most Like Humans | Surprising Animal Behaviors | #shorts #education")](https://www.youtube.com/shorts/Y3Hupz0YKN0)
+
 <!-- END YOUTUBE-CARDS -->
 
 </p>
