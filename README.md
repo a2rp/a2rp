@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Developer Command Center LIVE | Coding, AI, GitHub & Chill Music](https://ytcards.demolab.com/?id=wHIqT13eIlM&title=Developer+Command+Center+LIVE+%7C+Coding%2C+AI%2C+GitHub+%26+Chill+Music&lang=en&timestamp=1778473284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Developer Command Center LIVE | Coding, AI, GitHub & Chill Music")](https://www.youtube.com/watch?v=wHIqT13eIlM)
+[![Developer Command Center LIVE | Coding, AI, GitHub & Chill Music](https://ytcards.demolab.com/?id=YU3vwvTJRxw&title=Developer+Command+Center+LIVE+%7C+Coding%2C+AI%2C+GitHub+%26+Chill+Music&lang=en&timestamp=1778471210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Developer Command Center LIVE | Coding, AI, GitHub & Chill Music")](https://www.youtube.com/watch?v=YU3vwvTJRxw)
+[![Dog vs Food Bowl Challenge 😂#shorts #funny](https://ytcards.demolab.com/?id=_zHft_JTL4o&title=Dog+vs+Food+Bowl+Challenge+%F0%9F%98%82%23shorts+%23funny&lang=en&timestamp=1776699022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Dog vs Food Bowl Challenge 😂#shorts #funny")](https://www.youtube.com/shorts/_zHft_JTL4o)
+[![Your Body May Be Telling You Something | #shorts #education](https://ytcards.demolab.com/?id=vkk2znyDJQ4&title=Your+Body+May+Be+Telling+You+Something+%7C+%23shorts+%23education&lang=en&timestamp=1776612633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Your Body May Be Telling You Something | #shorts #education")](https://www.youtube.com/shorts/vkk2znyDJQ4)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
