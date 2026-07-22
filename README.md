@@ -33,7 +33,10 @@ Let's build something solid. 🚀
 <p align="left">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Chromatic Sine Wave - RGB Glowing WebGL Wave | 8 Minute Ambient Animation](https://ytcards.demolab.com/?id=WDfE59gyTIk&title=Chromatic+Sine+Wave+-+RGB+Glowing+WebGL+Wave+%7C+8+Minute+Ambient+Animation&lang=en&timestamp=1783913402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Chromatic Sine Wave - RGB Glowing WebGL Wave | 8 Minute Ambient Animation")](https://www.youtube.com/watch?v=WDfE59gyTIk)
+[![Ethereal Rays - Deep Underwater Light Beams | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=68R4NpS--qE&title=Ethereal+Rays+-+Deep+Underwater+Light+Beams+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783870214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Ethereal Rays - Deep Underwater Light Beams | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=68R4NpS--qE)
+[![Mono Cloud Drift - Black and White Procedural Clouds | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=AFUJHk8vF8s&title=Mono+Cloud+Drift+-+Black+and+White+Procedural+Clouds+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783848609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Mono Cloud Drift - Black and White Procedural Clouds | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=AFUJHk8vF8s)
+[![Luminous Warp - Soft Volumetric Nebula | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=9jHSO-H-NvE&title=Luminous+Warp+-+Soft+Volumetric+Nebula+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783827016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Luminous Warp - Soft Volumetric Nebula | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=9jHSO-H-NvE)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
