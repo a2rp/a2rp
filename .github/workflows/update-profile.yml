@@ -1,8 +1,8 @@
-name: Update YouTube videos
+name: Update GitHub profile
 
 on:
   schedule:
-    - cron: "43 4,16 * * *"
+    - cron: "17 3,15 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-youtube:
+  update-profile:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -24,19 +24,22 @@ jobs:
         with:
           node-version: 24
 
-      - name: Update YouTube cards
-        run: node scripts/update-youtube.js
+      - name: Update latest project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: node scripts/update-profile.js
 
       - name: Commit README changes
         shell: bash
         run: |
           if git diff --quiet -- README.md; then
-            echo "YouTube cards are already current."
+            echo "Latest project is already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update YouTube cards"
+          git commit -m "chore: update GitHub profile activity"
           git push

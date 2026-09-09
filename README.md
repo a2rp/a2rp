@@ -1,39 +1,73 @@
 # Ashish Ranjan
 
-Full-stack dev (React + Node). I ship fast, stable, SEO-friendly apps with clean, maintainable code.
+**Full-Stack Developer**
 
-**Links:**  
-[Portfolio](https://www.ashishranjan.net) • 
-[Resume (PDF)](https://github.com/a2rp/resume/releases/latest/download/Ashish_Ranjan_Resume.pdf) • 
-[LinkedIn](https://www.linkedin.com/in/aashishranjan/) • 
-Email: ash.ranjan09@gmail.com
+I build web applications and developer tools with React, Node.js, Express, and MongoDB. My recent work includes role-aware APIs, AI-assisted document tooling, reusable interface systems, and GitHub-based automation.
 
----
+Building and documenting practical software under **a2rp**.
 
-## What I Do
-- React (Vite), Node.js/Express, MongoDB (MERN)
-- UI: styled-components, MUI
-- Auth, roles, uploads, REST APIs
-- Payments: Stripe & Razorpay
-- Deploys: GitHub Pages, Netlify, Render • CI/CD: GitHub Actions, Firebase
+[Portfolio](https://www.ashishranjan.net) | [Resume](https://github.com/a2rp/resume/releases/latest/download/Ashish_Ranjan_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/aashishranjan/) | [CodePen](https://codepen.io/ash1198) | [YouTube](https://www.youtube.com/@ashishranjan-ashz) | [Email](mailto:ash.ranjan09@gmail.com)
 
----
+## What I Build
 
-## Currently
-- Polishing MERN Projects
-- **Exploring AI/LLMs** (Gemini/OpenAI APIs, small experiments)
+- React interfaces for dashboards, workflow tools, and data-driven applications
+- Node.js and Express APIs with authentication, authorization, validation, and MongoDB persistence
+- Reusable frontend patterns, developer references, and automation for repeatable delivery
+- AI-assisted applications that combine document processing, semantic search, and practical user interfaces
 
----
+## Core Technologies
 
-### Open To
-Full-time/contract roles: **MERN / React**.  
-Let's build something solid. 🚀
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, JavaScript, Vite, styled-components, Material UI, Chakra UI |
+| Backend | Node.js, Express, REST APIs, JWT, RBAC, file uploads |
+| Data | MongoDB, Mongoose, browser storage |
+| Automation | GitHub Actions, Node.js scripts, CI/CD workflows |
+| Tools | Git, GitHub, npm, Firebase, Netlify, Render |
 
-### Latest YouTube Videos
-<p align="left">
+## Selected Work
+
+| Project | What it demonstrates | Technology | Links |
+| --- | --- | --- | --- |
+| **Admin Dashboard** | Full-stack user administration with authentication, role-based access, search, pagination, and profile image uploads | React, Express, MongoDB, JWT, Multer | [Source](https://github.com/a2rp/admin-dashboard-searching-sorting-pagination-profile-pictures) |
+| **Authorization Security API** | Layered API security with JWT authentication, RBAC, granular permissions, API keys, rate limiting, and defensive middleware | Node.js, Express, MongoDB, Helmet | [Source](https://github.com/a2rp/authorization-security-api) |
+| **Framer Motion Demos** | A searchable collection of production-oriented motion patterns for navigation, forms, data views, gestures, and overlays | React, Vite, Framer Motion, styled-components | [Source](https://github.com/a2rp/framer-motion-demos) \| [Live](https://a2rp.github.io/framer-motion-demos/) |
+| **AI Resume Screener** | Full-stack PDF analysis with sentence embeddings, semantic similarity scoring, term matching, and downloadable results | React, FastAPI, Sentence Transformers, scikit-learn | [Source](https://github.com/a2rp/ai-resume-screener) |
+
+## Latest GitHub Update
+
+<!-- BEGIN LATEST-GITHUB-UPDATE -->
+### [core-html](https://github.com/a2rp/core-html)
+
+<a href="https://github.com/a2rp/core-html"><img src="https://raw.githubusercontent.com/a2rp/core-html/main/image.png" alt="Preview of core-html" width="720"></a>
+
+Interactive Core HTML handbook - semantic, accessible, and production-grade HTML patterns with live Monaco playgrounds.
+
+**Primary language:** JavaScript | **Last pushed:** September 9, 2026
+**Topics:** `accessibility` `docs` `education` `frontend` `html`
+**Latest code update:** chore: refresh core html metadata and docs
+
+[Source](https://github.com/a2rp/core-html) | [Live](https://a2rp.github.io/core-html/)
+<!-- END LATEST-GITHUB-UPDATE -->
+
+## Current Focus
+
+- Building focused React applications and reusable UI systems
+- Strengthening backend API architecture, authentication, and authorization patterns
+- Exploring AI-assisted developer tools and document workflows
+- Automating project documentation and profile maintenance with GitHub Actions
+
+## Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Chromatic Sine Wave - RGB Glowing WebGL Wave | 8 Minute Ambient Animation](https://ytcards.demolab.com/?id=WDfE59gyTIk&title=Chromatic+Sine+Wave+-+RGB+Glowing+WebGL+Wave+%7C+8+Minute+Ambient+Animation&lang=en&timestamp=1783913402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Chromatic Sine Wave - RGB Glowing WebGL Wave | 8 Minute Ambient Animation")](https://www.youtube.com/watch?v=WDfE59gyTIk)
+[![Ethereal Rays - Deep Underwater Light Beams | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=68R4NpS--qE&title=Ethereal+Rays+-+Deep+Underwater+Light+Beams+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783870214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Ethereal Rays - Deep Underwater Light Beams | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=68R4NpS--qE)
+[![Mono Cloud Drift - Black and White Procedural Clouds | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=AFUJHk8vF8s&title=Mono+Cloud+Drift+-+Black+and+White+Procedural+Clouds+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783848609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Mono Cloud Drift - Black and White Procedural Clouds | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=AFUJHk8vF8s)
+[![Luminous Warp - Soft Volumetric Nebula | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=9jHSO-H-NvE&title=Luminous+Warp+-+Soft+Volumetric+Nebula+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783827016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Luminous Warp - Soft Volumetric Nebula | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=9jHSO-H-NvE)
 <!-- END YOUTUBE-CARDS -->
 
-</p>
+## Connect
+
+I am open to full-time and contract opportunities focused on React, Node.js, and full-stack JavaScript development.
+
+[LinkedIn](https://www.linkedin.com/in/aashishranjan/) | [Email](mailto:ash.ranjan09@gmail.com) | [Support](https://a2rp-donation-page.netlify.app/)
