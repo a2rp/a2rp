@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [core-html](https://github.com/a2rp/core-html)
+### [devops-and-cloud-core-notes](https://github.com/a2rp/devops-and-cloud-core-notes)
 
-<a href="https://github.com/a2rp/core-html"><img src="https://raw.githubusercontent.com/a2rp/core-html/main/image.png" alt="Preview of core-html" width="720"></a>
+<a href="https://github.com/a2rp/devops-and-cloud-core-notes"><img src="https://raw.githubusercontent.com/a2rp/devops-and-cloud-core-notes/main/image.png" alt="Preview of devops-and-cloud-core-notes" width="720"></a>
 
-Interactive Core HTML handbook - semantic, accessible, and production-grade HTML patterns with live Monaco playgrounds.
+DevOps and Cloud core notes covering AWS, Docker, CI/CD, GitHub Actions, Nginx, load balancing, and infrastructure fundamentals.
 
 **Primary language:** JavaScript | **Last pushed:** September 9, 2026
-**Topics:** `accessibility` `docs` `education` `frontend` `html`
-**Latest code update:** chore: refresh core html metadata and docs
+**Topics:** `aws` `backend` `ci-cd` `cloud` `devops`
+**Latest code update:** fix: use explicit lazy imports for Vite routes
 
-[Source](https://github.com/a2rp/core-html) | [Live](https://a2rp.github.io/core-html/)
+[Source](https://github.com/a2rp/devops-and-cloud-core-notes) | [Live](https://a2rp.github.io/devops-and-cloud-core-notes/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
