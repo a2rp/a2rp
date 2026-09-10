@@ -37,17 +37,16 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [devops-and-cloud-core-notes](https://github.com/a2rp/devops-and-cloud-core-notes)
+### [dog-food-website-frontend-design](https://github.com/a2rp/dog-food-website-frontend-design)
 
-<a href="https://github.com/a2rp/devops-and-cloud-core-notes"><img src="https://raw.githubusercontent.com/a2rp/devops-and-cloud-core-notes/main/image.png" alt="Preview of devops-and-cloud-core-notes" width="720"></a>
+<a href="https://github.com/a2rp/dog-food-website-frontend-design"><img src="https://raw.githubusercontent.com/a2rp/dog-food-website-frontend-design/main/src/pages/services/images/services-bg.jpg" alt="Preview of dog-food-website-frontend-design" width="720"></a>
 
-DevOps and Cloud core notes covering AWS, Docker, CI/CD, GitHub Actions, Nginx, load balancing, and infrastructure fundamentals.
+react, react-icons, react-router-dom, sass
 
 **Primary language:** JavaScript | **Last pushed:** September 9, 2026
-**Topics:** `aws` `backend` `ci-cd` `cloud` `devops`
-**Latest code update:** fix: use explicit lazy imports for Vite routes
+**Latest code update:** feat: modernize dog food storefront and deploy to pages
 
-[Source](https://github.com/a2rp/devops-and-cloud-core-notes) | [Live](https://a2rp.github.io/devops-and-cloud-core-notes/)
+[Source](https://github.com/a2rp/dog-food-website-frontend-design)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
