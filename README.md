@@ -65,8 +65,18 @@ react, react-icons, react-router-dom, sass
 [![Luminous Warp - Soft Volumetric Nebula | 8 Minute WebGL Ambient Animation](https://ytcards.demolab.com/?id=9jHSO-H-NvE&title=Luminous+Warp+-+Soft+Volumetric+Nebula+%7C+8+Minute+WebGL+Ambient+Animation&lang=en&timestamp=1783827016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10 "Luminous Warp - Soft Volumetric Nebula | 8 Minute WebGL Ambient Animation")](https://www.youtube.com/watch?v=9jHSO-H-NvE)
 <!-- END YOUTUBE-CARDS -->
 
-## Connect
+## Links
 
-I am open to full-time and contract opportunities focused on React, Node.js, and full-stack JavaScript development.
+- Portfolio: [https://www.ashishranjan.net/](https://www.ashishranjan.net/)
+- GitHub: [https://github.com/a2rp](https://github.com/a2rp)
+- CodePen: [https://codepen.io/ash1198](https://codepen.io/ash1198)
+- LinkedIn: [https://www.linkedin.com/in/aashishranjan](https://www.linkedin.com/in/aashishranjan)
+- Facebook: [https://www.facebook.com/theash.ashish/](https://www.facebook.com/theash.ashish/)
+- YouTube: [https://www.youtube.com/@ashishranjan-ashz?sub_confirmation=1](https://www.youtube.com/@ashishranjan-ashz?sub_confirmation=1)
+- Email: [mailto:ash.ranjan09@gmail.com](mailto:ash.ranjan09@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/aashishranjan/) | [Email](mailto:ash.ranjan09@gmail.com) | [Support](https://a2rp-donation-page.netlify.app/)
+## Support
+
+- Support: [https://a2rp-donation-page.netlify.app/](https://a2rp-donation-page.netlify.app/)
+- Buy Me a Coffee: [https://buymeacoffee.com/a2rp](https://buymeacoffee.com/a2rp)
+- Patreon: [https://www.patreon.com/a2rp](https://www.patreon.com/a2rp)
