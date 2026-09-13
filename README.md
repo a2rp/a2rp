@@ -37,16 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [dog-food-website-frontend-design](https://github.com/a2rp/dog-food-website-frontend-design)
+### [zustand-handbook](https://github.com/a2rp/zustand-handbook)
 
-<a href="https://github.com/a2rp/dog-food-website-frontend-design"><img src="https://raw.githubusercontent.com/a2rp/dog-food-website-frontend-design/main/src/pages/services/images/services-bg.jpg" alt="Preview of dog-food-website-frontend-design" width="720"></a>
+<a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/public/preview.png" alt="Preview of zustand-handbook" width="720"></a>
 
-react, react-icons, react-router-dom, sass
+Frontend-only React + styled-components handbook for Zustand: demos, recipes, notes, and a print-ready cheat sheet.
 
-**Primary language:** JavaScript | **Last pushed:** September 9, 2026
-**Latest code update:** feat: modernize dog food storefront and deploy to pages
+**Primary language:** JavaScript | **Last pushed:** September 13, 2026
+**Topics:** `cheatsheet` `demo` `devtools` `examples` `github-pages`
+**Latest code update:** feat: modernize zustand handbook and add social metadata
 
-[Source](https://github.com/a2rp/dog-food-website-frontend-design)
+[Source](https://github.com/a2rp/zustand-handbook) | [Live](https://a2rp.github.io/zustand-handbook/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
