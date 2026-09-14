@@ -154,6 +154,15 @@ function rawGitHubUrl(repository, filePath) {
   return `https://raw.githubusercontent.com/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/${encodeURIComponent(repository.default_branch)}/${encodedPath}`;
 }
 
+function findRootScreenshot(repository, images) {
+  const matches = images
+    .filter((item) => !item.path.includes("/"))
+    .filter((item) => /^screenshot(?:[-_.].*)?\.(?:gif|jpe?g|png|webp)$/i.test(item.path))
+    .sort((a, b) => (b.size || 0) - (a.size || 0));
+
+  return matches.length > 0 ? rawGitHubUrl(repository, matches[0].path) : null;
+}
+
 function findNamedPreview(repository, images) {
   const priorities = ["preview", "screenshot", "cover", "banner", "demo"];
 
@@ -208,6 +217,9 @@ async function validateExternalImage(url) {
 
 async function selectProjectImage(repository, tree, readme) {
   const images = tree.filter((item) => isSupportedImage(item.path) && !isExcludedImage(item.path));
+  const rootScreenshot = findRootScreenshot(repository, images);
+  if (rootScreenshot) return rootScreenshot;
+
   const namedPreview = findNamedPreview(repository, images);
   if (namedPreview) return namedPreview;
 
@@ -221,7 +233,12 @@ async function selectProjectImage(repository, tree, readme) {
     .filter((item) => (item.size || 0) >= 20_000)
     .sort((a, b) => (b.size || 0) - (a.size || 0))[0];
 
-  return commonAssetImage ? rawGitHubUrl(repository, commonAssetImage.path) : null;
+  if (commonAssetImage) return rawGitHubUrl(repository, commonAssetImage.path);
+
+  const largestImage = images
+    .sort((a, b) => (b.size || 0) - (a.size || 0))[0];
+
+  return largestImage ? rawGitHubUrl(repository, largestImage.path) : null;
 }
 
 async function getMeaningfulCommit(repository) {
