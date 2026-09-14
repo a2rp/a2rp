@@ -39,11 +39,11 @@ Building and documenting practical software under **a2rp**.
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
 ### [zustand-handbook](https://github.com/a2rp/zustand-handbook)
 
-<a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/public/preview.png" alt="Preview of zustand-handbook" width="720"></a>
+<a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/screenshot.png" alt="Preview of zustand-handbook" width="720"></a>
 
 Frontend-only React + styled-components handbook for Zustand: demos, recipes, notes, and a print-ready cheat sheet.
 
-**Primary language:** JavaScript | **Last pushed:** September 13, 2026
+**Primary language:** JavaScript | **Last pushed:** September 14, 2026
 **Topics:** `cheatsheet` `demo` `devtools` `examples` `github-pages`
 **Latest code update:** feat: modernize zustand handbook and add social metadata
 
