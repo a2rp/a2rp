@@ -37,17 +37,16 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [react-role-auth-context](https://github.com/a2rp/react-role-auth-context)
+### [image-slider](https://github.com/a2rp/image-slider)
 
-<a href="https://github.com/a2rp/react-role-auth-context"><img src="https://raw.githubusercontent.com/a2rp/react-role-auth-context/main/public/preview.png" alt="Preview of react-role-auth-context" width="720"></a>
+<a href="https://github.com/a2rp/image-slider"><img src="https://raw.githubusercontent.com/a2rp/image-slider/main/public/preview.png" alt="Preview of image-slider" width="720"></a>
 
-Role-based authentication system using React + Context + React Router with persistent login and dynamic access control.
+react, react-icons, sass
 
 **Primary language:** JavaScript | **Last pushed:** September 16, 2026
-**Topics:** `authentication` `context-api` `frontend-demo` `rbac` `react`
-**Latest code update:** Update shared branding and social preview assets
+**Latest code update:** Polish image slider app
 
-[Source](https://github.com/a2rp/react-role-auth-context) | [Live](https://a2rp.github.io/react-role-auth-context/)
+[Source](https://github.com/a2rp/image-slider)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
