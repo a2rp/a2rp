@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [zustand-handbook](https://github.com/a2rp/zustand-handbook)
+### [react-role-auth-context](https://github.com/a2rp/react-role-auth-context)
 
-<a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/screenshot.png" alt="Preview of zustand-handbook" width="720"></a>
+<a href="https://github.com/a2rp/react-role-auth-context"><img src="https://raw.githubusercontent.com/a2rp/react-role-auth-context/main/public/preview.png" alt="Preview of react-role-auth-context" width="720"></a>
 
-Frontend-only React + styled-components handbook for Zustand: demos, recipes, notes, and a print-ready cheat sheet.
+Role-based authentication system using React + Context + React Router with persistent login and dynamic access control.
 
-**Primary language:** JavaScript | **Last pushed:** September 14, 2026
-**Topics:** `cheatsheet` `demo` `devtools` `examples` `github-pages`
-**Latest code update:** feat: modernize zustand handbook and add social metadata
+**Primary language:** JavaScript | **Last pushed:** September 16, 2026
+**Topics:** `authentication` `context-api` `frontend-demo` `rbac` `react`
+**Latest code update:** Update shared branding and social preview assets
 
-[Source](https://github.com/a2rp/zustand-handbook) | [Live](https://a2rp.github.io/zustand-handbook/)
+[Source](https://github.com/a2rp/react-role-auth-context) | [Live](https://a2rp.github.io/react-role-auth-context/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
