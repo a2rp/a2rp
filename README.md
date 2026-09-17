@@ -37,16 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [image-slider](https://github.com/a2rp/image-slider)
+### [3d-model-viewer](https://github.com/a2rp/3d-model-viewer)
 
-<a href="https://github.com/a2rp/image-slider"><img src="https://raw.githubusercontent.com/a2rp/image-slider/main/public/preview.png" alt="Preview of image-slider" width="720"></a>
+<a href="https://github.com/a2rp/3d-model-viewer"><img src="https://raw.githubusercontent.com/a2rp/3d-model-viewer/main/public/preview.png" alt="Preview of 3d-model-viewer" width="720"></a>
 
-react, react-icons, sass
+Advanced browser-based 3D model viewer built with React, Three.js, React Three Fiber and Drei. Supports GLB, GLTF, OBJ, STL, FBX, PLY, 3MF, DAE, 3DS, USDZ, WRL and VRML.
 
-**Primary language:** JavaScript | **Last pushed:** September 16, 2026
-**Latest code update:** Polish image slider app
+**Primary language:** JavaScript | **Last pushed:** September 17, 2026
+**Topics:** `3d` `3d-model-viewer` `3d-models` `drei` `fbx`
+**Latest code update:** Add isolated remote mount integration
 
-[Source](https://github.com/a2rp/image-slider)
+[Source](https://github.com/a2rp/3d-model-viewer) | [Live](https://a2rp.github.io/3d-model-viewer/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
