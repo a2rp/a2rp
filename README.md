@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [3d-model-viewer](https://github.com/a2rp/3d-model-viewer)
+### [color-picker](https://github.com/a2rp/color-picker)
 
-<a href="https://github.com/a2rp/3d-model-viewer"><img src="https://raw.githubusercontent.com/a2rp/3d-model-viewer/main/public/preview.png" alt="Preview of 3d-model-viewer" width="720"></a>
+<a href="https://github.com/a2rp/color-picker"><img src="https://raw.githubusercontent.com/a2rp/color-picker/main/public/preview.png" alt="Preview of color-picker" width="720"></a>
 
-Advanced browser-based 3D model viewer built with React, Three.js, React Three Fiber and Drei. Supports GLB, GLTF, OBJ, STL, FBX, PLY, 3MF, DAE, 3DS, USDZ, WRL and VRML.
+A modern responsive React color picker with predefined CSS colors, HEX, RGB, RGBA, HSL, HSLA, copy tools, precise controls, and persistent color selection.
 
-**Primary language:** JavaScript | **Last pushed:** September 17, 2026
-**Topics:** `3d` `3d-model-viewer` `3d-models` `drei` `fbx`
-**Latest code update:** Add isolated remote mount integration
+**Primary language:** JavaScript | **Last pushed:** September 18, 2026
+**Topics:** `a2rp` `color-picker` `css-colors` `css-modules` `developer-tools`
+**Latest code update:** Build reusable responsive color picker
 
-[Source](https://github.com/a2rp/3d-model-viewer) | [Live](https://a2rp.github.io/3d-model-viewer/)
+[Source](https://github.com/a2rp/color-picker) | [Live](https://a2rp.github.io/color-picker/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
