@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [color-picker](https://github.com/a2rp/color-picker)
+### [accordion](https://github.com/a2rp/accordion)
 
-<a href="https://github.com/a2rp/color-picker"><img src="https://raw.githubusercontent.com/a2rp/color-picker/main/public/preview.png" alt="Preview of color-picker" width="720"></a>
+<a href="https://github.com/a2rp/accordion"><img src="https://raw.githubusercontent.com/a2rp/accordion/main/accordion-preview.png" alt="Preview of accordion" width="720"></a>
 
-A modern responsive React color picker with predefined CSS colors, HEX, RGB, RGBA, HSL, HSLA, copy tools, precise controls, and persistent color selection.
+A clean, lightweight and reusable React Accordion component built with React, Vite and styled-components.
 
-**Primary language:** JavaScript | **Last pushed:** September 18, 2026
-**Topics:** `a2rp` `color-picker` `css-colors` `css-modules` `developer-tools`
-**Latest code update:** Build reusable responsive color picker
+**Primary language:** JavaScript | **Last pushed:** September 20, 2026
+**Topics:** `accordion` `frontend` `javascript` `react` `responsive`
+**Latest code update:** Use descriptive accordion asset names
 
-[Source](https://github.com/a2rp/color-picker) | [Live](https://a2rp.github.io/color-picker/)
+[Source](https://github.com/a2rp/accordion) | [Live](https://a2rp.github.io/accordion/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
