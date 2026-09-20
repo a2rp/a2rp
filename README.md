@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [accordion](https://github.com/a2rp/accordion)
+### [avataar-generator](https://github.com/a2rp/avataar-generator)
 
-<a href="https://github.com/a2rp/accordion"><img src="https://raw.githubusercontent.com/a2rp/accordion/main/accordion-preview.png" alt="Preview of accordion" width="720"></a>
+<a href="https://github.com/a2rp/avataar-generator"><img src="https://raw.githubusercontent.com/a2rp/avataar-generator/main/screenshot.png" alt="Preview of avataar-generator" width="720"></a>
 
-A clean, lightweight and reusable React Accordion component built with React, Vite and styled-components.
+Modern React avatar generator using DiceBear with 31 styles, variant navigation, customization, favorites, lazy loading, PNG/SVG export, and dark mode.
 
 **Primary language:** JavaScript | **Last pushed:** September 20, 2026
-**Topics:** `accordion` `frontend` `javascript` `react` `responsive`
-**Latest code update:** Use descriptive accordion asset names
+**Topics:** `avatar` `avatar-generator` `code-splitting` `dark-mode` `dicebear`
+**Latest code update:** Update avatar generator experience
 
-[Source](https://github.com/a2rp/accordion) | [Live](https://a2rp.github.io/accordion/)
+[Source](https://github.com/a2rp/avataar-generator) | [Live](https://a2rp.github.io/avataar-generator/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
