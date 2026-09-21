@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [basic-reactjs-hello-app](https://github.com/a2rp/basic-reactjs-hello-app)
+### [workout-planner](https://github.com/a2rp/workout-planner)
 
-<a href="https://github.com/a2rp/basic-reactjs-hello-app"><img src="https://raw.githubusercontent.com/a2rp/basic-reactjs-hello-app/main/screenshot.png" alt="Preview of basic-reactjs-hello-app" width="720"></a>
+<a href="https://github.com/a2rp/workout-planner"><img src="https://raw.githubusercontent.com/a2rp/workout-planner/main/screenshot.png" alt="Preview of workout-planner" width="720"></a>
 
-Responsive React starter app with a live browser date and time display.
+Create and track your daily workout routines. No backend, no images - dark-theme friendly and fully LocalStorage powered.
 
-**Primary language:** CSS | **Last pushed:** September 21, 2026
-**Topics:** `create-react-app` `date-time` `frontend` `github-pages` `javascript`
-**Latest code update:** Modernize React hello app
+**Primary language:** JavaScript | **Last pushed:** September 21, 2026
+**Topics:** `localstorage` `react` `styled-components` `vite` `workout-planner`
+**Latest code update:** Refresh workout planner UI and add app screenshot
 
-[Source](https://github.com/a2rp/basic-reactjs-hello-app) | [Live](https://a2rp.github.io/basic-reactjs-hello-app/)
+[Source](https://github.com/a2rp/workout-planner) | [Live](https://a2rp.github.io/workout-planner/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
