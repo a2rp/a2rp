@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [avataar-generator](https://github.com/a2rp/avataar-generator)
+### [basic-reactjs-hello-app](https://github.com/a2rp/basic-reactjs-hello-app)
 
-<a href="https://github.com/a2rp/avataar-generator"><img src="https://raw.githubusercontent.com/a2rp/avataar-generator/main/screenshot.png" alt="Preview of avataar-generator" width="720"></a>
+<a href="https://github.com/a2rp/basic-reactjs-hello-app"><img src="https://raw.githubusercontent.com/a2rp/basic-reactjs-hello-app/main/screenshot.png" alt="Preview of basic-reactjs-hello-app" width="720"></a>
 
-Modern React avatar generator using DiceBear with 31 styles, variant navigation, customization, favorites, lazy loading, PNG/SVG export, and dark mode.
+Responsive React starter app with a live browser date and time display.
 
-**Primary language:** JavaScript | **Last pushed:** September 20, 2026
-**Topics:** `avatar` `avatar-generator` `code-splitting` `dark-mode` `dicebear`
-**Latest code update:** Update avatar generator experience
+**Primary language:** CSS | **Last pushed:** September 21, 2026
+**Topics:** `create-react-app` `date-time` `frontend` `github-pages` `javascript`
+**Latest code update:** Modernize React hello app
 
-[Source](https://github.com/a2rp/avataar-generator) | [Live](https://a2rp.github.io/avataar-generator/)
+[Source](https://github.com/a2rp/basic-reactjs-hello-app) | [Live](https://a2rp.github.io/basic-reactjs-hello-app/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
