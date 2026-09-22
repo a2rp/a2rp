@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [workout-planner](https://github.com/a2rp/workout-planner)
+### [water-intake](https://github.com/a2rp/water-intake)
 
-<a href="https://github.com/a2rp/workout-planner"><img src="https://raw.githubusercontent.com/a2rp/workout-planner/main/screenshot.png" alt="Preview of workout-planner" width="720"></a>
+<a href="https://github.com/a2rp/water-intake"><img src="https://raw.githubusercontent.com/a2rp/water-intake/main/public/preview.png" alt="Preview of water-intake" width="720"></a>
 
-Create and track your daily workout routines. No backend, no images - dark-theme friendly and fully LocalStorage powered.
+A responsive React hydration tracker for logging daily water intake, setting goals, reviewing history, and storing records locally in the browser.
 
-**Primary language:** JavaScript | **Last pushed:** September 21, 2026
-**Topics:** `localstorage` `react` `styled-components` `vite` `workout-planner`
-**Latest code update:** Refresh workout planner UI and add app screenshot
+**Primary language:** JavaScript | **Last pushed:** September 22, 2026
+**Topics:** `frontend` `github-pages` `hydration-tracker` `localstorage` `react`
+**Latest code update:** Update shared branding and social preview assets
 
-[Source](https://github.com/a2rp/workout-planner) | [Live](https://a2rp.github.io/workout-planner/)
+[Source](https://github.com/a2rp/water-intake) | [Live](https://a2rp.github.io/water-intake/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
