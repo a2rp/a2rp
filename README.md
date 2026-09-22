@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [water-intake](https://github.com/a2rp/water-intake)
+### [validators](https://github.com/a2rp/validators)
 
-<a href="https://github.com/a2rp/water-intake"><img src="https://raw.githubusercontent.com/a2rp/water-intake/main/public/preview.png" alt="Preview of water-intake" width="720"></a>
+<a href="https://github.com/a2rp/validators"><img src="https://raw.githubusercontent.com/a2rp/validators/main/screenshot.png" alt="Preview of validators" width="720"></a>
 
-A responsive React hydration tracker for logging daily water intake, setting goals, reviewing history, and storing records locally in the browser.
+Searchable string validation toolkit built with React, Vite, and validator.js with instant browser-based feedback.
 
 **Primary language:** JavaScript | **Last pushed:** September 22, 2026
-**Topics:** `frontend` `github-pages` `hydration-tracker` `localstorage` `react`
-**Latest code update:** Update shared branding and social preview assets
+**Topics:** `accessibility` `github-pages` `javascript` `react` `responsive-design`
+**Latest code update:** Modernize validators application
 
-[Source](https://github.com/a2rp/water-intake) | [Live](https://a2rp.github.io/water-intake/)
+[Source](https://github.com/a2rp/validators) | [Live](https://a2rp.github.io/validators/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
