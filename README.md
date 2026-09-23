@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [tooltip-pro](https://github.com/a2rp/tooltip-pro)
+### [engineering-dsa-foundations](https://github.com/a2rp/engineering-dsa-foundations)
 
-<a href="https://github.com/a2rp/tooltip-pro"><img src="https://raw.githubusercontent.com/a2rp/tooltip-pro/main/screenshot.png" alt="Preview of tooltip-pro" width="720"></a>
+<a href="https://github.com/a2rp/engineering-dsa-foundations"><img src="https://raw.githubusercontent.com/a2rp/engineering-dsa-foundations/main/screenshot.png" alt="Preview of engineering-dsa-foundations" width="720"></a>
 
-Accessible React tooltip and popover demo with viewport-aware flip and shift positioning, keyboard support, and responsive interactions.
+A structured React reference for Data Structures and Algorithms patterns and complexity.
 
 **Primary language:** JavaScript | **Last pushed:** September 23, 2026
-**Topics:** `accessibility` `floating-ui` `github-pages` `javascript` `popover`
-**Latest code update:** Modernize Tooltip Pro interface
+**Topics:** `algorithms` `complexity-analysis` `computer-science` `data-structures` `education`
+**Latest code update:** Polish DSA foundations notes
 
-[Source](https://github.com/a2rp/tooltip-pro) | [Live](https://a2rp.github.io/tooltip-pro/)
+[Source](https://github.com/a2rp/engineering-dsa-foundations) | [Live](https://a2rp.github.io/engineering-dsa-foundations/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
