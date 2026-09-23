@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [validators](https://github.com/a2rp/validators)
+### [tooltip-pro](https://github.com/a2rp/tooltip-pro)
 
-<a href="https://github.com/a2rp/validators"><img src="https://raw.githubusercontent.com/a2rp/validators/main/screenshot.png" alt="Preview of validators" width="720"></a>
+<a href="https://github.com/a2rp/tooltip-pro"><img src="https://raw.githubusercontent.com/a2rp/tooltip-pro/main/screenshot.png" alt="Preview of tooltip-pro" width="720"></a>
 
-Searchable string validation toolkit built with React, Vite, and validator.js with instant browser-based feedback.
+Accessible React tooltip and popover demo with viewport-aware flip and shift positioning, keyboard support, and responsive interactions.
 
-**Primary language:** JavaScript | **Last pushed:** September 22, 2026
-**Topics:** `accessibility` `github-pages` `javascript` `react` `responsive-design`
-**Latest code update:** Modernize validators application
+**Primary language:** JavaScript | **Last pushed:** September 23, 2026
+**Topics:** `accessibility` `floating-ui` `github-pages` `javascript` `popover`
+**Latest code update:** Modernize Tooltip Pro interface
 
-[Source](https://github.com/a2rp/validators) | [Live](https://a2rp.github.io/validators/)
+[Source](https://github.com/a2rp/tooltip-pro) | [Live](https://a2rp.github.io/tooltip-pro/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
