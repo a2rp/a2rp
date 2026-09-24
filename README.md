@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [engineering-dsa-foundations](https://github.com/a2rp/engineering-dsa-foundations)
+### [modal_html_css_javascript](https://github.com/a2rp/modal_html_css_javascript)
 
-<a href="https://github.com/a2rp/engineering-dsa-foundations"><img src="https://raw.githubusercontent.com/a2rp/engineering-dsa-foundations/main/screenshot.png" alt="Preview of engineering-dsa-foundations" width="720"></a>
+<a href="https://github.com/a2rp/modal_html_css_javascript"><img src="https://raw.githubusercontent.com/a2rp/modal_html_css_javascript/main/screenshot.png" alt="Preview of modal_html_css_javascript" width="720"></a>
 
-A structured React reference for Data Structures and Algorithms patterns and complexity.
+Responsive HTML, CSS and JavaScript modal subscription form demo.
 
-**Primary language:** JavaScript | **Last pushed:** September 23, 2026
-**Topics:** `algorithms` `complexity-analysis` `computer-science` `data-structures` `education`
-**Latest code update:** Polish DSA foundations notes
+**Primary language:** CSS | **Last pushed:** September 24, 2026
+**Topics:** `css` `frontend` `github-pages` `html` `javascript`
+**Latest code update:** Polish static modal demo
 
-[Source](https://github.com/a2rp/engineering-dsa-foundations) | [Live](https://a2rp.github.io/engineering-dsa-foundations/)
+[Source](https://github.com/a2rp/modal_html_css_javascript) | [Live](https://a2rp.github.io/modal_html_css_javascript/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
