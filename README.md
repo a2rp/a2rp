@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [modal_html_css_javascript](https://github.com/a2rp/modal_html_css_javascript)
+### [star-rating-system](https://github.com/a2rp/star-rating-system)
 
-<a href="https://github.com/a2rp/modal_html_css_javascript"><img src="https://raw.githubusercontent.com/a2rp/modal_html_css_javascript/main/screenshot.png" alt="Preview of modal_html_css_javascript" width="720"></a>
+<a href="https://github.com/a2rp/star-rating-system"><img src="https://raw.githubusercontent.com/a2rp/star-rating-system/main/screenshot.png" alt="Preview of star-rating-system" width="720"></a>
 
-Responsive HTML, CSS and JavaScript modal subscription form demo.
+Accessible React star rating component with hover preview and selected feedback.
 
-**Primary language:** CSS | **Last pushed:** September 24, 2026
-**Topics:** `css` `frontend` `github-pages` `html` `javascript`
-**Latest code update:** Polish static modal demo
+**Primary language:** JavaScript | **Last pushed:** September 24, 2026
+**Topics:** `component` `create-react-app` `github-pages` `javascript` `react`
+**Latest code update:** Refresh star rating system
 
-[Source](https://github.com/a2rp/modal_html_css_javascript) | [Live](https://a2rp.github.io/modal_html_css_javascript/)
+[Source](https://github.com/a2rp/star-rating-system) | [Live](https://a2rp.github.io/star-rating-system/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
