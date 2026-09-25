@@ -37,17 +37,17 @@ Building and documenting practical software under **a2rp**.
 ## Latest GitHub Update
 
 <!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [star-rating-system](https://github.com/a2rp/star-rating-system)
+### [system-design-core-notes](https://github.com/a2rp/system-design-core-notes)
 
-<a href="https://github.com/a2rp/star-rating-system"><img src="https://raw.githubusercontent.com/a2rp/star-rating-system/main/screenshot.png" alt="Preview of star-rating-system" width="720"></a>
+<a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/screenshot.png" alt="Preview of system-design-core-notes" width="720"></a>
 
-Accessible React star rating component with hover preview and selected feedback.
+Structured system design revision notes covering architecture, scalability, reliability, and tradeoffs.
 
-**Primary language:** JavaScript | **Last pushed:** September 24, 2026
-**Topics:** `component` `create-react-app` `github-pages` `javascript` `react`
-**Latest code update:** Refresh star rating system
+**Primary language:** JavaScript | **Last pushed:** September 25, 2026
+**Topics:** `architecture` `distributed-systems` `github-pages` `javascript` `react`
+**Latest code update:** Add internal scroll top control
 
-[Source](https://github.com/a2rp/star-rating-system) | [Live](https://a2rp.github.io/star-rating-system/)
+[Source](https://github.com/a2rp/system-design-core-notes) | [Live](https://a2rp.github.io/system-design-core-notes/)
 <!-- END LATEST-GITHUB-UPDATE -->
 
 ## Current Focus
