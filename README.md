@@ -9,15 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[system-design-core-notes](https://github.com/a2rp/system-design-core-notes)** - Structured system design revision notes covering architecture, scalability, reliability, and tradeoffs.
+- **[zustand-handbook](https://github.com/a2rp/zustand-handbook)** - A practical Zustand handbook with tutorials, glossary notes, and runnable React state-management examples.
   <br>
-  <a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/image.png" alt="Preview of system-design-core-notes" width="480"></a>
+  <a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/screenshot.png" alt="Preview of zustand-handbook" width="480"></a>
   <br>
-  (`JavaScript` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/system-design-core-notes/))
-- **[reactjs_concepts](https://github.com/a2rp/reactjs_concepts)** - Focused React concepts landing page for clear frontend foundations.
-  (`CSS` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/reactjs_concepts/))
-- **[tabs-pro](https://github.com/a2rp/tabs-pro)** - Reusable React tabs component with keyboard navigation and persistent note tabs.
-  (`JavaScript` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/tabs-pro/))
+  (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/zustand-handbook/))
+- **[system-design-core-notes](https://github.com/a2rp/system-design-core-notes)** - System design revision notes on architecture, scalability, reliability, distributed systems, databases, messaging, and interview tradeoffs.
+  <br>
+  <a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/screenshot.png" alt="Preview of system-design-core-notes" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/system-design-core-notes/))
+- **[software-testing-core-notes](https://github.com/a2rp/software-testing-core-notes)** - Software testing notes covering unit and integration tests, API testing, TDD, mocking, and code coverage.
+  <br>
+  <a href="https://github.com/a2rp/software-testing-core-notes"><img src="https://raw.githubusercontent.com/a2rp/software-testing-core-notes/main/screenshot.png" alt="Preview of software-testing-core-notes" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/software-testing-core-notes/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
