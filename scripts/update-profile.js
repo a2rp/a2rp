@@ -9,6 +9,7 @@ const DRY_RUN = process.argv.includes("--dry-run");
 const START_MARKER = "<!-- BEGIN LATEST-PROJECTS -->";
 const END_MARKER = "<!-- END LATEST-PROJECTS -->";
 const PROJECT_COUNT = 3;
+const MIN_ROOT_IMAGE_SIZE = 30_000;
 const ROOT_IMAGE_EXTENSIONS = new Set([".gif", ".jpg", ".jpeg", ".png", ".webp"]);
 
 const SOURCE_EXTENSIONS = new Set([
@@ -154,7 +155,9 @@ async function getLastImageUpdate(repository, filePath) {
 }
 
 async function selectLatestRootImage(repository, tree) {
-  const candidates = tree.filter((item) => isRootProjectImage(item.path));
+  const candidates = tree.filter((item) => (
+    isRootProjectImage(item.path) && (item.size || 0) >= MIN_ROOT_IMAGE_SIZE
+  ));
   const updatedImages = (await Promise.all(
     candidates.map((item) => getLastImageUpdate(repository, item.path)),
   )).filter(Boolean);
@@ -211,7 +214,11 @@ function buildProjectEntry(repository, homepage, imageUrl) {
     `- **[${cleanText(repository.name)}](${repository.html_url})** - ${cleanText(repository.description)}`,
   ];
   if (imageUrl) {
-    lines.push(`  <a href="${repository.html_url}"><img src="${imageUrl}" alt="Preview of ${escapeHtml(repository.name)}" width="480"></a>`);
+    lines.push(
+      "  <br>",
+      `  <a href="${repository.html_url}"><img src="${imageUrl}" alt="Preview of ${escapeHtml(repository.name)}" width="480"></a>`,
+      "  <br>",
+    );
   }
   lines.push(`  (${details.join(" · ")})`);
   return lines.join("\n");

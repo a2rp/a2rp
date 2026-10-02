@@ -10,13 +10,13 @@ I build React applications, secure APIs, and practical developer tools with Node
 
 <!-- BEGIN LATEST-PROJECTS -->
 - **[system-design-core-notes](https://github.com/a2rp/system-design-core-notes)** - Structured system design revision notes covering architecture, scalability, reliability, and tradeoffs.
-  <a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/screenshot.png" alt="Preview of system-design-core-notes" width="480"></a>
+  <br>
+  <a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/image.png" alt="Preview of system-design-core-notes" width="480"></a>
+  <br>
   (`JavaScript` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/system-design-core-notes/))
 - **[reactjs_concepts](https://github.com/a2rp/reactjs_concepts)** - Focused React concepts landing page for clear frontend foundations.
-  <a href="https://github.com/a2rp/reactjs_concepts"><img src="https://raw.githubusercontent.com/a2rp/reactjs_concepts/main/screenshot.png" alt="Preview of reactjs_concepts" width="480"></a>
   (`CSS` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/reactjs_concepts/))
 - **[tabs-pro](https://github.com/a2rp/tabs-pro)** - Reusable React tabs component with keyboard navigation and persistent note tabs.
-  <a href="https://github.com/a2rp/tabs-pro"><img src="https://raw.githubusercontent.com/a2rp/tabs-pro/main/screenshot.png" alt="Preview of tabs-pro" width="480"></a>
   (`JavaScript` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/tabs-pro/))
 <!-- END LATEST-PROJECTS -->
 
