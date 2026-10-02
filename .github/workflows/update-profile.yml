@@ -1,0 +1,45 @@
+name: Update GitHub profile
+
+on:
+  schedule:
+    - cron: "17 3,15 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-readme-writers
+  cancel-in-progress: false
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24
+
+      - name: Update latest project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: node scripts/update-profile.js
+
+      - name: Commit README changes
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Latest project is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update GitHub profile activity"
+          git push
