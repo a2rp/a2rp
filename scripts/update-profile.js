@@ -6,9 +6,9 @@ const OWNER = process.env.PROFILE_OWNER || "a2rp";
 const TOKEN = process.env.GITHUB_TOKEN || "";
 const README_PATH = path.resolve(process.env.README_PATH || "README.md");
 const DRY_RUN = process.argv.includes("--dry-run");
-const START_MARKER = "<!-- BEGIN LATEST-GITHUB-UPDATE -->";
-const END_MARKER = "<!-- END LATEST-GITHUB-UPDATE -->";
-const MAX_TOPICS = 3;
+const START_MARKER = "<!-- BEGIN LATEST-PROJECTS -->";
+const END_MARKER = "<!-- END LATEST-PROJECTS -->";
+const PROJECT_COUNT = 3;
 
 const SOURCE_EXTENSIONS = new Set([
   ".c", ".cc", ".cpp", ".cs", ".css", ".go", ".h", ".html", ".java",
@@ -48,18 +48,6 @@ async function githubJson(endpoint) {
     headers: githubHeaders(),
   });
   return response.json();
-}
-
-async function githubText(endpoint) {
-  const url = `${API_ROOT}${endpoint}`;
-  const response = await fetch(url, {
-    headers: githubHeaders("application/vnd.github.raw+json"),
-    signal: AbortSignal.timeout(20_000),
-  });
-
-  if (response.status === 404) return "";
-  if (!response.ok) throw new Error(`Request failed with ${response.status}: ${url}`);
-  return response.text();
 }
 
 async function listOwnedRepositories() {
@@ -113,7 +101,7 @@ async function getRepositoryTree(repository) {
   return tree.tree.filter((item) => item.type === "blob" && typeof item.path === "string");
 }
 
-async function selectLatestRepository(repositories) {
+async function selectLatestRepositories(repositories) {
   const candidates = repositories
     .filter((repository) => repository.owner?.login?.toLowerCase() === OWNER.toLowerCase())
     .filter((repository) => !repository.private && !repository.fork)
@@ -123,143 +111,16 @@ async function selectLatestRepository(repositories) {
     .filter((repository) => typeof repository.description === "string" && repository.description.trim())
     .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
 
+  const selected = [];
+
   for (const repository of candidates) {
     const tree = await getRepositoryTree(repository);
     if (tree.filter((item) => isMeaningfulSourcePath(item.path)).length >= 2) {
-      return { repository, tree };
+      selected.push(repository);
+      if (selected.length === PROJECT_COUNT) return selected;
     }
   }
-
-  throw new Error("No recent repository passed the meaningful source checks.");
-}
-
-function isSupportedImage(filePath) {
-  return /\.(gif|jpe?g|png|webp)$/i.test(filePath);
-}
-
-function isExcludedImage(filePath) {
-  const normalized = filePath.toLowerCase();
-  const segments = normalized.split("/");
-  const excludedDirectories = new Set([
-    ".git", "build", "coverage", "dist", "node_modules", "vendor",
-  ]);
-  const basename = path.posix.basename(normalized);
-
-  return segments.some((segment) => excludedDirectories.has(segment))
-    || /(favicon|icon|logo|sprite|avatar)/i.test(basename);
-}
-
-function rawGitHubUrl(repository, filePath) {
-  const encodedPath = filePath.split("/").map(encodeURIComponent).join("/");
-  return `https://raw.githubusercontent.com/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/${encodeURIComponent(repository.default_branch)}/${encodedPath}`;
-}
-
-function findRootScreenshot(repository, images) {
-  const matches = images
-    .filter((item) => !item.path.includes("/"))
-    .filter((item) => /^screenshot(?:[-_.].*)?\.(?:gif|jpe?g|png|webp)$/i.test(item.path))
-    .sort((a, b) => (b.size || 0) - (a.size || 0));
-
-  return matches.length > 0 ? rawGitHubUrl(repository, matches[0].path) : null;
-}
-
-function findNamedPreview(repository, images) {
-  const priorities = ["preview", "screenshot", "cover", "banner", "demo"];
-
-  for (const priority of priorities) {
-    const matches = images
-      .filter((item) => new RegExp(`^${priority}(?:[-_.].*)?\\.(?:gif|jpe?g|png|webp)$`, "i")
-        .test(path.posix.basename(item.path)))
-      .sort((a, b) => (b.size || 0) - (a.size || 0));
-
-    if (matches.length > 0) return rawGitHubUrl(repository, matches[0].path);
-  }
-
-  return null;
-}
-
-function extractReadmeImageUrls(markdown) {
-  const urls = [];
-  const markdownImages = /!\[[^\]]*\]\(<?([^\s)>]+)>?(?:\s+["'][^"']*["'])?\)/g;
-  const htmlImages = /<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/gi;
-
-  for (const match of markdown.matchAll(markdownImages)) urls.push(match[1]);
-  for (const match of markdown.matchAll(htmlImages)) urls.push(match[1]);
-  return urls;
-}
-
-function resolveReadmeImage(repository, tree, imageUrl) {
-  if (/^https:\/\//i.test(imageUrl)) {
-    if (/^(https:\/\/raw\.githubusercontent\.com\/|https:\/\/github\.com\/[^/]+\/[^/]+\/assets\/)/i.test(imageUrl)) {
-      return imageUrl;
-    }
-    return null;
-  }
-
-  if (/^[a-z]+:/i.test(imageUrl) || imageUrl.startsWith("#")) return null;
-  const cleanPath = decodeURIComponent(imageUrl.split(/[?#]/, 1)[0]).replace(/^\.\//, "");
-  const match = tree.find((item) => item.path.toLowerCase() === cleanPath.toLowerCase());
-
-  if (!match || !isSupportedImage(match.path) || isExcludedImage(match.path)) return null;
-  return rawGitHubUrl(repository, match.path);
-}
-
-async function validateExternalImage(url) {
-  if (url.includes("raw.githubusercontent.com")) return true;
-
-  try {
-    const response = await fetchWithTimeout(url, { method: "HEAD" });
-    return (response.headers.get("content-type") || "").toLowerCase().startsWith("image/");
-  } catch {
-    return false;
-  }
-}
-
-async function selectProjectImage(repository, tree, readme) {
-  const images = tree.filter((item) => isSupportedImage(item.path) && !isExcludedImage(item.path));
-  const rootScreenshot = findRootScreenshot(repository, images);
-  if (rootScreenshot) return rootScreenshot;
-
-  const namedPreview = findNamedPreview(repository, images);
-  if (namedPreview) return namedPreview;
-
-  for (const imageUrl of extractReadmeImageUrls(readme)) {
-    const resolved = resolveReadmeImage(repository, tree, imageUrl);
-    if (resolved && await validateExternalImage(resolved)) return resolved;
-  }
-
-  const commonAssetImage = images
-    .filter((item) => /(^|\/)(assets?|images?|screenshots?|docs?|public)(\/|$)/i.test(item.path))
-    .filter((item) => (item.size || 0) >= 20_000)
-    .sort((a, b) => (b.size || 0) - (a.size || 0))[0];
-
-  if (commonAssetImage) return rawGitHubUrl(repository, commonAssetImage.path);
-
-  const largestImage = images
-    .sort((a, b) => (b.size || 0) - (a.size || 0))[0];
-
-  return largestImage ? rawGitHubUrl(repository, largestImage.path) : null;
-}
-
-async function getMeaningfulCommit(repository) {
-  const commits = await githubJson(
-    `/repos/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/commits?per_page=10`,
-  );
-
-  if (!Array.isArray(commits)) return null;
-
-  for (const commit of commits) {
-    const message = commit.commit?.message?.split("\n", 1)[0]?.trim();
-    if (!message || /^(docs?|chore):?\s+update/i.test(message)) continue;
-
-    const details = await githubJson(
-      `/repos/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/commits/${commit.sha}`,
-    );
-    const files = Array.isArray(details.files) ? details.files : [];
-    if (files.some((file) => isMeaningfulSourcePath(file.filename))) return message;
-  }
-
-  return null;
+  return selected;
 }
 
 async function validHomepage(homepage) {
@@ -281,14 +142,6 @@ function cleanText(value) {
     .trim();
 }
 
-function escapeHtml(value) {
-  return cleanText(value)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
-}
-
 function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) throw new Error("The selected repository has an invalid pushed_at date.");
@@ -298,36 +151,13 @@ function formatDate(value) {
   }).format(date);
 }
 
-function buildProjectBlock(repository, imageUrl, commitMessage, homepage) {
-  const lines = [
-    `### [${cleanText(repository.name)}](${repository.html_url})`,
-    "",
-  ];
-
-  if (imageUrl) {
-    lines.push(
-      `<a href="${repository.html_url}"><img src="${imageUrl}" alt="Preview of ${escapeHtml(repository.name)}" width="480"></a>`,
-      "",
-    );
-  }
-
-  lines.push(cleanText(repository.description), "");
-
+function buildProjectEntry(repository, homepage) {
   const details = [];
-  if (repository.language) details.push(`**Primary language:** ${cleanText(repository.language)}`);
-  details.push(`**Last pushed:** ${formatDate(repository.pushed_at)}`);
-  lines.push(details.join(" | "));
+  if (repository.language) details.push(`\`${cleanText(repository.language)}\``);
+  details.push(`Updated ${formatDate(repository.pushed_at)}`);
+  if (homepage) details.push(`[Live demo](${homepage})`);
 
-  const topics = Array.isArray(repository.topics)
-    ? repository.topics.filter(Boolean).slice(0, MAX_TOPICS)
-    : [];
-  if (topics.length > 0) {
-    lines.push(`**Topics:** ${topics.map((topic) => `\`${cleanText(topic)}\``).join(" ")}`);
-  }
-  if (commitMessage) lines.push(`**Latest code update:** ${cleanText(commitMessage)}`);
-
-  lines.push("", `[Source](${repository.html_url})${homepage ? ` | [Live](${homepage})` : ""}`);
-  return lines.join("\n");
+  return `- **[${cleanText(repository.name)}](${repository.html_url})** - ${cleanText(repository.description)} (${details.join(" · ")})`;
 }
 
 function replaceSection(readme, generatedBlock) {
@@ -359,17 +189,14 @@ function writeFileAtomically(filePath, content) {
 
 async function main() {
   const repositories = await listOwnedRepositories();
-  const { repository, tree } = await selectLatestRepository(repositories);
-  const readme = await githubText(
-    `/repos/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/readme`,
-  );
-  const [imageUrl, commitMessage, homepage] = await Promise.all([
-    selectProjectImage(repository, tree, readme),
-    getMeaningfulCommit(repository),
-    validHomepage(repository.homepage),
-  ]);
+  const selectedRepositories = await selectLatestRepositories(repositories);
+  if (selectedRepositories.length === 0) throw new Error("No recent repository passed the meaningful source checks.");
 
-  const generatedBlock = buildProjectBlock(repository, imageUrl, commitMessage, homepage);
+  const projects = await Promise.all(selectedRepositories.map(async (repository) => ({
+    repository,
+    homepage: await validHomepage(repository.homepage),
+  })));
+  const generatedBlock = projects.map(({ repository, homepage }) => buildProjectEntry(repository, homepage)).join("\n");
   const currentReadme = fs.readFileSync(README_PATH, "utf8");
   const updatedReadme = replaceSection(currentReadme, generatedBlock);
   const changed = updatedReadme !== currentReadme;
@@ -386,7 +213,7 @@ async function main() {
   }
 
   writeFileAtomically(README_PATH, updatedReadme);
-  console.log(`Updated README with ${repository.full_name}.`);
+  console.log(`Updated README with ${projects.length} latest projects.`);
 }
 
 main().catch((error) => {

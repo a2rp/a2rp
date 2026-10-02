@@ -6,37 +6,19 @@ I build React applications, secure APIs, and practical developer tools with Node
 
 [Portfolio](https://www.ashishranjan.net) · [Resume](https://github.com/a2rp/resume/releases/latest/download/Ashish_Ranjan_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/aashishranjan/) · [Email](mailto:ash.ranjan09@gmail.com)
 
-## Selected projects
+## Latest projects
 
-- **[Admin Dashboard](https://github.com/a2rp/admin-dashboard-searching-sorting-pagination-profile-pictures)** - User administration with authentication, role-based access, search, pagination, and profile image uploads.
-- **[Authorization Security API](https://github.com/a2rp/authorization-security-api)** - Express API with JWT authentication, granular permissions, API keys, and rate limiting.
-- **[Framer Motion Demos](https://github.com/a2rp/framer-motion-demos)** - Searchable React motion examples for navigation, forms, gestures, and overlays. [Live demo](https://a2rp.github.io/framer-motion-demos/)
-- **[AI Resume Screener](https://github.com/a2rp/ai-resume-screener)** - React and FastAPI application for PDF resume analysis, semantic matching, and downloadable results.
+<!-- BEGIN LATEST-PROJECTS -->
+- **[system-design-core-notes](https://github.com/a2rp/system-design-core-notes)** - Structured system design revision notes covering architecture, scalability, reliability, and tradeoffs. (`JavaScript` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/system-design-core-notes/))
+- **[reactjs_concepts](https://github.com/a2rp/reactjs_concepts)** - Focused React concepts landing page for clear frontend foundations. (`CSS` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/reactjs_concepts/))
+- **[tabs-pro](https://github.com/a2rp/tabs-pro)** - Reusable React tabs component with keyboard navigation and persistent note tabs. (`JavaScript` · Updated September 25, 2026 · [Live demo](https://a2rp.github.io/tabs-pro/))
+<!-- END LATEST-PROJECTS -->
 
 ## Tech stack
 
 - **Frontend:** React · JavaScript · Vite · styled-components · Material UI
 - **Backend:** Node.js · Express · MongoDB · Mongoose · JWT
 - **Tools:** Git · GitHub Actions · npm
-
-<details>
-<summary><strong>Latest project</strong> · Automatically updated</summary>
-
-<!-- BEGIN LATEST-GITHUB-UPDATE -->
-### [system-design-core-notes](https://github.com/a2rp/system-design-core-notes)
-
-<a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/screenshot.png" alt="Preview of system-design-core-notes" width="480"></a>
-
-Structured system design revision notes covering architecture, scalability, reliability, and tradeoffs.
-
-**Primary language:** JavaScript | **Last pushed:** September 25, 2026
-**Topics:** `architecture` `distributed-systems` `github-pages`
-**Latest code update:** Add internal scroll top control
-
-[Source](https://github.com/a2rp/system-design-core-notes) | [Live](https://a2rp.github.io/system-design-core-notes/)
-<!-- END LATEST-GITHUB-UPDATE -->
-
-</details>
 
 ## Latest on YouTube
 
