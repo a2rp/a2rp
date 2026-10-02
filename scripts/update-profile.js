@@ -9,6 +9,7 @@ const DRY_RUN = process.argv.includes("--dry-run");
 const START_MARKER = "<!-- BEGIN LATEST-PROJECTS -->";
 const END_MARKER = "<!-- END LATEST-PROJECTS -->";
 const PROJECT_COUNT = 3;
+const ROOT_IMAGE_EXTENSIONS = new Set([".gif", ".jpg", ".jpeg", ".png", ".webp"]);
 
 const SOURCE_EXTENSIONS = new Set([
   ".c", ".cc", ".cpp", ".cs", ".css", ".go", ".h", ".html", ".java",
@@ -116,11 +117,52 @@ async function selectLatestRepositories(repositories) {
   for (const repository of candidates) {
     const tree = await getRepositoryTree(repository);
     if (tree.filter((item) => isMeaningfulSourcePath(item.path)).length >= 2) {
-      selected.push(repository);
+      selected.push({ repository, tree });
       if (selected.length === PROJECT_COUNT) return selected;
     }
   }
   return selected;
+}
+
+function isRootProjectImage(filePath) {
+  const basename = path.posix.basename(filePath).toLowerCase();
+  return !filePath.includes("/")
+    && ROOT_IMAGE_EXTENSIONS.has(path.posix.extname(basename))
+    && !/(favicon|icon|logo|sprite|avatar)/i.test(basename);
+}
+
+function rootImagePriority(filePath) {
+  const basename = path.posix.basename(filePath);
+  if (/^screenshot(?:[-_.]|$)/i.test(basename)) return 0;
+  if (/^preview(?:[-_.]|$)/i.test(basename)) return 1;
+  if (/^(cover|banner|demo)(?:[-_.]|$)/i.test(basename)) return 2;
+  return 3;
+}
+
+function rawGitHubUrl(repository, filePath) {
+  const encodedPath = filePath.split("/").map(encodeURIComponent).join("/");
+  return `https://raw.githubusercontent.com/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/${encodeURIComponent(repository.default_branch)}/${encodedPath}`;
+}
+
+async function getLastImageUpdate(repository, filePath) {
+  const commits = await githubJson(
+    `/repos/${encodeURIComponent(OWNER)}/${encodeURIComponent(repository.name)}/commits?path=${encodeURIComponent(filePath)}&per_page=1`,
+  );
+  const date = commits[0]?.commit?.committer?.date || commits[0]?.commit?.author?.date;
+  const timestamp = date ? Date.parse(date) : Number.NaN;
+  return Number.isFinite(timestamp) ? { filePath, timestamp } : null;
+}
+
+async function selectLatestRootImage(repository, tree) {
+  const candidates = tree.filter((item) => isRootProjectImage(item.path));
+  const updatedImages = (await Promise.all(
+    candidates.map((item) => getLastImageUpdate(repository, item.path)),
+  )).filter(Boolean);
+
+  updatedImages.sort((a, b) => (b.timestamp - a.timestamp)
+    || (rootImagePriority(a.filePath) - rootImagePriority(b.filePath)));
+
+  return updatedImages.length > 0 ? rawGitHubUrl(repository, updatedImages[0].filePath) : null;
 }
 
 async function validHomepage(homepage) {
@@ -151,13 +193,28 @@ function formatDate(value) {
   }).format(date);
 }
 
-function buildProjectEntry(repository, homepage) {
+function escapeHtml(value) {
+  return cleanText(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function buildProjectEntry(repository, homepage, imageUrl) {
   const details = [];
   if (repository.language) details.push(`\`${cleanText(repository.language)}\``);
   details.push(`Updated ${formatDate(repository.pushed_at)}`);
   if (homepage) details.push(`[Live demo](${homepage})`);
 
-  return `- **[${cleanText(repository.name)}](${repository.html_url})** - ${cleanText(repository.description)} (${details.join(" · ")})`;
+  const lines = [
+    `- **[${cleanText(repository.name)}](${repository.html_url})** - ${cleanText(repository.description)}`,
+  ];
+  if (imageUrl) {
+    lines.push(`  <a href="${repository.html_url}"><img src="${imageUrl}" alt="Preview of ${escapeHtml(repository.name)}" width="480"></a>`);
+  }
+  lines.push(`  (${details.join(" · ")})`);
+  return lines.join("\n");
 }
 
 function replaceSection(readme, generatedBlock) {
@@ -192,11 +249,14 @@ async function main() {
   const selectedRepositories = await selectLatestRepositories(repositories);
   if (selectedRepositories.length === 0) throw new Error("No recent repository passed the meaningful source checks.");
 
-  const projects = await Promise.all(selectedRepositories.map(async (repository) => ({
+  const projects = await Promise.all(selectedRepositories.map(async ({ repository, tree }) => ({
     repository,
     homepage: await validHomepage(repository.homepage),
+    image: await selectLatestRootImage(repository, tree),
   })));
-  const generatedBlock = projects.map(({ repository, homepage }) => buildProjectEntry(repository, homepage)).join("\n");
+  const generatedBlock = projects.map(({ repository, homepage, image }) => (
+    buildProjectEntry(repository, homepage, image)
+  )).join("\n");
   const currentReadme = fs.readFileSync(README_PATH, "utf8");
   const updatedReadme = replaceSection(currentReadme, generatedBlock);
   const changed = updatedReadme !== currentReadme;
