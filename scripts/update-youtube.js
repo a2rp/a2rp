@@ -2,11 +2,16 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 const CHANNEL_ID = process.env.YOUTUBE_CHANNEL_ID || "UCLHIBQeFQIxmRveVAjLvlbQ";
+const SHORTS_URL = process.env.YOUTUBE_SHORTS_URL
+  || "https://www.youtube.com/@ashishranjan-ashz/shorts?hl=en";
 const README_PATH = path.resolve(process.env.README_PATH || "README.md");
 const DRY_RUN = process.argv.includes("--dry-run");
 const START_MARKER = "<!-- BEGIN YOUTUBE-CARDS -->";
 const END_MARKER = "<!-- END YOUTUBE-CARDS -->";
+const SHORTS_START_MARKER = "<!-- BEGIN YOUTUBE-SHORTS -->";
+const SHORTS_END_MARKER = "<!-- END YOUTUBE-SHORTS -->";
 const VIDEO_COUNT = 2;
+const SHORT_COUNT = 2;
 
 function decodeXml(value) {
   const namedEntities = {
@@ -52,6 +57,23 @@ async function fetchFeed() {
   return xml;
 }
 
+async function fetchShortsPage() {
+  const response = await fetch(SHORTS_URL, {
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; a2rp-profile-updater/1.0)" },
+    signal: AbortSignal.timeout(20_000),
+  });
+
+  if (!response.ok) {
+    throw new Error(`YouTube Shorts page request failed with ${response.status}.`);
+  }
+
+  const html = await response.text();
+  if (!html.includes("shortsLockupViewModel")) {
+    throw new Error("YouTube returned a Shorts page with an unsupported format.");
+  }
+  return html;
+}
+
 function parseVideos(xml) {
   const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
   const videos = entries.map(([, entry]) => {
@@ -66,48 +88,101 @@ function parseVideos(xml) {
     return { id, title: cleanText(title), timestamp };
   }).filter(Boolean);
 
-  if (videos.length < VIDEO_COUNT) {
-    throw new Error(`YouTube returned ${videos.length} valid videos; expected at least ${VIDEO_COUNT}.`);
-  }
-
-  return videos.slice(0, VIDEO_COUNT);
+  return videos;
 }
 
-function buildCard(video) {
+function parseJsonObject(source, start) {
+  let depth = 0;
+  let inString = false;
+  let escaped = false;
+
+  for (let index = start; index < source.length; index += 1) {
+    const character = source[index];
+
+    if (inString) {
+      if (escaped) escaped = false;
+      else if (character === "\\") escaped = true;
+      else if (character === "\"") inString = false;
+      continue;
+    }
+
+    if (character === "\"") inString = true;
+    else if (character === "{") depth += 1;
+    else if (character === "}" && --depth === 0) {
+      return JSON.parse(source.slice(start, index + 1));
+    }
+  }
+
+  return null;
+}
+
+function parseShorts(html, publishedVideos) {
+  const marker = '"shortsLockupViewModel":';
+  const publishedById = new Map(publishedVideos.map((video) => [video.id, video.timestamp]));
+  const shorts = [];
+  const seen = new Set();
+  let cursor = 0;
+
+  while ((cursor = html.indexOf(marker, cursor)) !== -1) {
+    const objectStart = html.indexOf("{", cursor + marker.length);
+    if (objectStart === -1) break;
+
+    const model = parseJsonObject(html, objectStart);
+    cursor = objectStart + 1;
+
+    const id = model?.onTap?.innertubeCommand?.reelWatchEndpoint?.videoId;
+    const title = model?.overlayMetadata?.primaryText?.content;
+    if (!id || !title || seen.has(id)) continue;
+
+    seen.add(id);
+    shorts.push({ id, title: cleanText(title), timestamp: publishedById.get(id) });
+  }
+
+  if (shorts.length < SHORT_COUNT) {
+    throw new Error(`YouTube returned ${shorts.length} Shorts; expected at least ${SHORT_COUNT}.`);
+  }
+
+  return shorts;
+}
+
+function buildCard(video, isShort = false) {
   const cardUrl = new URL("https://ytcards.demolab.com/");
-  cardUrl.search = new URLSearchParams({
+  const parameters = {
     id: video.id,
     title: video.title,
     lang: "en",
-    timestamp: String(video.timestamp),
     background_color: "#0d1117",
     title_color: "#ffffff",
     stats_color: "#b3b3b3",
     max_title_lines: "2",
     width: "360",
     border_radius: "10",
-  }).toString();
+  };
+  if (video.timestamp) parameters.timestamp = String(video.timestamp);
+  cardUrl.search = new URLSearchParams(parameters).toString();
 
-  const videoUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(video.id)}`;
+  const videoUrl = isShort
+    ? `https://www.youtube.com/shorts/${encodeURIComponent(video.id)}`
+    : `https://www.youtube.com/watch?v=${encodeURIComponent(video.id)}`;
   const alt = video.title.replace(/[[\]"\\]/g, "");
   return `[![${alt}](${cardUrl.toString()} "${alt}")](${videoUrl})`;
 }
 
-function replaceSection(readme, cards) {
-  const start = readme.indexOf(START_MARKER);
-  const end = readme.indexOf(END_MARKER);
+function replaceSection(readme, startMarker, endMarker, cards) {
+  const start = readme.indexOf(startMarker);
+  const end = readme.indexOf(endMarker);
 
   if (start === -1 || end === -1 || end <= start) {
-    throw new Error("YouTube markers are missing or out of order.");
+    throw new Error(`YouTube markers ${startMarker} and ${endMarker} are missing or out of order.`);
   }
-  if (readme.indexOf(START_MARKER, start + START_MARKER.length) !== -1
-      || readme.indexOf(END_MARKER, end + END_MARKER.length) !== -1) {
-    throw new Error("YouTube markers must appear exactly once.");
+  if (readme.indexOf(startMarker, start + startMarker.length) !== -1
+      || readme.indexOf(endMarker, end + endMarker.length) !== -1) {
+    throw new Error(`YouTube markers ${startMarker} and ${endMarker} must appear exactly once.`);
   }
 
   const eol = readme.includes("\r\n") ? "\r\n" : "\n";
   const block = cards.join(eol);
-  return `${readme.slice(0, start + START_MARKER.length)}${eol}${block}${eol}${readme.slice(end)}`;
+  return `${readme.slice(0, start + startMarker.length)}${eol}${block}${eol}${readme.slice(end)}`;
 }
 
 function writeFileAtomically(filePath, content) {
@@ -121,14 +196,29 @@ function writeFileAtomically(filePath, content) {
 }
 
 async function main() {
-  const feed = await fetchFeed();
-  const cards = parseVideos(feed).map(buildCard);
+  const [feed, shortsPage] = await Promise.all([fetchFeed(), fetchShortsPage()]);
+  const uploadedVideos = parseVideos(feed);
+  const allShorts = parseShorts(shortsPage, uploadedVideos);
+  const shorts = allShorts.slice(0, SHORT_COUNT);
+  const shortIds = new Set(allShorts.map((short) => short.id));
+  const videos = uploadedVideos.filter((video) => !shortIds.has(video.id)).slice(0, VIDEO_COUNT);
+
+  if (videos.length < VIDEO_COUNT) {
+    throw new Error(`YouTube returned ${videos.length} regular videos; expected at least ${VIDEO_COUNT}.`);
+  }
+
+  const videoCards = videos.map((video) => buildCard(video));
+  const shortCards = shorts.map((short) => buildCard(short, true));
   const currentReadme = fs.readFileSync(README_PATH, "utf8");
-  const updatedReadme = replaceSection(currentReadme, cards);
+  const withVideos = replaceSection(currentReadme, START_MARKER, END_MARKER, videoCards);
+  const updatedReadme = replaceSection(withVideos, SHORTS_START_MARKER, SHORTS_END_MARKER, shortCards);
   const changed = updatedReadme !== currentReadme;
 
   if (DRY_RUN) {
-    console.log(cards.join("\n"));
+    console.log("Latest videos:");
+    console.log(videoCards.join("\n"));
+    console.log("\nLatest Shorts:");
+    console.log(shortCards.join("\n"));
     console.log(`\nDry run complete. README would ${changed ? "change" : "not change"}.`);
     return;
   }
@@ -139,7 +229,7 @@ async function main() {
   }
 
   writeFileAtomically(README_PATH, updatedReadme);
-  console.log(`Updated README with ${cards.length} YouTube cards.`);
+  console.log(`Updated README with ${videoCards.length} video cards and ${shortCards.length} Shorts cards.`);
 }
 
 main().catch((error) => {
