@@ -9,6 +9,11 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
+- **[crm-contact-board](https://github.com/a2rp/crm-contact-board)** - A responsive CRM board for organizing contacts, relationship stages, and thoughtful follow-ups.
+  <br>
+  <a href="https://github.com/a2rp/crm-contact-board"><img src="https://raw.githubusercontent.com/a2rp/crm-contact-board/main/screenshot.png" alt="Preview of crm-contact-board" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 5, 2026 · [Live demo](https://a2rp.github.io/crm-contact-board/))
 - **[zustand-handbook](https://github.com/a2rp/zustand-handbook)** - A practical Zustand handbook with tutorials, glossary notes, and runnable React state-management examples.
   <br>
   <a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/screenshot.png" alt="Preview of zustand-handbook" width="480"></a>
@@ -19,11 +24,6 @@ I build React applications, secure APIs, and practical developer tools with Node
   <a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/screenshot.png" alt="Preview of system-design-core-notes" width="480"></a>
   <br>
   (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/system-design-core-notes/))
-- **[software-testing-core-notes](https://github.com/a2rp/software-testing-core-notes)** - Software testing notes covering unit and integration tests, API testing, TDD, mocking, and code coverage.
-  <br>
-  <a href="https://github.com/a2rp/software-testing-core-notes"><img src="https://raw.githubusercontent.com/a2rp/software-testing-core-notes/main/screenshot.png" alt="Preview of software-testing-core-notes" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/software-testing-core-notes/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
