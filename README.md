@@ -9,18 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[inventory-dashboard](https://github.com/a2rp/inventory-dashboard)** - A focused stockroom dashboard for monitoring product levels, reorders, and inventory movement.
+- **[community-poll-builder](https://github.com/a2rp/community-poll-builder)** - Create neighborhood polls, collect votes, and see community results.
   (`JavaScript` · Updated October 6, 2026)
-- **[employee-shift-scheduler](https://github.com/a2rp/employee-shift-scheduler)** - A weekly employee shift scheduler for assigning coverage and tracking team hours.
+- **[team-directory](https://github.com/a2rp/team-directory)** - A clear team directory with fast search, filters, and teammate profiles.
   <br>
-  <a href="https://github.com/a2rp/employee-shift-scheduler"><img src="https://raw.githubusercontent.com/a2rp/employee-shift-scheduler/main/screenshot.png" alt="Preview of employee-shift-scheduler" width="480"></a>
+  <a href="https://github.com/a2rp/team-directory"><img src="https://raw.githubusercontent.com/a2rp/team-directory/main/screenshot.png" alt="Preview of team-directory" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/employee-shift-scheduler/))
-- **[customer-feedback-dashboard](https://github.com/a2rp/customer-feedback-dashboard)** - A dashboard for collecting and reviewing customer feedback, satisfaction trends, and follow-up insights.
+  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/team-directory/))
+- **[support-ticket-board](https://github.com/a2rp/support-ticket-board)** - Triage customer support requests, manage replies, and track ownership in a responsive inbox.
   <br>
-  <a href="https://github.com/a2rp/customer-feedback-dashboard"><img src="https://raw.githubusercontent.com/a2rp/customer-feedback-dashboard/main/screenshot.png" alt="Preview of customer-feedback-dashboard" width="480"></a>
+  <a href="https://github.com/a2rp/support-ticket-board"><img src="https://raw.githubusercontent.com/a2rp/support-ticket-board/main/screenshot.png" alt="Preview of support-ticket-board" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/customer-feedback-dashboard/))
+  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/support-ticket-board/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
