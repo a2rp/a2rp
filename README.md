@@ -9,21 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[crm-contact-board](https://github.com/a2rp/crm-contact-board)** - A responsive CRM board for organizing contacts, relationship stages, and thoughtful follow-ups.
+- **[inventory-dashboard](https://github.com/a2rp/inventory-dashboard)** - A focused stockroom dashboard for monitoring product levels, reorders, and inventory movement.
+  (`JavaScript` · Updated October 6, 2026)
+- **[employee-shift-scheduler](https://github.com/a2rp/employee-shift-scheduler)** - A weekly employee shift scheduler for assigning coverage and tracking team hours.
   <br>
-  <a href="https://github.com/a2rp/crm-contact-board"><img src="https://raw.githubusercontent.com/a2rp/crm-contact-board/main/screenshot.png" alt="Preview of crm-contact-board" width="480"></a>
+  <a href="https://github.com/a2rp/employee-shift-scheduler"><img src="https://raw.githubusercontent.com/a2rp/employee-shift-scheduler/main/screenshot.png" alt="Preview of employee-shift-scheduler" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 5, 2026 · [Live demo](https://a2rp.github.io/crm-contact-board/))
-- **[zustand-handbook](https://github.com/a2rp/zustand-handbook)** - A practical Zustand handbook with tutorials, glossary notes, and runnable React state-management examples.
+  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/employee-shift-scheduler/))
+- **[customer-feedback-dashboard](https://github.com/a2rp/customer-feedback-dashboard)** - A dashboard for collecting and reviewing customer feedback, satisfaction trends, and follow-up insights.
   <br>
-  <a href="https://github.com/a2rp/zustand-handbook"><img src="https://raw.githubusercontent.com/a2rp/zustand-handbook/main/screenshot.png" alt="Preview of zustand-handbook" width="480"></a>
+  <a href="https://github.com/a2rp/customer-feedback-dashboard"><img src="https://raw.githubusercontent.com/a2rp/customer-feedback-dashboard/main/screenshot.png" alt="Preview of customer-feedback-dashboard" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/zustand-handbook/))
-- **[system-design-core-notes](https://github.com/a2rp/system-design-core-notes)** - System design revision notes on architecture, scalability, reliability, distributed systems, databases, messaging, and interview tradeoffs.
-  <br>
-  <a href="https://github.com/a2rp/system-design-core-notes"><img src="https://raw.githubusercontent.com/a2rp/system-design-core-notes/main/screenshot.png" alt="Preview of system-design-core-notes" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 2, 2026 · [Live demo](https://a2rp.github.io/system-design-core-notes/))
+  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/customer-feedback-dashboard/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
