@@ -9,18 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[community-poll-builder](https://github.com/a2rp/community-poll-builder)** - Create neighborhood polls, collect votes, and see community results.
-  (`JavaScript` · Updated October 6, 2026)
-- **[team-directory](https://github.com/a2rp/team-directory)** - A clear team directory with fast search, filters, and teammate profiles.
+- **[color-gradient-explorer](https://github.com/a2rp/color-gradient-explorer)** - Explore gradients, adjust colors and stops, save blends, and copy CSS for design work.
+  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/color-gradient-explorer/))
+- **[community-poll-builder](https://github.com/a2rp/community-poll-builder)** - A browser-based community poll board for creating local questions, voting, and reviewing results.
   <br>
-  <a href="https://github.com/a2rp/team-directory"><img src="https://raw.githubusercontent.com/a2rp/team-directory/main/screenshot.png" alt="Preview of team-directory" width="480"></a>
+  <a href="https://github.com/a2rp/community-poll-builder"><img src="https://raw.githubusercontent.com/a2rp/community-poll-builder/main/screenshot.png" alt="Preview of community-poll-builder" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/team-directory/))
-- **[support-ticket-board](https://github.com/a2rp/support-ticket-board)** - Triage customer support requests, manage replies, and track ownership in a responsive inbox.
+  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/community-poll-builder/))
+- **[volunteer-opportunity-board](https://github.com/a2rp/volunteer-opportunity-board)** - Find local volunteer shifts, support neighborhood projects, and keep a personal plan.
   <br>
-  <a href="https://github.com/a2rp/support-ticket-board"><img src="https://raw.githubusercontent.com/a2rp/support-ticket-board/main/screenshot.png" alt="Preview of support-ticket-board" width="480"></a>
+  <a href="https://github.com/a2rp/volunteer-opportunity-board"><img src="https://raw.githubusercontent.com/a2rp/volunteer-opportunity-board/main/screenshot.png" alt="Preview of volunteer-opportunity-board" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 6, 2026 · [Live demo](https://a2rp.github.io/support-ticket-board/))
+  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/volunteer-opportunity-board/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
