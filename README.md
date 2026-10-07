@@ -9,18 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[color-gradient-explorer](https://github.com/a2rp/color-gradient-explorer)** - Explore gradients, adjust colors and stops, save blends, and copy CSS for design work.
-  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/color-gradient-explorer/))
-- **[community-poll-builder](https://github.com/a2rp/community-poll-builder)** - A browser-based community poll board for creating local questions, voting, and reviewing results.
+- **[moodboard-builder](https://github.com/a2rp/moodboard-builder)** - Build and organize visual moodboards with curated images, color stories, and notes.
+  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/moodboard-builder/))
+- **[logo-concept-board](https://github.com/a2rp/logo-concept-board)** - Create, refine, save, and export logo concepts for new brands.
   <br>
-  <a href="https://github.com/a2rp/community-poll-builder"><img src="https://raw.githubusercontent.com/a2rp/community-poll-builder/main/screenshot.png" alt="Preview of community-poll-builder" width="480"></a>
+  <a href="https://github.com/a2rp/logo-concept-board"><img src="https://raw.githubusercontent.com/a2rp/logo-concept-board/main/screenshot.png" alt="Preview of logo-concept-board" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/community-poll-builder/))
-- **[volunteer-opportunity-board](https://github.com/a2rp/volunteer-opportunity-board)** - Find local volunteer shifts, support neighborhood projects, and keep a personal plan.
+  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/logo-concept-board/))
+- **[icon-library-browser](https://github.com/a2rp/icon-library-browser)** - Search, preview, and export icons from popular React icon collections.
   <br>
-  <a href="https://github.com/a2rp/volunteer-opportunity-board"><img src="https://raw.githubusercontent.com/a2rp/volunteer-opportunity-board/main/screenshot.png" alt="Preview of volunteer-opportunity-board" width="480"></a>
+  <a href="https://github.com/a2rp/icon-library-browser"><img src="https://raw.githubusercontent.com/a2rp/icon-library-browser/main/screenshot.png" alt="Preview of icon-library-browser" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/volunteer-opportunity-board/))
+  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/icon-library-browser/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
