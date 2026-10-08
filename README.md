@@ -9,21 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[cron-expression-builder](https://github.com/a2rp/cron-expression-builder)** - Build and validate five-field cron expressions with clear descriptions and local run previews.
+- **[world-time-planner](https://github.com/a2rp/world-time-planner)** - Compare local times worldwide and find the best hour to meet.
   <br>
-  <a href="https://github.com/a2rp/cron-expression-builder"><img src="https://raw.githubusercontent.com/a2rp/cron-expression-builder/main/screenshot.png" alt="Preview of cron-expression-builder" width="480"></a>
+  <a href="https://github.com/a2rp/world-time-planner"><img src="https://raw.githubusercontent.com/a2rp/world-time-planner/main/screenshot.png" alt="Preview of world-time-planner" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/cron-expression-builder/))
-- **[color-palette-studio](https://github.com/a2rp/color-palette-studio)** - A browser-based palette generator for color harmonies and reusable CSS tokens.
+  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/world-time-planner/))
+- **[trip-itinerary-builder](https://github.com/a2rp/trip-itinerary-builder)** - Plan travel days, schedule stops, and keep trip details in one itinerary.
   <br>
-  <a href="https://github.com/a2rp/color-palette-studio"><img src="https://raw.githubusercontent.com/a2rp/color-palette-studio/main/screenshot.png" alt="Preview of color-palette-studio" width="480"></a>
+  <a href="https://github.com/a2rp/trip-itinerary-builder"><img src="https://raw.githubusercontent.com/a2rp/trip-itinerary-builder/main/screenshot.png" alt="Preview of trip-itinerary-builder" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/color-palette-studio/))
-- **[code-diff-viewer](https://github.com/a2rp/code-diff-viewer)** - A browser tool for comparing two text or code versions line by line.
+  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/trip-itinerary-builder/))
+- **[travel-memory-map](https://github.com/a2rp/travel-memory-map)** - Map travel memories and revisit notes from favorite places.
   <br>
-  <a href="https://github.com/a2rp/code-diff-viewer"><img src="https://raw.githubusercontent.com/a2rp/code-diff-viewer/main/screenshot.png" alt="Preview of code-diff-viewer" width="480"></a>
+  <a href="https://github.com/a2rp/travel-memory-map"><img src="https://raw.githubusercontent.com/a2rp/travel-memory-map/main/screenshot.png" alt="Preview of travel-memory-map" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/code-diff-viewer/))
+  (`CSS` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/travel-memory-map/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
