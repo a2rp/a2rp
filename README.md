@@ -9,18 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[moodboard-builder](https://github.com/a2rp/moodboard-builder)** - Build and organize visual moodboards with curated images, color stories, and notes.
-  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/moodboard-builder/))
-- **[logo-concept-board](https://github.com/a2rp/logo-concept-board)** - Create, refine, save, and export logo concepts for new brands.
+- **[cron-expression-builder](https://github.com/a2rp/cron-expression-builder)** - Build and validate five-field cron expressions with clear descriptions and local run previews.
   <br>
-  <a href="https://github.com/a2rp/logo-concept-board"><img src="https://raw.githubusercontent.com/a2rp/logo-concept-board/main/screenshot.png" alt="Preview of logo-concept-board" width="480"></a>
+  <a href="https://github.com/a2rp/cron-expression-builder"><img src="https://raw.githubusercontent.com/a2rp/cron-expression-builder/main/screenshot.png" alt="Preview of cron-expression-builder" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/logo-concept-board/))
-- **[icon-library-browser](https://github.com/a2rp/icon-library-browser)** - Search, preview, and export icons from popular React icon collections.
+  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/cron-expression-builder/))
+- **[color-palette-studio](https://github.com/a2rp/color-palette-studio)** - A browser-based palette generator for color harmonies and reusable CSS tokens.
   <br>
-  <a href="https://github.com/a2rp/icon-library-browser"><img src="https://raw.githubusercontent.com/a2rp/icon-library-browser/main/screenshot.png" alt="Preview of icon-library-browser" width="480"></a>
+  <a href="https://github.com/a2rp/color-palette-studio"><img src="https://raw.githubusercontent.com/a2rp/color-palette-studio/main/screenshot.png" alt="Preview of color-palette-studio" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 7, 2026 · [Live demo](https://a2rp.github.io/icon-library-browser/))
+  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/color-palette-studio/))
+- **[code-diff-viewer](https://github.com/a2rp/code-diff-viewer)** - A browser tool for comparing two text or code versions line by line.
+  <br>
+  <a href="https://github.com/a2rp/code-diff-viewer"><img src="https://raw.githubusercontent.com/a2rp/code-diff-viewer/main/screenshot.png" alt="Preview of code-diff-viewer" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/code-diff-viewer/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
