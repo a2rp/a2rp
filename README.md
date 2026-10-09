@@ -9,21 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[world-time-planner](https://github.com/a2rp/world-time-planner)** - Compare local times worldwide and find the best hour to meet.
+- **[sleep-journal](https://github.com/a2rp/sleep-journal)** - A sleep journal with overnight duration tracking, restfulness ratings, and weekly trends.
   <br>
-  <a href="https://github.com/a2rp/world-time-planner"><img src="https://raw.githubusercontent.com/a2rp/world-time-planner/main/screenshot.png" alt="Preview of world-time-planner" width="480"></a>
+  <a href="https://github.com/a2rp/sleep-journal"><img src="https://raw.githubusercontent.com/a2rp/sleep-journal/main/screenshot.png" alt="Preview of sleep-journal" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/world-time-planner/))
-- **[trip-itinerary-builder](https://github.com/a2rp/trip-itinerary-builder)** - Plan travel days, schedule stops, and keep trip details in one itinerary.
+  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/sleep-journal/))
+- **[running-activity-log](https://github.com/a2rp/running-activity-log)** - A simple running journal with distance tracking, weekly goals, and progress charts.
   <br>
-  <a href="https://github.com/a2rp/trip-itinerary-builder"><img src="https://raw.githubusercontent.com/a2rp/trip-itinerary-builder/main/screenshot.png" alt="Preview of trip-itinerary-builder" width="480"></a>
+  <a href="https://github.com/a2rp/running-activity-log"><img src="https://raw.githubusercontent.com/a2rp/running-activity-log/main/screenshot.png" alt="Preview of running-activity-log" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/trip-itinerary-builder/))
-- **[travel-memory-map](https://github.com/a2rp/travel-memory-map)** - Map travel memories and revisit notes from favorite places.
+  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/running-activity-log/))
+- **[meditation-timer](https://github.com/a2rp/meditation-timer)** - A mindful meditation timer with breathing guides and a personal practice history.
   <br>
-  <a href="https://github.com/a2rp/travel-memory-map"><img src="https://raw.githubusercontent.com/a2rp/travel-memory-map/main/screenshot.png" alt="Preview of travel-memory-map" width="480"></a>
+  <a href="https://github.com/a2rp/meditation-timer"><img src="https://raw.githubusercontent.com/a2rp/meditation-timer/main/screenshot.png" alt="Preview of meditation-timer" width="480"></a>
   <br>
-  (`CSS` · Updated October 8, 2026 · [Live demo](https://a2rp.github.io/travel-memory-map/))
+  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/meditation-timer/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
