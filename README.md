@@ -9,21 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[customer-success-platform](https://github.com/a2rp/customer-success-platform)** - A React customer success workspace for account health, renewals, playbooks, and follow-up tasks.
+- **[project-work-management](https://github.com/a2rp/project-work-management)** - Frontend-only project planning and team workload workspace
   <br>
-  <a href="https://github.com/a2rp/customer-success-platform"><img src="https://raw.githubusercontent.com/a2rp/customer-success-platform/main/screenshot.png" alt="Preview of customer-success-platform" width="480"></a>
+  <a href="https://github.com/a2rp/project-work-management"><img src="https://raw.githubusercontent.com/a2rp/project-work-management/main/screenshot.png" alt="Preview of project-work-management" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/customer-success-platform/))
-- **[applicant-tracking-system](https://github.com/a2rp/applicant-tracking-system)** - A frontend-only applicant tracking workspace for managing candidates, open roles, and hiring stages.
+  (`CSS` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/project-work-management/))
+- **[procurement-vendor-portal](https://github.com/a2rp/procurement-vendor-portal)** - A supplier procurement portal for RFQs, purchase orders, invoices, and compliance workflows.
   <br>
-  <a href="https://github.com/a2rp/applicant-tracking-system"><img src="https://raw.githubusercontent.com/a2rp/applicant-tracking-system/main/screenshot.png" alt="Preview of applicant-tracking-system" width="480"></a>
+  <a href="https://github.com/a2rp/procurement-vendor-portal"><img src="https://raw.githubusercontent.com/a2rp/procurement-vendor-portal/main/screenshot.png" alt="Preview of procurement-vendor-portal" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/applicant-tracking-system/))
-- **[task-manager](https://github.com/a2rp/task-manager)** - Task Manager keeps a searchable task inbox with due dates, priorities, and categories.
+  (`CSS` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/procurement-vendor-portal/))
+- **[hrms](https://github.com/a2rp/hrms)** - Frontend-only human resources management workspace for people operations, leave, attendance, and payroll planning.
   <br>
-  <a href="https://github.com/a2rp/task-manager"><img src="https://raw.githubusercontent.com/a2rp/task-manager/main/screenshot.png" alt="Preview of task-manager" width="480"></a>
+  <a href="https://github.com/a2rp/hrms"><img src="https://raw.githubusercontent.com/a2rp/hrms/main/screenshot.png" alt="Preview of hrms" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/task-manager/))
+  (`JavaScript` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/hrms/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
