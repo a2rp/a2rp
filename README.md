@@ -9,21 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[sleep-journal](https://github.com/a2rp/sleep-journal)** - A sleep journal with overnight duration tracking, restfulness ratings, and weekly trends.
+- **[customer-success-platform](https://github.com/a2rp/customer-success-platform)** - A React customer success workspace for account health, renewals, playbooks, and follow-up tasks.
   <br>
-  <a href="https://github.com/a2rp/sleep-journal"><img src="https://raw.githubusercontent.com/a2rp/sleep-journal/main/screenshot.png" alt="Preview of sleep-journal" width="480"></a>
+  <a href="https://github.com/a2rp/customer-success-platform"><img src="https://raw.githubusercontent.com/a2rp/customer-success-platform/main/screenshot.png" alt="Preview of customer-success-platform" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/sleep-journal/))
-- **[running-activity-log](https://github.com/a2rp/running-activity-log)** - A simple running journal with distance tracking, weekly goals, and progress charts.
+  (`JavaScript` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/customer-success-platform/))
+- **[applicant-tracking-system](https://github.com/a2rp/applicant-tracking-system)** - A frontend-only applicant tracking workspace for managing candidates, open roles, and hiring stages.
   <br>
-  <a href="https://github.com/a2rp/running-activity-log"><img src="https://raw.githubusercontent.com/a2rp/running-activity-log/main/screenshot.png" alt="Preview of running-activity-log" width="480"></a>
+  <a href="https://github.com/a2rp/applicant-tracking-system"><img src="https://raw.githubusercontent.com/a2rp/applicant-tracking-system/main/screenshot.png" alt="Preview of applicant-tracking-system" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/running-activity-log/))
-- **[meditation-timer](https://github.com/a2rp/meditation-timer)** - A mindful meditation timer with breathing guides and a personal practice history.
+  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/applicant-tracking-system/))
+- **[task-manager](https://github.com/a2rp/task-manager)** - Task Manager keeps a searchable task inbox with due dates, priorities, and categories.
   <br>
-  <a href="https://github.com/a2rp/meditation-timer"><img src="https://raw.githubusercontent.com/a2rp/meditation-timer/main/screenshot.png" alt="Preview of meditation-timer" width="480"></a>
+  <a href="https://github.com/a2rp/task-manager"><img src="https://raw.githubusercontent.com/a2rp/task-manager/main/screenshot.png" alt="Preview of task-manager" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/meditation-timer/))
+  (`JavaScript` · Updated October 9, 2026 · [Live demo](https://a2rp.github.io/task-manager/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
