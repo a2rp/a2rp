@@ -9,18 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[nonprofit-donor-management](https://github.com/a2rp/nonprofit-donor-management)** - A donor relationship workspace for campaigns, gifts, and stewardship.
-  (`JavaScript` · Updated October 11, 2026)
 - **[loan-origination-platform](https://github.com/a2rp/loan-origination-platform)** - A focused loan origination workspace for application intake, underwriting review, and loan product management.
   <br>
   <a href="https://github.com/a2rp/loan-origination-platform"><img src="https://raw.githubusercontent.com/a2rp/loan-origination-platform/main/screenshot.png" alt="Preview of loan-origination-platform" width="480"></a>
   <br>
   (`CSS` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/loan-origination-platform/))
-- **[legal-practice-management](https://github.com/a2rp/legal-practice-management)** - A focused legal practice workspace demo for matter files, court dates, clients, and billing.
+- **[digital-banking-dashboard](https://github.com/a2rp/digital-banking-dashboard)** - Frontend digital banking dashboard for sample accounts, activity, demo transfers, card controls, and savings goals.
   <br>
-  <a href="https://github.com/a2rp/legal-practice-management"><img src="https://raw.githubusercontent.com/a2rp/legal-practice-management/main/screenshot.png" alt="Preview of legal-practice-management" width="480"></a>
+  <a href="https://github.com/a2rp/digital-banking-dashboard"><img src="https://raw.githubusercontent.com/a2rp/digital-banking-dashboard/main/screenshot.png" alt="Preview of digital-banking-dashboard" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/legal-practice-management/))
+  (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/digital-banking-dashboard/))
+- **[contract-lifecycle-management](https://github.com/a2rp/contract-lifecycle-management)** - Frontend-only contract lifecycle workspace for agreement tracking, review decisions, renewal planning, and playbooks.
+  <br>
+  <a href="https://github.com/a2rp/contract-lifecycle-management"><img src="https://raw.githubusercontent.com/a2rp/contract-lifecycle-management/main/screenshot.png" alt="Preview of contract-lifecycle-management" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/contract-lifecycle-management/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
