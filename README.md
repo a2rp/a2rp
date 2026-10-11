@@ -9,21 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[project-work-management](https://github.com/a2rp/project-work-management)** - Frontend-only project planning and team workload workspace
+- **[nonprofit-donor-management](https://github.com/a2rp/nonprofit-donor-management)** - A donor relationship workspace for campaigns, gifts, and stewardship.
+  (`JavaScript` · Updated October 11, 2026)
+- **[loan-origination-platform](https://github.com/a2rp/loan-origination-platform)** - A focused loan origination workspace for application intake, underwriting review, and loan product management.
   <br>
-  <a href="https://github.com/a2rp/project-work-management"><img src="https://raw.githubusercontent.com/a2rp/project-work-management/main/screenshot.png" alt="Preview of project-work-management" width="480"></a>
+  <a href="https://github.com/a2rp/loan-origination-platform"><img src="https://raw.githubusercontent.com/a2rp/loan-origination-platform/main/screenshot.png" alt="Preview of loan-origination-platform" width="480"></a>
   <br>
-  (`CSS` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/project-work-management/))
-- **[procurement-vendor-portal](https://github.com/a2rp/procurement-vendor-portal)** - A supplier procurement portal for RFQs, purchase orders, invoices, and compliance workflows.
+  (`CSS` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/loan-origination-platform/))
+- **[legal-practice-management](https://github.com/a2rp/legal-practice-management)** - A focused legal practice workspace demo for matter files, court dates, clients, and billing.
   <br>
-  <a href="https://github.com/a2rp/procurement-vendor-portal"><img src="https://raw.githubusercontent.com/a2rp/procurement-vendor-portal/main/screenshot.png" alt="Preview of procurement-vendor-portal" width="480"></a>
+  <a href="https://github.com/a2rp/legal-practice-management"><img src="https://raw.githubusercontent.com/a2rp/legal-practice-management/main/screenshot.png" alt="Preview of legal-practice-management" width="480"></a>
   <br>
-  (`CSS` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/procurement-vendor-portal/))
-- **[hrms](https://github.com/a2rp/hrms)** - Frontend-only human resources management workspace for people operations, leave, attendance, and payroll planning.
-  <br>
-  <a href="https://github.com/a2rp/hrms"><img src="https://raw.githubusercontent.com/a2rp/hrms/main/screenshot.png" alt="Preview of hrms" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 10, 2026 · [Live demo](https://a2rp.github.io/hrms/))
+  (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/legal-practice-management/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
