@@ -9,6 +9,8 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
+- **[clinic-management-system](https://github.com/a2rp/clinic-management-system)** - A frontend demo for clinic operations, appointments, and patient workflows.
+  (`CSS` · Updated October 12, 2026)
 - **[loan-origination-platform](https://github.com/a2rp/loan-origination-platform)** - A focused loan origination workspace for application intake, underwriting review, and loan product management.
   <br>
   <a href="https://github.com/a2rp/loan-origination-platform"><img src="https://raw.githubusercontent.com/a2rp/loan-origination-platform/main/screenshot.png" alt="Preview of loan-origination-platform" width="480"></a>
@@ -19,11 +21,6 @@ I build React applications, secure APIs, and practical developer tools with Node
   <a href="https://github.com/a2rp/digital-banking-dashboard"><img src="https://raw.githubusercontent.com/a2rp/digital-banking-dashboard/main/screenshot.png" alt="Preview of digital-banking-dashboard" width="480"></a>
   <br>
   (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/digital-banking-dashboard/))
-- **[contract-lifecycle-management](https://github.com/a2rp/contract-lifecycle-management)** - Frontend-only contract lifecycle workspace for agreement tracking, review decisions, renewal planning, and playbooks.
-  <br>
-  <a href="https://github.com/a2rp/contract-lifecycle-management"><img src="https://raw.githubusercontent.com/a2rp/contract-lifecycle-management/main/screenshot.png" alt="Preview of contract-lifecycle-management" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/contract-lifecycle-management/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
