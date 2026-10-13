@@ -9,21 +9,12 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[crm-sales-pipeline](https://github.com/a2rp/crm-sales-pipeline)** - A frontend CRM demo for sales pipeline management, contacts, activities, and revenue forecasting.
-  <br>
-  <a href="https://github.com/a2rp/crm-sales-pipeline"><img src="https://raw.githubusercontent.com/a2rp/crm-sales-pipeline/main/screenshot.png" alt="Preview of crm-sales-pipeline" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/crm-sales-pipeline/))
-- **[content-management-system](https://github.com/a2rp/content-management-system)** - An editorial workspace for planning, reviewing, and publishing content.
-  <br>
-  <a href="https://github.com/a2rp/content-management-system"><img src="https://raw.githubusercontent.com/a2rp/content-management-system/main/screenshot.png" alt="Preview of content-management-system" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/content-management-system/))
-- **[b2b-wholesale-marketplace](https://github.com/a2rp/b2b-wholesale-marketplace)** - A wholesale sourcing workspace for comparing suppliers, requesting quotes, and tracking bulk orders.
-  <br>
-  <a href="https://github.com/a2rp/b2b-wholesale-marketplace"><img src="https://raw.githubusercontent.com/a2rp/b2b-wholesale-marketplace/main/screenshot.png" alt="Preview of b2b-wholesale-marketplace" width="480"></a>
-  <br>
-  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/b2b-wholesale-marketplace/))
+- **[sales-quoting-cpq](https://github.com/a2rp/sales-quoting-cpq)** - Frontend-only CPQ workspace for configuring quotes, reviewing pricing, and managing approvals.
+  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/sales-quoting-cpq/))
+- **[marketing-automation](https://github.com/a2rp/marketing-automation)** - Frontend-only marketing workspace for customer journeys, campaigns, and audience segments.
+  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/marketing-automation/))
+- **[ecommerce-storefront](https://github.com/a2rp/ecommerce-storefront)** - A frontend-only small-batch homewares storefront demo with product discovery, cart, and sample checkout.
+  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/ecommerce-storefront/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
