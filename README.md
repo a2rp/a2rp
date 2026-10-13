@@ -9,18 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[clinic-management-system](https://github.com/a2rp/clinic-management-system)** - A frontend demo for clinic operations, appointments, and patient workflows.
-  (`CSS` · Updated October 12, 2026)
-- **[loan-origination-platform](https://github.com/a2rp/loan-origination-platform)** - A focused loan origination workspace for application intake, underwriting review, and loan product management.
+- **[crm-sales-pipeline](https://github.com/a2rp/crm-sales-pipeline)** - A frontend CRM demo for sales pipeline management, contacts, activities, and revenue forecasting.
   <br>
-  <a href="https://github.com/a2rp/loan-origination-platform"><img src="https://raw.githubusercontent.com/a2rp/loan-origination-platform/main/screenshot.png" alt="Preview of loan-origination-platform" width="480"></a>
+  <a href="https://github.com/a2rp/crm-sales-pipeline"><img src="https://raw.githubusercontent.com/a2rp/crm-sales-pipeline/main/screenshot.png" alt="Preview of crm-sales-pipeline" width="480"></a>
   <br>
-  (`CSS` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/loan-origination-platform/))
-- **[digital-banking-dashboard](https://github.com/a2rp/digital-banking-dashboard)** - Frontend digital banking dashboard for sample accounts, activity, demo transfers, card controls, and savings goals.
+  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/crm-sales-pipeline/))
+- **[content-management-system](https://github.com/a2rp/content-management-system)** - An editorial workspace for planning, reviewing, and publishing content.
   <br>
-  <a href="https://github.com/a2rp/digital-banking-dashboard"><img src="https://raw.githubusercontent.com/a2rp/digital-banking-dashboard/main/screenshot.png" alt="Preview of digital-banking-dashboard" width="480"></a>
+  <a href="https://github.com/a2rp/content-management-system"><img src="https://raw.githubusercontent.com/a2rp/content-management-system/main/screenshot.png" alt="Preview of content-management-system" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 11, 2026 · [Live demo](https://a2rp.github.io/digital-banking-dashboard/))
+  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/content-management-system/))
+- **[b2b-wholesale-marketplace](https://github.com/a2rp/b2b-wholesale-marketplace)** - A wholesale sourcing workspace for comparing suppliers, requesting quotes, and tracking bulk orders.
+  <br>
+  <a href="https://github.com/a2rp/b2b-wholesale-marketplace"><img src="https://raw.githubusercontent.com/a2rp/b2b-wholesale-marketplace/main/screenshot.png" alt="Preview of b2b-wholesale-marketplace" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/b2b-wholesale-marketplace/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
