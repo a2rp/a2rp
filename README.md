@@ -9,12 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
+- **[passion4profession-refactored](https://github.com/a2rp/passion4profession-refactored)** - A refactored archive of beginner-friendly computing notes, reorganized into clear, route-based learning pages.
+  <br>
+  <a href="https://github.com/a2rp/passion4profession-refactored"><img src="https://raw.githubusercontent.com/a2rp/passion4profession-refactored/main/screenshot.jpg" alt="Preview of passion4profession-refactored" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 14, 2026)
+- **[passion4profession-blog](https://github.com/a2rp/passion4profession-blog)** - A technical writing blog with practical articles, structured notes, and learning resources across computing and software.
+  <br>
+  <a href="https://github.com/a2rp/passion4profession-blog"><img src="https://raw.githubusercontent.com/a2rp/passion4profession-blog/main/screenshot.jpg" alt="Preview of passion4profession-blog" width="480"></a>
+  <br>
+  (`JavaScript` · Updated October 14, 2026 · [Live demo](https://a2rp.github.io/passion4profession-blog/))
 - **[sales-quoting-cpq](https://github.com/a2rp/sales-quoting-cpq)** - Frontend-only CPQ workspace for configuring quotes, reviewing pricing, and managing approvals.
   (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/sales-quoting-cpq/))
-- **[marketing-automation](https://github.com/a2rp/marketing-automation)** - Frontend-only marketing workspace for customer journeys, campaigns, and audience segments.
-  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/marketing-automation/))
-- **[ecommerce-storefront](https://github.com/a2rp/ecommerce-storefront)** - A frontend-only small-batch homewares storefront demo with product discovery, cart, and sample checkout.
-  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/ecommerce-storefront/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
