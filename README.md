@@ -13,7 +13,7 @@ I build React applications, secure APIs, and practical developer tools with Node
   <br>
   <a href="https://github.com/a2rp/passion4profession-refactored"><img src="https://raw.githubusercontent.com/a2rp/passion4profession-refactored/main/screenshot.jpg" alt="Preview of passion4profession-refactored" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 14, 2026)
+  (`JavaScript` · Updated October 15, 2026)
 - **[passion4profession-blog](https://github.com/a2rp/passion4profession-blog)** - A technical writing blog with practical articles, structured notes, and learning resources across computing and software.
   <br>
   <a href="https://github.com/a2rp/passion4profession-blog"><img src="https://raw.githubusercontent.com/a2rp/passion4profession-blog/main/screenshot.jpg" alt="Preview of passion4profession-blog" width="480"></a>
