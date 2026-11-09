@@ -9,18 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[passion4profession-refactored](https://github.com/a2rp/passion4profession-refactored)** - A searchable archive of beginner-friendly computing guides, notes, and practical references from Passion4Profession.
+- **[clinic-management-system](https://github.com/a2rp/clinic-management-system)** - Frontend-only clinic operations demo with fictional data for appointment scheduling, patient records, clinician shifts, and visit workflows.
   <br>
-  <a href="https://github.com/a2rp/passion4profession-refactored"><img src="https://raw.githubusercontent.com/a2rp/passion4profession-refactored/main/screenshot.png" alt="Preview of passion4profession-refactored" width="480"></a>
+  <a href="https://github.com/a2rp/clinic-management-system"><img src="https://raw.githubusercontent.com/a2rp/clinic-management-system/main/screenshot.png" alt="Preview of clinic-management-system" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 15, 2026 · [Live demo](https://passion4profession-refactored.vercel.app/))
-- **[passion4profession-blog](https://github.com/a2rp/passion4profession-blog)** - A technical writing blog with practical articles, structured notes, and learning resources across computing and software.
+  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/clinic-management-system/))
+- **[cinematic-carousel-ui](https://github.com/a2rp/cinematic-carousel-ui)** - Responsive cinematic carousel UI with autoplay, keyboard and swipe navigation, reduced-motion support, and an accessible developer details dialog.
   <br>
-  <a href="https://github.com/a2rp/passion4profession-blog"><img src="https://raw.githubusercontent.com/a2rp/passion4profession-blog/main/screenshot.png" alt="Preview of passion4profession-blog" width="480"></a>
+  <a href="https://github.com/a2rp/cinematic-carousel-ui"><img src="https://raw.githubusercontent.com/a2rp/cinematic-carousel-ui/main/preview.png" alt="Preview of cinematic-carousel-ui" width="480"></a>
   <br>
-  (`JavaScript` · Updated October 15, 2026 · [Live demo](https://a2rp.github.io/passion4profession-blog/))
-- **[sales-quoting-cpq](https://github.com/a2rp/sales-quoting-cpq)** - Frontend-only CPQ workspace for configuring quotes, reviewing pricing, and managing approvals.
-  (`JavaScript` · Updated October 13, 2026 · [Live demo](https://a2rp.github.io/sales-quoting-cpq/))
+  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/cinematic-carousel-ui/))
+- **[chakra-ui-showcase](https://github.com/a2rp/chakra-ui-showcase)** - Responsive Chakra UI v3 showcase with accessible, interactive React examples for components, layouts, forms, overlays, navigation, and theming.
+  <br>
+  <a href="https://github.com/a2rp/chakra-ui-showcase"><img src="https://raw.githubusercontent.com/a2rp/chakra-ui-showcase/main/screenshot.png" alt="Preview of chakra-ui-showcase" width="480"></a>
+  <br>
+  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/chakra-ui-showcase/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
