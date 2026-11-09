@@ -9,21 +9,18 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[clinic-management-system](https://github.com/a2rp/clinic-management-system)** - Frontend-only clinic operations demo with fictional data for appointment scheduling, patient records, clinician shifts, and visit workflows.
+- **[file-storage-service](https://github.com/a2rp/file-storage-service)** - Express/Node.js API for allowlisted local file uploads, MongoDB metadata, filtering, pagination, streaming, downloads, and deletion.
+  (`JavaScript` · Updated November 9, 2026)
+- **[file-size-visualizer](https://github.com/a2rp/file-size-visualizer)** - A privacy-focused browser app for analyzing local file sizes, types, and storage distribution without uploading file contents.
   <br>
-  <a href="https://github.com/a2rp/clinic-management-system"><img src="https://raw.githubusercontent.com/a2rp/clinic-management-system/main/screenshot.png" alt="Preview of clinic-management-system" width="480"></a>
+  <a href="https://github.com/a2rp/file-size-visualizer"><img src="https://raw.githubusercontent.com/a2rp/file-size-visualizer/main/screenshot.png" alt="Preview of file-size-visualizer" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/clinic-management-system/))
-- **[cinematic-carousel-ui](https://github.com/a2rp/cinematic-carousel-ui)** - Responsive cinematic carousel UI with autoplay, keyboard and swipe navigation, reduced-motion support, and an accessible developer details dialog.
+  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/file-size-visualizer/))
+- **[fetch-github-profile](https://github.com/a2rp/fetch-github-profile)** - A responsive React app that searches the GitHub Users API and displays public profiles, account statistics, and profile links.
   <br>
-  <a href="https://github.com/a2rp/cinematic-carousel-ui"><img src="https://raw.githubusercontent.com/a2rp/cinematic-carousel-ui/main/preview.png" alt="Preview of cinematic-carousel-ui" width="480"></a>
+  <a href="https://github.com/a2rp/fetch-github-profile"><img src="https://raw.githubusercontent.com/a2rp/fetch-github-profile/main/screenshot.png" alt="Preview of fetch-github-profile" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/cinematic-carousel-ui/))
-- **[chakra-ui-showcase](https://github.com/a2rp/chakra-ui-showcase)** - Responsive Chakra UI v3 showcase with accessible, interactive React examples for components, layouts, forms, overlays, navigation, and theming.
-  <br>
-  <a href="https://github.com/a2rp/chakra-ui-showcase"><img src="https://raw.githubusercontent.com/a2rp/chakra-ui-showcase/main/screenshot.png" alt="Preview of chakra-ui-showcase" width="480"></a>
-  <br>
-  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/chakra-ui-showcase/))
+  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/fetch-github-profile/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
