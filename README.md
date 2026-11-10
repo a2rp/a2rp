@@ -9,18 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[file-storage-service](https://github.com/a2rp/file-storage-service)** - Express/Node.js API for allowlisted local file uploads, MongoDB metadata, filtering, pagination, streaming, downloads, and deletion.
-  (`JavaScript` · Updated November 9, 2026)
-- **[file-size-visualizer](https://github.com/a2rp/file-size-visualizer)** - A privacy-focused browser app for analyzing local file sizes, types, and storage distribution without uploading file contents.
+- **[mern2](https://github.com/a2rp/mern2)** - A MERN learning app with HttpOnly admin sessions and account-scoped user management.
   <br>
-  <a href="https://github.com/a2rp/file-size-visualizer"><img src="https://raw.githubusercontent.com/a2rp/file-size-visualizer/main/screenshot.png" alt="Preview of file-size-visualizer" width="480"></a>
+  <a href="https://github.com/a2rp/mern2"><img src="https://raw.githubusercontent.com/a2rp/mern2/main/screenshot.png" alt="Preview of mern2" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/file-size-visualizer/))
-- **[fetch-github-profile](https://github.com/a2rp/fetch-github-profile)** - A responsive React app that searches the GitHub Users API and displays public profiles, account statistics, and profile links.
+  (`JavaScript` · Updated November 10, 2026 · [Live demo](https://a2rp.github.io/mern2/))
+- **[memes-generator](https://github.com/a2rp/memes-generator)** - A browser-based meme maker for browsing public Imgflip templates, adding two captions, and exporting PNG images.
   <br>
-  <a href="https://github.com/a2rp/fetch-github-profile"><img src="https://raw.githubusercontent.com/a2rp/fetch-github-profile/main/screenshot.png" alt="Preview of fetch-github-profile" width="480"></a>
+  <a href="https://github.com/a2rp/memes-generator"><img src="https://raw.githubusercontent.com/a2rp/memes-generator/main/screenshot.png" alt="Preview of memes-generator" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 9, 2026 · [Live demo](https://a2rp.github.io/fetch-github-profile/))
+  (`JavaScript` · Updated November 10, 2026 · [Live demo](https://a2rp.github.io/memes-generator/))
+- **[meeting-agenda-builder](https://github.com/a2rp/meeting-agenda-builder)** - A browser-based meeting agenda planner with timed topics, participant notes, a session clock, and local storage.
+  <br>
+  <a href="https://github.com/a2rp/meeting-agenda-builder"><img src="https://raw.githubusercontent.com/a2rp/meeting-agenda-builder/main/screenshot.png" alt="Preview of meeting-agenda-builder" width="480"></a>
+  <br>
+  (`JavaScript` · Updated November 10, 2026 · [Live demo](https://a2rp.github.io/meeting-agenda-builder/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
