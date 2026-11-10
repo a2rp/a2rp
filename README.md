@@ -9,21 +9,12 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[mern2](https://github.com/a2rp/mern2)** - A MERN learning app with HttpOnly admin sessions and account-scoped user management.
-  <br>
-  <a href="https://github.com/a2rp/mern2"><img src="https://raw.githubusercontent.com/a2rp/mern2/main/screenshot.png" alt="Preview of mern2" width="480"></a>
-  <br>
-  (`JavaScript` · Updated November 10, 2026 · [Live demo](https://a2rp.github.io/mern2/))
-- **[memes-generator](https://github.com/a2rp/memes-generator)** - A browser-based meme maker for browsing public Imgflip templates, adding two captions, and exporting PNG images.
-  <br>
-  <a href="https://github.com/a2rp/memes-generator"><img src="https://raw.githubusercontent.com/a2rp/memes-generator/main/screenshot.png" alt="Preview of memes-generator" width="480"></a>
-  <br>
-  (`JavaScript` · Updated November 10, 2026 · [Live demo](https://a2rp.github.io/memes-generator/))
-- **[meeting-agenda-builder](https://github.com/a2rp/meeting-agenda-builder)** - A browser-based meeting agenda planner with timed topics, participant notes, a session clock, and local storage.
-  <br>
-  <a href="https://github.com/a2rp/meeting-agenda-builder"><img src="https://raw.githubusercontent.com/a2rp/meeting-agenda-builder/main/screenshot.png" alt="Preview of meeting-agenda-builder" width="480"></a>
-  <br>
-  (`JavaScript` · Updated November 10, 2026 · [Live demo](https://a2rp.github.io/meeting-agenda-builder/))
+- **[node-mongodb-ejs-authentication-sessions-cookies](https://github.com/a2rp/node-mongodb-ejs-authentication-sessions-cookies)** - Learning demo for Express login and registration with bcrypt hashing, MongoDB-backed sessions, and EJS pages.
+  (`JavaScript` · Updated November 10, 2026)
+- **[node-mongodb-crud](https://github.com/a2rp/node-mongodb-crud)** - A local Express and Mongoose REST API demonstrating paginated MongoDB CRUD with input validation.
+  (`JavaScript` · Updated November 10, 2026)
+- **[nodejs-firestore-crud](https://github.com/a2rp/nodejs-firestore-crud)** - Express API demo using Firebase Admin SDK and Cloud Firestore for user CRUD with environment-based credentials.
+  (`JavaScript` · Updated November 10, 2026)
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
