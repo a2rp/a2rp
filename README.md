@@ -9,21 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[react-mini-apps-suite](https://github.com/a2rp/react-mini-apps-suite)** - Vite collection of React mini apps for productivity, personal tracking, creative tools, and casual games.
+- **[road-trip-planner](https://github.com/a2rp/road-trip-planner)** - Plan a road trip with editable stops, route estimates, and browser-saved fuel cost planning.
   <br>
-  <a href="https://github.com/a2rp/react-mini-apps-suite"><img src="https://raw.githubusercontent.com/a2rp/react-mini-apps-suite/main/screenshot.png" alt="Preview of react-mini-apps-suite" width="480"></a>
+  <a href="https://github.com/a2rp/road-trip-planner"><img src="https://raw.githubusercontent.com/a2rp/road-trip-planner/main/screenshot.png" alt="Preview of road-trip-planner" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/react-mini-apps-suite/))
-- **[reactjs-springboot-mysql-crud-app](https://github.com/a2rp/reactjs-springboot-mysql-crud-app)** - Full-stack employee CRUD app with a React UI, Spring Boot REST API, and MySQL persistence.
+  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/road-trip-planner/))
+- **[responsive-breakpoint-preview](https://github.com/a2rp/responsive-breakpoint-preview)** - Browser-based responsive layout tester with preset and custom viewport sizes for checking bundled pages against breakpoints.
   <br>
-  <a href="https://github.com/a2rp/reactjs-springboot-mysql-crud-app"><img src="https://raw.githubusercontent.com/a2rp/reactjs-springboot-mysql-crud-app/main/screenshot.png" alt="Preview of reactjs-springboot-mysql-crud-app" width="480"></a>
+  <a href="https://github.com/a2rp/responsive-breakpoint-preview"><img src="https://raw.githubusercontent.com/a2rp/responsive-breakpoint-preview/main/screenshot.png" alt="Preview of responsive-breakpoint-preview" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/reactjs-springboot-mysql-crud-app/))
-- **[reactjs-razorpay](https://github.com/a2rp/reactjs-razorpay)** - Responsive React demo for Razorpay Checkout test mode with INR amount validation.
+  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/responsive-breakpoint-preview/))
+- **[rental-property-management](https://github.com/a2rp/rental-property-management)** - Frontend-only rental property dashboard for managing properties, leases, rent status, and maintenance workflows with sample portfolio data.
   <br>
-  <a href="https://github.com/a2rp/reactjs-razorpay"><img src="https://raw.githubusercontent.com/a2rp/reactjs-razorpay/main/screenshot.png" alt="Preview of reactjs-razorpay" width="480"></a>
+  <a href="https://github.com/a2rp/rental-property-management"><img src="https://raw.githubusercontent.com/a2rp/rental-property-management/main/screenshot.png" alt="Preview of rental-property-management" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/reactjs-razorpay/))
+  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/rental-property-management/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
