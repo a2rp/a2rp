@@ -9,12 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[node-mongodb-ejs-authentication-sessions-cookies](https://github.com/a2rp/node-mongodb-ejs-authentication-sessions-cookies)** - Learning demo for Express login and registration with bcrypt hashing, MongoDB-backed sessions, and EJS pages.
-  (`JavaScript` · Updated November 10, 2026)
-- **[node-mongodb-crud](https://github.com/a2rp/node-mongodb-crud)** - A local Express and Mongoose REST API demonstrating paginated MongoDB CRUD with input validation.
-  (`JavaScript` · Updated November 10, 2026)
-- **[nodejs-firestore-crud](https://github.com/a2rp/nodejs-firestore-crud)** - Express API demo using Firebase Admin SDK and Cloud Firestore for user CRUD with environment-based credentials.
-  (`JavaScript` · Updated November 10, 2026)
+- **[react-mini-apps-suite](https://github.com/a2rp/react-mini-apps-suite)** - Vite collection of React mini apps for productivity, personal tracking, creative tools, and casual games.
+  <br>
+  <a href="https://github.com/a2rp/react-mini-apps-suite"><img src="https://raw.githubusercontent.com/a2rp/react-mini-apps-suite/main/screenshot.png" alt="Preview of react-mini-apps-suite" width="480"></a>
+  <br>
+  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/react-mini-apps-suite/))
+- **[reactjs-springboot-mysql-crud-app](https://github.com/a2rp/reactjs-springboot-mysql-crud-app)** - Full-stack employee CRUD app with a React UI, Spring Boot REST API, and MySQL persistence.
+  <br>
+  <a href="https://github.com/a2rp/reactjs-springboot-mysql-crud-app"><img src="https://raw.githubusercontent.com/a2rp/reactjs-springboot-mysql-crud-app/main/screenshot.png" alt="Preview of reactjs-springboot-mysql-crud-app" width="480"></a>
+  <br>
+  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/reactjs-springboot-mysql-crud-app/))
+- **[reactjs-razorpay](https://github.com/a2rp/reactjs-razorpay)** - Responsive React demo for Razorpay Checkout test mode with INR amount validation.
+  <br>
+  <a href="https://github.com/a2rp/reactjs-razorpay"><img src="https://raw.githubusercontent.com/a2rp/reactjs-razorpay/main/screenshot.png" alt="Preview of reactjs-razorpay" width="480"></a>
+  <br>
+  (`JavaScript` · Updated November 11, 2026 · [Live demo](https://a2rp.github.io/reactjs-razorpay/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
