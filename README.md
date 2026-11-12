@@ -9,21 +9,21 @@ I build React applications, secure APIs, and practical developer tools with Node
 ## Latest projects
 
 <!-- BEGIN LATEST-PROJECTS -->
-- **[blood-bank](https://github.com/a2rp/blood-bank)** - Local-only blood donor directory demo with searchable sample records, donor registration, and browser-based contact management.
+- **[html-core-notes](https://github.com/a2rp/html-core-notes)** - A searchable HTML reference with practical notes on structure, semantics, forms, accessibility, media, metadata, performance, and security.
   <br>
-  <a href="https://github.com/a2rp/blood-bank"><img src="https://raw.githubusercontent.com/a2rp/blood-bank/main/screenshot.png" alt="Preview of blood-bank" width="480"></a>
+  <a href="https://github.com/a2rp/html-core-notes"><img src="https://raw.githubusercontent.com/a2rp/html-core-notes/main/screenshot.jpg" alt="Preview of html-core-notes" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 12, 2026)
-- **[blog](https://github.com/a2rp/blog)** - Searchable technology journal with practical, no-jargon articles on software, the internet, privacy, and digital life.
+  (`JavaScript` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/html-core-notes/))
+- **[html-colors](https://github.com/a2rp/html-colors)** - Explore 148 CSS named colors, adjust RGB channels, and copy exact color names plus RGB, HEX, and HSL values.
   <br>
-  <a href="https://github.com/a2rp/blog"><img src="https://raw.githubusercontent.com/a2rp/blog/main/screenshot.png" alt="Preview of blog" width="480"></a>
+  <a href="https://github.com/a2rp/html-colors"><img src="https://raw.githubusercontent.com/a2rp/html-colors/main/screenshot.png" alt="Preview of html-colors" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/blog))
-- **[basic-reactjs-hello-app](https://github.com/a2rp/basic-reactjs-hello-app)** - React and Vite starter app with a friendly greeting and live local date, time, and time zone display.
+  (`JavaScript` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/html-colors/))
+- **[html-canvas-rain-animation](https://github.com/a2rp/html-canvas-rain-animation)** - A responsive HTML canvas rain animation with particle controls, reduced-motion support, and a lightweight static interface.
   <br>
-  <a href="https://github.com/a2rp/basic-reactjs-hello-app"><img src="https://raw.githubusercontent.com/a2rp/basic-reactjs-hello-app/main/screenshot.png" alt="Preview of basic-reactjs-hello-app" width="480"></a>
+  <a href="https://github.com/a2rp/html-canvas-rain-animation"><img src="https://raw.githubusercontent.com/a2rp/html-canvas-rain-animation/main/screenshot.png" alt="Preview of html-canvas-rain-animation" width="480"></a>
   <br>
-  (`JavaScript` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/basic-reactjs-hello-app/))
+  (`HTML` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/html-canvas-rain-animation/))
 <!-- END LATEST-PROJECTS -->
 
 ## Tech stack
