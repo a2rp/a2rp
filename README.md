@@ -10,7 +10,6 @@ I build React applications, secure APIs, and practical developer tools with Node
 | --- | --- |
 | 🌐 Portfolio | [ashishranjan.net](https://www.ashishranjan.net/) |
 | 🐙 GitHub profile | [github.com/a2rp](https://github.com/a2rp) |
-| 📂 Public repositories | [Browse repositories](https://github.com/a2rp?tab=repositories) |
 | 📄 Resume | [Download PDF](https://github.com/a2rp/resume/releases/latest/download/Ashish_Ranjan_Resume.pdf) |
 | 💼 LinkedIn | [linkedin.com/in/aashishranjan](https://www.linkedin.com/in/aashishranjan) |
 | 📘 Facebook | [facebook.com/theash.ashish](https://www.facebook.com/theash.ashish/) |
