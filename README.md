@@ -4,9 +4,7 @@
 
 I build React applications, secure APIs, and practical developer tools with Node.js, Express, and MongoDB.
 
-## All My Links
-
-### Personal
+## Personal
 
 | Text | Link |
 | --- | --- |
@@ -20,7 +18,7 @@ I build React applications, secure APIs, and practical developer tools with Node
 | 🖋️ CodePen | [codepen.io/ash1198](https://codepen.io/ash1198) |
 | ✉️ Email | [ash.ranjan09@gmail.com](mailto:ash.ranjan09@gmail.com) |
 
-### Support
+## Support
 
 | Text | Link |
 | --- | --- |
