@@ -4,7 +4,29 @@
 
 I build React applications, secure APIs, and practical developer tools with Node.js, Express, and MongoDB.
 
-[Portfolio](https://www.ashishranjan.net) · [Resume](https://github.com/a2rp/resume/releases/latest/download/Ashish_Ranjan_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/aashishranjan/) · [Email](mailto:ash.ranjan09@gmail.com)
+## All My Links
+
+### Personal
+
+| Text | Link |
+| --- | --- |
+| 🌐 Portfolio | [ashishranjan.net](https://www.ashishranjan.net/) |
+| 🐙 GitHub profile | [github.com/a2rp](https://github.com/a2rp) |
+| 📂 Public repositories | [Browse repositories](https://github.com/a2rp?tab=repositories) |
+| 📄 Resume | [Download PDF](https://github.com/a2rp/resume/releases/latest/download/Ashish_Ranjan_Resume.pdf) |
+| 💼 LinkedIn | [linkedin.com/in/aashishranjan](https://www.linkedin.com/in/aashishranjan) |
+| 📘 Facebook | [facebook.com/theash.ashish](https://www.facebook.com/theash.ashish/) |
+| ▶️ YouTube | [youtube.com/@ashishranjan-ashz](https://www.youtube.com/@ashishranjan-ashz) |
+| 🖋️ CodePen | [codepen.io/ash1198](https://codepen.io/ash1198) |
+| ✉️ Email | [ash.ranjan09@gmail.com](mailto:ash.ranjan09@gmail.com) |
+
+### Support
+
+| Text | Link |
+| --- | --- |
+| ❤️ Support page | [Visit support page](https://a2rp-donation-page.netlify.app/) |
+| ☕ Buy Me a Coffee | [buymeacoffee.com/a2rp](https://buymeacoffee.com/a2rp) |
+| 🎗️ Patreon | [patreon.com/a2rp](https://www.patreon.com/a2rp) |
 
 ## Latest projects
 
@@ -48,11 +70,3 @@ I build React applications, secure APIs, and practical developer tools with Node
 [![Your Body May Be Telling You Something | #shorts #education](https://ytcards.demolab.com/?id=vkk2znyDJQ4&title=Your+Body+May+Be+Telling+You+Something+%7C+%23shorts+%23education&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23b3b3b3&max_title_lines=2&width=360&border_radius=10&timestamp=1776612633 "Your Body May Be Telling You Something | #shorts #education")](https://www.youtube.com/shorts/vkk2znyDJQ4)
 <!-- END YOUTUBE-SHORTS -->
 
-[More videos](https://www.youtube.com/@ashishranjan-ashz) · [CodePen](https://codepen.io/ash1198)
-
-<details>
-<summary>More links & support</summary>
-
-[Facebook](https://www.facebook.com/theash.ashish/) · [Support my work](https://a2rp-donation-page.netlify.app/) · [Buy Me a Coffee](https://buymeacoffee.com/a2rp) · [Patreon](https://www.patreon.com/a2rp)
-
-</details>
