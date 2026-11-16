@@ -26,26 +26,6 @@ I build React applications, secure APIs, and practical developer tools with Node
 | ☕ Buy Me a Coffee | [buymeacoffee.com/a2rp](https://buymeacoffee.com/a2rp) |
 | 🎗️ Patreon | [patreon.com/a2rp](https://www.patreon.com/a2rp) |
 
-## Latest projects
-
-<!-- BEGIN LATEST-PROJECTS -->
-- **[html-core-notes](https://github.com/a2rp/html-core-notes)** - A searchable HTML reference with practical notes on structure, semantics, forms, accessibility, media, metadata, performance, and security.
-  <br>
-  <a href="https://github.com/a2rp/html-core-notes"><img src="https://raw.githubusercontent.com/a2rp/html-core-notes/main/screenshot.jpg" alt="Preview of html-core-notes" width="480"></a>
-  <br>
-  (`JavaScript` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/html-core-notes/))
-- **[html-colors](https://github.com/a2rp/html-colors)** - Explore 148 CSS named colors, adjust RGB channels, and copy exact color names plus RGB, HEX, and HSL values.
-  <br>
-  <a href="https://github.com/a2rp/html-colors"><img src="https://raw.githubusercontent.com/a2rp/html-colors/main/screenshot.png" alt="Preview of html-colors" width="480"></a>
-  <br>
-  (`JavaScript` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/html-colors/))
-- **[html-canvas-rain-animation](https://github.com/a2rp/html-canvas-rain-animation)** - A responsive HTML canvas rain animation with particle controls, reduced-motion support, and a lightweight static interface.
-  <br>
-  <a href="https://github.com/a2rp/html-canvas-rain-animation"><img src="https://raw.githubusercontent.com/a2rp/html-canvas-rain-animation/main/screenshot.png" alt="Preview of html-canvas-rain-animation" width="480"></a>
-  <br>
-  (`HTML` · Updated November 12, 2026 · [Live demo](https://a2rp.github.io/html-canvas-rain-animation/))
-<!-- END LATEST-PROJECTS -->
-
 ## Tech stack
 
 - **Frontend:** React · JavaScript · Vite · styled-components · Material UI
