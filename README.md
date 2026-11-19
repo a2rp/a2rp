@@ -28,6 +28,6 @@ I build practical React apps and secure APIs with Node.js, Express, and MongoDB.
 
 ### UPI
 
-<img src="./assets/upi-qr.png" alt="Scan to pay Ashish Ranjan via UPI" width="260">
+<img src="./assets/upi-qr.jpeg" alt="Scan to pay Ashish Ranjan via UPI" width="260">
 
 **UPI ID:** `ash.ranjan09-1@okhdfcbank`
