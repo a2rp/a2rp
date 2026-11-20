@@ -1,6 +1,11 @@
 # Ashish Ranjan
 
-**Full-Stack Developer**
+<table width="100%">
+  <tr>
+    <td align="left"><strong>Full-Stack Developer</strong></td>
+    <td align="right"><a href="https://a2rp.github.io/resume/"><strong>View Resume →</strong></a></td>
+  </tr>
+</table>
 
 I build practical React apps and secure APIs with Node.js, Express, and MongoDB. Based in Bengaluru, India; always learning.
 
@@ -16,7 +21,6 @@ I build practical React apps and secure APIs with Node.js, Express, and MongoDB.
           <tr><td>🌐 Portfolio</td><td><a href="https://www.ashishranjan.net/">ashishranjan.net</a></td></tr>
           <tr><td>🐙 GitHub</td><td><a href="https://github.com/a2rp">github.com/a2rp</a></td></tr>
           <tr><td>📂 Public repositories</td><td><a href="https://github.com/a2rp?tab=repositories">Browse repositories</a></td></tr>
-          <tr><td>📄 Resume</td><td><a href="https://a2rp.github.io/resume/">Resume website</a></td></tr>
           <tr><td>💼 LinkedIn</td><td><a href="https://www.linkedin.com/in/aashishranjan">linkedin.com/in/aashishranjan</a></td></tr>
           <tr><td>📘 Facebook</td><td><a href="https://www.facebook.com/theash.ashish/">facebook.com/theash.ashish</a></td></tr>
           <tr><td>▶️ YouTube</td><td><a href="https://www.youtube.com/@ashishranjan-ashz">youtube.com/@ashishranjan-ashz</a></td></tr>
